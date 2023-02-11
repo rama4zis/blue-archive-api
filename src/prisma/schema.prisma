@@ -1,0 +1,36 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Character {
+  id        Int      @id @default(autoincrement())
+  name      String
+  rarity    Int
+  isLimited Boolean
+  school    String
+  role      String
+  position  String
+  attackType String
+  armorType String
+  combatClass String
+  weaponType String
+  usesCover Boolean
+
+  urban String
+  outdoor String
+  indoor String
+
+  releaseDate DateTime
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  deletedAt DateTime?
+}
