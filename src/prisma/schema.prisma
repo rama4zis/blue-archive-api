@@ -2,35 +2,37 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  previewFeatures = ["referentialIntegrity"]
 }
 
 datasource db {
-  provider = "mysql"
-  url      = env("DATABASE_URL")
+  provider             = "mysql"
+  url                  = env("DATABASE_URL")
+  referentialIntegrity = "prisma"
 }
 
-model Character {
-  id        Int      @id @default(autoincrement())
-  name      String
-  rarity    Int
-  isLimited Boolean
-  school    String
-  role      String
-  position  String
-  attackType String
-  armorType String
+model Student {
+  id          Int     @id @default(autoincrement())
+  name        String
+  rarity      Int
+  isLimited   Boolean
+  school      String
+  role        String
+  position    String
+  attackType  String
+  armorType   String
   combatClass String
-  weaponType String
-  usesCover Boolean
+  weaponType  String
+  usesCover   Boolean
 
-  urban String
+  urban   String
   outdoor String
-  indoor String
+  indoor  String
 
-  releaseDate DateTime
+  releaseDate String
 
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
   deletedAt DateTime?
 }
