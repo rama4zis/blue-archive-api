@@ -26,13 +26,32 @@ model Student {
   weaponType  String
   usesCover   Boolean
 
+  detailStudent DetailStudent?
+
   urban   String
   outdoor String
   indoor  String
 
   releaseDate String
 
+  image String
+
   createdAt DateTime  @default(now())
   updatedAt DateTime  @updatedAt
   deletedAt DateTime?
+}
+
+model DetailStudent {
+  id Int @id @default(autoincrement())
+  japaneseName String
+  japaneseReadings String
+  age Int
+  birthday String
+  height String
+  hobbies String
+  voiceActor String
+  releaseDate String
+
+  student Student @relation(fields: [studentId], references: [id])
+  studentId Int @unique
 }
