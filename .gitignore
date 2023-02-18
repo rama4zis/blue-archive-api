@@ -3,4 +3,3 @@ node_modules
 .env
 test.txt
 data/
-!assets/*
