@@ -1,0 +1,28 @@
+{
+  "name": "Serika",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Abydos",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "A",
+  "outdoor": "D",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Serika",
+    "japaneseName": "黒見 セリカ",
+    "japaneseReading": "Kuromi Serika",
+    "school": "Abydos",
+    "age": "15",
+    "birthday": "06/25/2023",
+    "height": "153cm",
+    "hobbies": "Saving money, working part-time",
+    "voicedActor": "Ōhashi Ayaka",
+    "releaseDate": "02/04/2021"
+  }
+}

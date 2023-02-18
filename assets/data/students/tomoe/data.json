@@ -1,0 +1,28 @@
+{
+  "name": "Tomoe",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Red Winter",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "C",
+  "outdoor": "B",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Tomoe",
+    "japaneseName": "佐城 トモエ",
+    "japaneseReading": "Sashiro Tomoe",
+    "school": "Red Winter",
+    "age": "17",
+    "birthday": "11/10/2023",
+    "height": "165cm",
+    "hobbies": "Agitation",
+    "voicedActor": "Nanami Atsugi",
+    "releaseDate": "11/30/2021"
+  }
+}

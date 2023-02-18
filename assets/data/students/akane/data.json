@@ -1,0 +1,28 @@
+{
+  "name": "Akane",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "HG",
+  "usesCover": true,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Akane",
+    "japaneseName": "室笠 アカネ",
+    "japaneseReading": "Murokasa Akane",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "04/01/2023",
+    "height": "164cm",
+    "hobbies": "Cleaning",
+    "voicedActor": "Hara Yumi",
+    "releaseDate": "02/04/2021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Iroha",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Tactical Support",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Iroha",
+    "japaneseName": "棗 イロハ",
+    "japaneseReading": "Natsume Iroha",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "11/16/2023",
+    "height": "151cm",
+    "hobbies": "Reading, skipping classes",
+    "voicedActor": "Misato Fukuen",
+    "releaseDate": "04/27/2022"
+  }
+}

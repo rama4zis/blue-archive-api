@@ -1,0 +1,28 @@
+{
+  "name": "Hiyori",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Arius",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "SR",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Hiyori",
+    "japaneseName": "槌永 ヒヨリ",
+    "japaneseReading": "Tsuchinaga Hiyori",
+    "school": "Arius",
+    "age": "16",
+    "birthday": "01/08/2023",
+    "height": "155cm",
+    "hobbies": "Collecting magazines",
+    "voicedActor": "Mai Nakahara",
+    "releaseDate": "05/24/2022"
+  }
+}

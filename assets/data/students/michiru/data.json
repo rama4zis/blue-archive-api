@@ -1,0 +1,28 @@
+{
+  "name": "Michiru",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Hyakkiyako",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Michiru",
+    "japaneseName": "千鳥 ミチル",
+    "japaneseReading": "Chidori Michiru",
+    "school": "Hyakkiyako",
+    "age": "17",
+    "birthday": "02/22/2023",
+    "height": "153cm",
+    "hobbies": "Inventing new ninjutsu and making videos",
+    "voicedActor": "Kaori Mizuhashi",
+    "releaseDate": "04/27/2022"
+  }
+}

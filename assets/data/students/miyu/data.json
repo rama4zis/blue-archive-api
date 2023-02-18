@@ -1,0 +1,28 @@
+{
+  "name": "Miyu",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "SRT",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Miyu",
+    "japaneseName": "霞沢 ミユ",
+    "japaneseReading": "Kasumizawa Miyu",
+    "school": "SRT",
+    "age": "15",
+    "birthday": "07/12/2023",
+    "height": "149cm",
+    "hobbies": "Negative thoughts, escapism, pebbles hunting",
+    "voicedActor": "Yuko Goto",
+    "releaseDate": "04/06/2022"
+  }
+}

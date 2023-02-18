@@ -1,0 +1,28 @@
+{
+  "name": "Haruna (New Year)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Haruna (New Year)",
+    "japaneseName": "黒舘 ハルナ",
+    "japaneseReading": "Kurodate Haruna",
+    "school": "Gehenna",
+    "age": "17",
+    "birthday": "03/01/2023",
+    "height": "163cm",
+    "hobbies": "Looking for delicious things",
+    "voicedActor": "Tadokoro Azusa",
+    "releaseDate": "12/28/2022"
+  }
+}

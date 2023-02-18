@@ -1,0 +1,28 @@
+{
+  "name": "Kaede",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Hyakkiyako",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Kaede",
+    "japaneseName": "勇美 カエデ",
+    "japaneseReading": "Isami Kaede",
+    "school": "Hyakkiyako",
+    "age": "15",
+    "birthday": "07/09/2023",
+    "height": "142cm",
+    "hobbies": "Mischief (she tries to hold back as much as possible), catching beetles",
+    "voicedActor": "Emiri Kato",
+    "releaseDate": "04/27/2022"
+  }
+}

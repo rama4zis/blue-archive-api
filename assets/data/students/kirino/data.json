@@ -1,0 +1,28 @@
+{
+  "name": "Kirino",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Valkyrie",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "HG",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "A",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Kirino",
+    "japaneseName": "中務 キリノ",
+    "japaneseReading": "Nakatsukasa Kirino",
+    "school": "Valkyrie",
+    "age": "15",
+    "birthday": "10/22/2023",
+    "height": "161cm",
+    "hobbies": "Eating on the go",
+    "voicedActor": "Nakajima Yui",
+    "releaseDate": "08/26/2021"
+  }
+}

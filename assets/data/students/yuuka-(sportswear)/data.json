@@ -1,0 +1,28 @@
+{
+  "name": "Yuuka (Sportswear)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Millennium",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Yuuka (Sportswear)",
+    "japaneseName": "早瀬 ユウカ",
+    "japaneseReading": "Hayase Yuuka",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "03/14/2023",
+    "height": "156cm",
+    "hobbies": "Calculating things",
+    "voicedActor": "Haruka Ran",
+    "releaseDate": "10/26/2022"
+  }
+}

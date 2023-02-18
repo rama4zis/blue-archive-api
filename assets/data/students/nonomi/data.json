@@ -1,0 +1,28 @@
+{
+  "name": "Nonomi",
+  "rarity": 2,
+  "isLimited": true,
+  "school": "Abydos",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Nonomi",
+    "japaneseName": "十六夜 ノノミ",
+    "japaneseReading": "Izayoi Nonomi",
+    "school": "Abydos",
+    "age": "16",
+    "birthday": "09/01/2023",
+    "height": "160cm",
+    "hobbies": "Shopping",
+    "voicedActor": "Miura Chiyuki",
+    "releaseDate": "02/04/2021"
+  }
+}

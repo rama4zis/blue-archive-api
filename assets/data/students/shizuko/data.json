@@ -1,0 +1,28 @@
+{
+  "name": "Shizuko",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Hyakkiyako",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Shizuko",
+    "japaneseName": "河和 シズコ",
+    "japaneseReading": "Kawawa Shizuko",
+    "school": "Hyakkiyako",
+    "age": "16",
+    "birthday": "07/07/2023",
+    "height": "153cm",
+    "hobbies": "Serving customers with charm, attracting people into her shop",
+    "voicedActor": "Morigana Chitose",
+    "releaseDate": "02/25/2021"
+  }
+}

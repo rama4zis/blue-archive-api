@@ -1,0 +1,28 @@
+{
+  "name": "Chihiro",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Chihiro",
+    "japaneseName": "各務 チヒロ",
+    "japaneseReading": "Kagami Chihiro",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "04/26/2023",
+    "height": "160cm",
+    "hobbies": "Shopping for electronics",
+    "voicedActor": "Hibiku Yamamura",
+    "releaseDate": "01/30/2022"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Izumi (Swimsuit)",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "A",
+  "indoor": "C",
+  "detailStudent": {
+    "Character": "Izumi (Swimsuit)",
+    "japaneseName": "獅子堂 イズミ",
+    "japaneseReading": "Shishidō Izumi",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "05/11/2023",
+    "height": "161cm",
+    "hobbies": "Making and eating strange foods",
+    "voicedActor": "Kubo Yurika",
+    "releaseDate": "07/29/2021"
+  }
+}

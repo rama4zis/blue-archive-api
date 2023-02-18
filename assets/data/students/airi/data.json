@@ -1,0 +1,28 @@
+{
+  "name": "Airi",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "SMG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "D",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Airi",
+    "japaneseName": "栗村 アイリ",
+    "japaneseReading": "Kurimura Airi",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "01/30/2023",
+    "height": "160cm",
+    "hobbies": "Looking for tasty sweets, tea parties",
+    "voicedActor": "Chikako Sugimura",
+    "releaseDate": "02/04/2021"
+  }
+}

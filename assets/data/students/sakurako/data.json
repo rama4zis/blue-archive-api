@@ -1,0 +1,28 @@
+{
+  "name": "Sakurako",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Sakurako",
+    "japaneseName": "歌住 サクラコ",
+    "japaneseReading": "Utazumi Sakurako",
+    "school": "Trinity",
+    "age": "17",
+    "birthday": "10/04/2023",
+    "height": "160cm",
+    "hobbies": "Prayer",
+    "voicedActor": "Kakuma Ai",
+    "releaseDate": "02/10/2023"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Natsu",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Natsu",
+    "japaneseName": "柚鳥 ナツ",
+    "japaneseReading": "Yutori Natsu",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "12/04/2023",
+    "height": "152cm",
+    "hobbies": "Romantic things, thinking",
+    "voicedActor": "Maria Naganawa",
+    "releaseDate": "10/27/2021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Shizuko (Swimsuit)",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Hyakkiyako",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Shizuko (Swimsuit)",
+    "japaneseName": "河和 シズコ",
+    "japaneseReading": "Kawawa Shizuko",
+    "school": "Hyakkiyako",
+    "age": "16",
+    "birthday": "07/07/2023",
+    "height": "153cm",
+    "hobbies": "Serving customers with charm, attracting people into her shop",
+    "voicedActor": "Morigana Chitose",
+    "releaseDate": "07/20/2022"
+  }
+}

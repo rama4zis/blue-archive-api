@@ -1,0 +1,28 @@
+{
+  "name": "Izumi",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Izumi",
+    "japaneseName": "獅子堂 イズミ",
+    "japaneseReading": "Shishidō Izumi",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "05/11/2023",
+    "height": "161cm",
+    "hobbies": "Making and eating strange foods",
+    "voicedActor": "Kubo Yurika",
+    "releaseDate": "02/04/2021"
+  }
+}

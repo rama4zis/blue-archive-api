@@ -1,0 +1,28 @@
+{
+  "name": "Shigure",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Red Winter",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "GL",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Shigure",
+    "japaneseName": "間宵 シグレ",
+    "japaneseReading": "Mayoi Shigure",
+    "school": "Red Winter",
+    "age": "16",
+    "birthday": "01/22/2023",
+    "height": "156cm",
+    "hobbies": "Making homemade drinks",
+    "voicedActor": "Kawase Maki",
+    "releaseDate": "11/30/2022"
+  }
+}

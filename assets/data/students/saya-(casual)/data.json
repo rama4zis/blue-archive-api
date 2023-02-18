@@ -1,0 +1,28 @@
+{
+  "name": "Saya (Casual)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Shanhaijing",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Saya (Casual)",
+    "japaneseName": "薬子 サヤ",
+    "japaneseReading": "Yakushi Saya",
+    "school": "Shanhaijing",
+    "age": "16",
+    "birthday": "01/03/2023",
+    "height": "149cm",
+    "hobbies": "Research",
+    "voicedActor": "Tamura Yukari",
+    "releaseDate": "09/09/2021"
+  }
+}

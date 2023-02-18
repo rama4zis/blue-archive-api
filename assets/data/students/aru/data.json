@@ -1,0 +1,28 @@
+{
+  "name": "Aru",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Aru",
+    "japaneseName": "陸八魔 アル",
+    "japaneseReading": "Rikuhachima Aru",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "03/12/2023",
+    "height": "160cm",
+    "hobbies": "Studying management",
+    "voicedActor": "Kondō Reina",
+    "releaseDate": "02/04/2021"
+  }
+}

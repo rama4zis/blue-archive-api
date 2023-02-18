@@ -1,0 +1,28 @@
+{
+  "name": "Cherino",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Red Winter",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "HG",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Cherino",
+    "japaneseName": "連河 チェリノ",
+    "japaneseReading": "Renkawa Cherino",
+    "school": "Red Winter",
+    "age": "??",
+    "birthday": "10/27/2023",
+    "height": "128cm",
+    "hobbies": "Purges, snowball fights",
+    "voicedActor": "Sakura Tange",
+    "releaseDate": "04/29/2021"
+  }
+}

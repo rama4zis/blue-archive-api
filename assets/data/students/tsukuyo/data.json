@@ -1,0 +1,28 @@
+{
+  "name": "Tsukuyo",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Hyakkiyako",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Tsukuyo",
+    "japaneseName": "大野 ツクヨ",
+    "japaneseReading": "Ōno Tsukuyo",
+    "school": "Hyakkiyako",
+    "age": "15",
+    "birthday": "04/05/2023",
+    "height": "180cm",
+    "hobbies": "Body replacement technique, holding breath",
+    "voicedActor": "Ayasa Goto",
+    "releaseDate": "05/11/2022"
+  }
+}

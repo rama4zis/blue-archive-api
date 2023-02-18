@@ -1,0 +1,28 @@
+{
+  "name": "Haruka",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "C",
+  "outdoor": "B",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Haruka",
+    "japaneseName": "伊草 ハルカ",
+    "japaneseReading": "Igusa Haruka",
+    "school": "Gehenna",
+    "age": "15",
+    "birthday": "05/13/2023",
+    "height": "157cm",
+    "hobbies": "Growing weeds",
+    "voicedActor": "Ishitobi Erika",
+    "releaseDate": "02/04/2021"
+  }
+}

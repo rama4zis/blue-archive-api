@@ -1,0 +1,28 @@
+{
+  "name": "Hanako",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Healer",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "D",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Hanako",
+    "japaneseName": "浦和 ハナコ",
+    "japaneseReading": "Urawa Hanako",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "01/03/2023",
+    "height": "161cm",
+    "hobbies": "Wandering around",
+    "voicedActor": "Moe Toyota",
+    "releaseDate": "05/27/2021"
+  }
+}

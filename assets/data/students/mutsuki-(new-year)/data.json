@@ -1,0 +1,28 @@
+{
+  "name": "Mutsuki (New Year)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Mutsuki (New Year)",
+    "japaneseName": "浅黄 ムツキ",
+    "japaneseReading": "Asagi Mutsuki",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "07/29/2023",
+    "height": "144cm",
+    "hobbies": "Collecting bombs",
+    "voicedActor": "Ōkubo Rumi",
+    "releaseDate": "12/29/2021"
+  }
+}

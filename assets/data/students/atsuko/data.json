@@ -1,0 +1,28 @@
+{
+  "name": "Atsuko",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Arius",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Atsuko",
+    "japaneseName": "秤 アツコ",
+    "japaneseReading": "Hakari Atsuko",
+    "school": "Arius",
+    "age": "15",
+    "birthday": "01/20/2023",
+    "height": "158cm",
+    "hobbies": "Tending to flowers",
+    "voicedActor": "Hanazawa Kana",
+    "releaseDate": "06/08/2022"
+  }
+}

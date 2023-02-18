@@ -1,0 +1,28 @@
+{
+  "name": "Nonomi (Swimsuit)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Abydos",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Nonomi (Swimsuit)",
+    "japaneseName": "十六夜 ノノミ",
+    "japaneseReading": "Izayoi Nonomi",
+    "school": "Abydos",
+    "age": "16",
+    "birthday": "09/01/2023",
+    "height": "160cm",
+    "hobbies": "Shopping",
+    "voicedActor": "Miura Chiyuki",
+    "releaseDate": "06/22/2022"
+  }
+}

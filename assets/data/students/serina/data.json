@@ -1,0 +1,28 @@
+{
+  "name": "Serina",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Healer",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "C",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Serina",
+    "japaneseName": "鷲見 セリナ",
+    "japaneseReading": "Sumi Serina",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "01/06/2023",
+    "height": "156cm",
+    "hobbies": "Volunteering at hospitals",
+    "voicedActor": "Suzumoto Akiho",
+    "releaseDate": "02/04/2021"
+  }
+}

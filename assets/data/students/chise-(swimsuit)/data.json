@@ -1,0 +1,28 @@
+{
+  "name": "Chise (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Hyakkiyako",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "GL",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Chise (Swimsuit)",
+    "japaneseName": "和楽 チセ",
+    "japaneseReading": "Waraku Chise",
+    "school": "Hyakkiyako",
+    "age": "16",
+    "birthday": "07/13/2023",
+    "height": "159cm",
+    "hobbies": "Haiku",
+    "voicedActor": "Shimamura Yuu",
+    "releaseDate": "07/25/2022"
+  }
+}

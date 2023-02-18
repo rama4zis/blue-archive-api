@@ -1,0 +1,28 @@
+{
+  "name": "Suzumi",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Suzumi",
+    "japaneseName": "守月 スズミ",
+    "japaneseReading": "Morizuki Suzumi",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "08/31/2023",
+    "height": "162cm",
+    "hobbies": "Patrolling, strolling",
+    "voicedActor": "Shamoto Haruka",
+    "releaseDate": "02/04/2021"
+  }
+}

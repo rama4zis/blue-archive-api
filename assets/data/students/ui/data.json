@@ -1,0 +1,28 @@
+{
+  "name": "Ui",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Ui",
+    "japaneseName": "古関 ウイ",
+    "japaneseReading": "Kozeki Ui",
+    "school": "Trinity",
+    "age": "17",
+    "birthday": "04/23/2023",
+    "height": "165cm",
+    "hobbies": "Reading, book management, old book research",
+    "voicedActor": "Saori Goto",
+    "releaseDate": "02/23/2022"
+  }
+}

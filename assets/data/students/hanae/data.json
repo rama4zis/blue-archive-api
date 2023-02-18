@@ -1,0 +1,28 @@
+{
+  "name": "Hanae",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Healer",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "D",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Hanae",
+    "japaneseName": "朝顔 ハナエ",
+    "japaneseReading": "Asagao Hanae",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "05/12/2023",
+    "height": "150cm",
+    "hobbies": "Dance, cheerleading",
+    "voicedActor": "Yūki Kana",
+    "releaseDate": "02/04/2021"
+  }
+}

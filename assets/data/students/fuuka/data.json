@@ -1,0 +1,28 @@
+{
+  "name": "Fuuka",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Healer",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "SMG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Fuuka",
+    "japaneseName": "愛清 フウカ",
+    "japaneseReading": "Aikiyo Fuuka",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "04/30/2023",
+    "height": "159cm",
+    "hobbies": "Home cooking, making bento",
+    "voicedActor": "Fairouz Ai",
+    "releaseDate": "02/04/2021"
+  }
+}

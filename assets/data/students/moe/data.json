@@ -1,0 +1,28 @@
+{
+  "name": "Moe",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "SRT",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Moe",
+    "japaneseName": "風倉 モエ",
+    "japaneseReading": "Kazekura Moe",
+    "school": "SRT",
+    "age": "15",
+    "birthday": "09/13/2023",
+    "height": "163cm",
+    "hobbies": "Fireworks",
+    "voicedActor": "Izawa Shiori",
+    "releaseDate": "08/24/2022"
+  }
+}

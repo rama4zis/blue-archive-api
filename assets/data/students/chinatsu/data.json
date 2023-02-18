@@ -1,0 +1,28 @@
+{
+  "name": "Chinatsu",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Healer",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Chinatsu",
+    "japaneseName": "火宮 チナツ",
+    "japaneseReading": "Hinomiya Chinatsu",
+    "school": "Gehenna",
+    "age": "15",
+    "birthday": "08/22/2023",
+    "height": "159cm",
+    "hobbies": "Reading philosophy books",
+    "voicedActor": "Kouzuki Haruka",
+    "releaseDate": "02/04/2021"
+  }
+}

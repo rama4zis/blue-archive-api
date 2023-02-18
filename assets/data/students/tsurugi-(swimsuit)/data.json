@@ -1,0 +1,28 @@
+{
+  "name": "Tsurugi (Swimsuit)",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "C",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Tsurugi (Swimsuit)",
+    "japaneseName": "剣先 ツルギ",
+    "japaneseReading": "Kenzaki Tsurugi",
+    "school": "Trinity",
+    "age": "17",
+    "birthday": "06/24/2023",
+    "height": "162cm",
+    "hobbies": "Watching movies, reading (romance novels)",
+    "voicedActor": "Kobayashi Yū",
+    "releaseDate": "06/30/2021"
+  }
+}

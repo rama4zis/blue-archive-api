@@ -1,0 +1,28 @@
+{
+  "name": "Azusa",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Azusa",
+    "japaneseName": "白洲 アズサ",
+    "japaneseReading": "Shirasu Azusa",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "12/26/2023",
+    "height": "149cm",
+    "hobbies": "None",
+    "voicedActor": "Risa Taneda",
+    "releaseDate": "05/27/2021"
+  }
+}

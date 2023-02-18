@@ -1,0 +1,28 @@
+{
+  "name": "Karin (Bunny Girl)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Karin (Bunny Girl)",
+    "japaneseName": "角楯 カリン",
+    "japaneseReading": "Kakudate Karin",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "02/02/2023",
+    "height": "170cm",
+    "hobbies": "Cleaning",
+    "voicedActor": "Numakura Manami",
+    "releaseDate": "09/29/2021"
+  }
+}

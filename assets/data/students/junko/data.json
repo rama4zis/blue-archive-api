@@ -1,0 +1,28 @@
+{
+  "name": "Junko",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "A",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Junko",
+    "japaneseName": "赤司 ジュンコ",
+    "japaneseReading": "Akashi Junko",
+    "school": "Gehenna",
+    "age": "15",
+    "birthday": "12/27/2023",
+    "height": "149cm",
+    "hobbies": "Gourmet tour",
+    "voicedActor": "Kanemoto Hisako",
+    "releaseDate": "02/04/2021"
+  }
+}

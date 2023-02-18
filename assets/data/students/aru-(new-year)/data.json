@@ -1,0 +1,28 @@
+{
+  "name": "Aru (New Year)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Aru (New Year)",
+    "japaneseName": "陸八魔 アル",
+    "japaneseReading": "Rikuhachima Aru",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "03/12/2023",
+    "height": "160cm",
+    "hobbies": "Studying management",
+    "voicedActor": "Kondō Reina",
+    "releaseDate": "12/29/2021"
+  }
+}

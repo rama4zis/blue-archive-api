@@ -1,0 +1,28 @@
+{
+  "name": "Yoshimi",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Yoshimi",
+    "japaneseName": "伊原木 ヨシミ",
+    "japaneseReading": "Ibaraki Yoshimi",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "08/29/2023",
+    "height": "146cm",
+    "hobbies": "All kinds of events, touring cafés for limited edition sweets",
+    "voicedActor": "Ayumi Mano",
+    "releaseDate": "02/04/2021"
+  }
+}

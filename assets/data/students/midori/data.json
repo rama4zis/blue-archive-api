@@ -1,0 +1,28 @@
+{
+  "name": "Midori",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Midori",
+    "japaneseName": "才羽 ミドリ",
+    "japaneseReading": "Saiba Midori",
+    "school": "Millennium",
+    "age": "15",
+    "birthday": "12/08/2023",
+    "height": "143cm",
+    "hobbies": "Drawing pictures",
+    "voicedActor": "Takada Yūki",
+    "releaseDate": "04/08/2021"
+  }
+}

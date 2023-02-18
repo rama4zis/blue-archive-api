@@ -1,0 +1,28 @@
+{
+  "name": "Arisu",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "RG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Arisu",
+    "japaneseName": "天童 アリス",
+    "japaneseReading": "Tendou Arisu",
+    "school": "Millennium",
+    "age": "??",
+    "birthday": "03/25/2023",
+    "height": "152cm",
+    "hobbies": "Games (Especially RPGs)",
+    "voicedActor": "Minami Tanaka",
+    "releaseDate": "03/25/2021"
+  }
+}

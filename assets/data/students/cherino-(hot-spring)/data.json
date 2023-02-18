@@ -1,0 +1,28 @@
+{
+  "name": "Cherino (Hot Spring)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Red Winter",
+  "role": "Tactical Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Cherino (Hot Spring)",
+    "japaneseName": "連河 チェリノ",
+    "japaneseReading": "Renkawa Cherino",
+    "school": "Red Winter",
+    "age": "??",
+    "birthday": "10/27/2023",
+    "height": "128cm",
+    "hobbies": "Purges, snowball fights",
+    "voicedActor": "Sakura Tange",
+    "releaseDate": "11/30/2021"
+  }
+}

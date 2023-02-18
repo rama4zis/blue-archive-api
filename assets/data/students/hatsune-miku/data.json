@@ -1,0 +1,28 @@
+{
+  "name": "Hatsune Miku",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "ETC",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "GL",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Hatsune Miku",
+    "japaneseName": "初音 ミク",
+    "japaneseReading": "Hatsune Hatsune Miku",
+    "school": "ETC",
+    "age": "16",
+    "birthday": "08/31/2023",
+    "height": "158cm",
+    "hobbies": "Singing, dancing",
+    "voicedActor": "Saki Fujita",
+    "releaseDate": "11/03/2021"
+  }
+}

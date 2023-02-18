@@ -1,0 +1,28 @@
+{
+  "name": "Hanae (Christmas)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Healer",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Hanae (Christmas)",
+    "japaneseName": "朝顔 ハナエ",
+    "japaneseReading": "Asagao Hanae",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "05/12/2023",
+    "height": "150cm",
+    "hobbies": "Dance, cheerleading",
+    "voicedActor": "Yūki Kana",
+    "releaseDate": "12/14/2022"
+  }
+}

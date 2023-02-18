@@ -1,0 +1,28 @@
+{
+  "name": "Iori",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "C",
+  "outdoor": "C",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Iori",
+    "japaneseName": "銀鏡 イオリ",
+    "japaneseReading": "Shiromi Iori",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "11/08/2023",
+    "height": "157cm",
+    "hobbies": "Patrolling, raising her voice",
+    "voicedActor": "Sakura Ayane",
+    "releaseDate": "02/04/2021"
+  }
+}

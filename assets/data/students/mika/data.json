@@ -1,0 +1,28 @@
+{
+  "name": "Mika",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "A",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Mika",
+    "japaneseName": "聖園 ミカ",
+    "japaneseReading": "Misono Mika",
+    "school": "Trinity",
+    "age": "17",
+    "birthday": "05/08/2023",
+    "height": "157cm",
+    "hobbies": "Chatting, collecting accessories",
+    "voicedActor": "Tōyama Nao",
+    "releaseDate": "01/24/2023"
+  }
+}

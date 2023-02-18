@@ -1,0 +1,28 @@
+{
+  "name": "Mashiro (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "SR",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Mashiro (Swimsuit)",
+    "japaneseName": "静山 マシロ",
+    "japaneseReading": "Shizuyama Mashiro",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "06/05/2023",
+    "height": "155cm",
+    "hobbies": "Climbing to high places, keeping an observation diary",
+    "voicedActor": "Akari Kitō",
+    "releaseDate": "06/30/2021"
+  }
+}

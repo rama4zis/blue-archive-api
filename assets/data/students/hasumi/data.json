@@ -1,0 +1,28 @@
+{
+  "name": "Hasumi",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "A",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Hasumi",
+    "japaneseName": "羽川 ハスミ",
+    "japaneseReading": "Hanekawa Hasumi",
+    "school": "Trinity",
+    "age": "17",
+    "birthday": "12/12/2023",
+    "height": "179cm",
+    "hobbies": "Reading, watching people",
+    "voicedActor": "Asami Seto",
+    "releaseDate": "02/04/2021"
+  }
+}

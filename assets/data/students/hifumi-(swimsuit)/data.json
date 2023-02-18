@@ -1,0 +1,28 @@
+{
+  "name": "Hifumi (Swimsuit)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Tactical Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Hifumi (Swimsuit)",
+    "japaneseName": "阿慈谷 ヒフミ",
+    "japaneseReading": "Ajitani Hifumi",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "11/27/2023",
+    "height": "158cm",
+    "hobbies": "Collecting Peroro goods, collecting cute things, shopping, giving advice",
+    "voicedActor": "Hondo Kaede",
+    "releaseDate": "07/15/2021"
+  }
+}

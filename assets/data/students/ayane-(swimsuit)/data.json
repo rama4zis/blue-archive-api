@@ -1,0 +1,28 @@
+{
+  "name": "Ayane (Swimsuit)",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Abydos",
+  "role": "Tactical Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "C",
+  "outdoor": "A",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Ayane (Swimsuit)",
+    "japaneseName": "奥空 アヤネ",
+    "japaneseReading": "Okusora Ayane",
+    "school": "Abydos",
+    "age": "15",
+    "birthday": "11/12/2023",
+    "height": "153cm",
+    "hobbies": "Keeping the accounts, collecting antiques",
+    "voicedActor": "Harada Sayaka",
+    "releaseDate": "06/22/2022"
+  }
+}

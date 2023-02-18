@@ -1,0 +1,28 @@
+{
+  "name": "Yuuka",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Yuuka",
+    "japaneseName": "早瀬 ユウカ",
+    "japaneseReading": "Hayase Yuuka",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "03/14/2023",
+    "height": "156cm",
+    "hobbies": "Calculating things",
+    "voicedActor": "Haruka Ran",
+    "releaseDate": "02/04/2021"
+  }
+}

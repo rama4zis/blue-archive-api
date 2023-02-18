@@ -1,0 +1,28 @@
+{
+  "name": "Iori (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Iori (Swimsuit)",
+    "japaneseName": "銀鏡 イオリ",
+    "japaneseReading": "Shiromi Iori",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "11/08/2023",
+    "height": "157cm",
+    "hobbies": "Patrolling, raising her voice",
+    "voicedActor": "Sakura Ayane",
+    "releaseDate": "07/29/2021"
+  }
+}

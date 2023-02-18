@@ -1,0 +1,28 @@
+{
+  "name": "Kazusa",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Kazusa",
+    "japaneseName": "杏山 カズサ",
+    "japaneseReading": "Kyoyama Kazusa",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "08/05/2023",
+    "height": "155cm",
+    "hobbies": "Eating \"regular\" sweets",
+    "voicedActor": "Natsuyoshi Yuuko",
+    "releaseDate": "08/24/2022"
+  }
+}

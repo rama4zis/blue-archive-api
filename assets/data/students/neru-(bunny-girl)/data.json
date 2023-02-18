@@ -1,0 +1,28 @@
+{
+  "name": "Neru (Bunny Girl)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Millennium",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Neru (Bunny Girl)",
+    "japaneseName": "美甘 ネル",
+    "japaneseReading": "Mikamo Neru",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "08/17/2023",
+    "height": "146cm",
+    "hobbies": "Winning",
+    "voicedActor": "Koshimizu Ami",
+    "releaseDate": "09/29/2021"
+  }
+}

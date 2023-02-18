@@ -1,0 +1,28 @@
+{
+  "name": "Hibiki (Cheerleader)",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MT",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "C",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Hibiki (Cheerleader)",
+    "japaneseName": "猫塚 ヒビキ",
+    "japaneseReading": "Nekozuka Hibiki",
+    "school": "Millennium",
+    "age": "15",
+    "birthday": "04/02/2023",
+    "height": "154cm",
+    "hobbies": "Shopping, cosplay",
+    "voicedActor": "Nazuka Kaori",
+    "releaseDate": "09/28/2022"
+  }
+}

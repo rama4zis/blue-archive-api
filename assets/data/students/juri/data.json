@@ -1,0 +1,28 @@
+{
+  "name": "Juri",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "C",
+  "outdoor": "B",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Juri",
+    "japaneseName": "牛牧 ジュリ",
+    "japaneseReading": "Ushimaki Juri",
+    "school": "Gehenna",
+    "age": "15",
+    "birthday": "10/20/2023",
+    "height": "170cm",
+    "hobbies": "Self-styled culinary research",
+    "voicedActor": "Tanabe Rui",
+    "releaseDate": "02/04/2021"
+  }
+}

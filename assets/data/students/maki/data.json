@@ -1,0 +1,28 @@
+{
+  "name": "Maki",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "C",
+  "outdoor": "S",
+  "indoor": "C",
+  "detailStudent": {
+    "Character": "Maki",
+    "japaneseName": "小塗 マキ",
+    "japaneseReading": "Konuri Maki",
+    "school": "Millennium",
+    "age": "15",
+    "birthday": "08/01/2023",
+    "height": "149cm",
+    "hobbies": "Graffiti, video games",
+    "voicedActor": "Mikami Shiori",
+    "releaseDate": "02/04/2021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Shimiko",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "C",
+  "outdoor": "A",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Shimiko",
+    "japaneseName": "円堂 シミコ",
+    "japaneseReading": "Endō Shimiko",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "11/30/2023",
+    "height": "157cm",
+    "hobbies": "Reading, making bookmarks",
+    "voicedActor": "Tomita Miyu",
+    "releaseDate": "02/04/2021"
+  }
+}

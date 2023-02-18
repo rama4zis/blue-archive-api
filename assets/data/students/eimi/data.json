@@ -1,0 +1,28 @@
+{
+  "name": "Eimi",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Eimi",
+    "japaneseName": "和泉元 エイミ",
+    "japaneseReading": "Izumimoto Eimi",
+    "school": "Millennium",
+    "age": "15",
+    "birthday": "05/01/2023",
+    "height": "167cm",
+    "hobbies": "Zoning out, listening to music",
+    "voicedActor": "Matsunaga Akane",
+    "releaseDate": "02/04/2021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Hare",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Hare",
+    "japaneseName": "小鈎 ハレ",
+    "japaneseReading": "Omagari Hare",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "04/19/2023",
+    "height": "153cm",
+    "hobbies": "Video games, watching movies",
+    "voicedActor": "Kaihara Reina",
+    "releaseDate": "02/04/2021"
+  }
+}

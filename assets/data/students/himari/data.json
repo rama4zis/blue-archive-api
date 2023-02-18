@@ -1,0 +1,28 @@
+{
+  "name": "Himari",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Himari",
+    "japaneseName": "明星 ヒマリ",
+    "japaneseReading": "Akeboshi Himari",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "12/10/2023",
+    "height": "162cm",
+    "hobbies": "Fortune-telling, occult in general",
+    "voicedActor": "ゆかな (Yukana)",
+    "releaseDate": "11/16/2022"
+  }
+}

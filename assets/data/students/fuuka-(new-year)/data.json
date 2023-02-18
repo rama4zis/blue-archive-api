@@ -1,0 +1,28 @@
+{
+  "name": "Fuuka (New Year)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "SMG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Fuuka (New Year)",
+    "japaneseName": "愛清 フウカ",
+    "japaneseReading": "Aikiyo Fuuka",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "04/30/2023",
+    "height": "159cm",
+    "hobbies": "Home cooking, making bento",
+    "voicedActor": "Fairouz Ai",
+    "releaseDate": "12/28/2022"
+  }
+}

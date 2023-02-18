@@ -1,0 +1,28 @@
+{
+  "name": "Chinatsu (Hot Spring)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "HG",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Chinatsu (Hot Spring)",
+    "japaneseName": "火宮 チナツ",
+    "japaneseReading": "Hinomiya Chinatsu",
+    "school": "Gehenna",
+    "age": "15",
+    "birthday": "08/22/2023",
+    "height": "159cm",
+    "hobbies": "Reading philosophy books",
+    "voicedActor": "Kouzuki Haruka",
+    "releaseDate": "11/30/2021"
+  }
+}

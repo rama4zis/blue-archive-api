@@ -1,0 +1,28 @@
+{
+  "name": "Mashiro",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "SR",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Mashiro",
+    "japaneseName": "静山 マシロ",
+    "japaneseReading": "Shizuyama Mashiro",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "06/05/2023",
+    "height": "155cm",
+    "hobbies": "Climbing to high places, keeping an observation diary",
+    "voicedActor": "Kitō Akari",
+    "releaseDate": "02/11/2021"
+  }
+}

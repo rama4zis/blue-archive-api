@@ -1,0 +1,28 @@
+{
+  "name": "Utaha (Cheerleader)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Utaha (Cheerleader)",
+    "japaneseName": "白石 ウタハ",
+    "japaneseReading": "Shiraishi Utaha",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "11/13/2023",
+    "height": "162cm",
+    "hobbies": "Inventing and repairing in general",
+    "voicedActor": "Aochi Nozomi",
+    "releaseDate": "09/28/2022"
+  }
+}

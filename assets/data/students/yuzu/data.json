@@ -1,0 +1,28 @@
+{
+  "name": "Yuzu",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "GL",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Yuzu",
+    "japaneseName": "花岡 ユズ",
+    "japaneseReading": "Hanaoka Yuzu",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "08/12/2023",
+    "height": "150cm",
+    "hobbies": "Making games",
+    "voicedActor": "Momoka Terasawa",
+    "releaseDate": "05/13/2021"
+  }
+}

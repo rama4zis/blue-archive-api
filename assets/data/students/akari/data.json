@@ -1,0 +1,28 @@
+{
+  "name": "Akari",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "A",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Akari",
+    "japaneseName": "鰐渕 アカリ",
+    "japaneseReading": "Wanibuchi Akari",
+    "school": "Gehenna",
+    "age": "17",
+    "birthday": "12/09/2023",
+    "height": "167cm",
+    "hobbies": "Eating a lot",
+    "voicedActor": "Yūka Morishima",
+    "releaseDate": "02/04/2021"
+  }
+}

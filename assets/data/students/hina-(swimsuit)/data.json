@@ -1,0 +1,28 @@
+{
+  "name": "Hina (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Hina (Swimsuit)",
+    "japaneseName": "空崎 ヒナ",
+    "japaneseReading": "Sorasaki Hina",
+    "school": "Gehenna",
+    "age": "17",
+    "birthday": "02/19/2023",
+    "height": "142cm",
+    "hobbies": "Sleeping, resting",
+    "voicedActor": "Hirohashi Ryō",
+    "releaseDate": "07/29/2021"
+  }
+}

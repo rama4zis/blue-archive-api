@@ -1,0 +1,28 @@
+{
+  "name": "Ako",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Ako",
+    "japaneseName": "天雨 アコ",
+    "japaneseReading": "Amau Ako",
+    "school": "Gehenna",
+    "age": "17",
+    "birthday": "12/22/2023",
+    "height": "165cm",
+    "hobbies": "President Hina",
+    "voicedActor": "Kouno Marika",
+    "releaseDate": "11/17/2021"
+  }
+}

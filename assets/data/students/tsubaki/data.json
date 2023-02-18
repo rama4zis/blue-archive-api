@@ -1,0 +1,28 @@
+{
+  "name": "Tsubaki",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Hyakkiyako",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Tsubaki",
+    "japaneseName": "春日 ツバキ",
+    "japaneseReading": "Kasuga Tsubaki",
+    "school": "Hyakkiyako",
+    "age": "16",
+    "birthday": "02/03/2023",
+    "height": "162cm",
+    "hobbies": "Afternoon naps",
+    "voicedActor": "Saho Shirasu",
+    "releaseDate": "02/04/2021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Wakamo (Swimsuit)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Hyakkiyako",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Wakamo (Swimsuit)",
+    "japaneseName": "狐坂 ワカモ",
+    "japaneseReading": "Kosaka Wakamo",
+    "school": "Hyakkiyako",
+    "age": "18",
+    "birthday": "04/03/2023",
+    "height": "161cm",
+    "hobbies": "Destruction, pillaging",
+    "voicedActor": "Chiwa Saito",
+    "releaseDate": "06/22/2022"
+  }
+}

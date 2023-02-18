@@ -1,0 +1,28 @@
+{
+  "name": "Sena",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Tactical Support",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "GL",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "S",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Sena",
+    "japaneseName": "氷室 セナ",
+    "japaneseReading": "Himuro Sena",
+    "school": "Gehenna",
+    "age": "17",
+    "birthday": "04/07/2023",
+    "height": "155cm",
+    "hobbies": "Standing by, preparing medicine",
+    "voicedActor": "Saori Ōnishi",
+    "releaseDate": "01/30/2022"
+  }
+}

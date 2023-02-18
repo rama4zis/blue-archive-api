@@ -1,0 +1,28 @@
+{
+  "name": "Karin",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "SR",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Karin",
+    "japaneseName": "角楯 カリン",
+    "japaneseReading": "Kakudate Karin",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "02/02/2023",
+    "height": "170cm",
+    "hobbies": "Cleaning",
+    "voicedActor": "Numakura Manami",
+    "releaseDate": "02/04/2021"
+  }
+}

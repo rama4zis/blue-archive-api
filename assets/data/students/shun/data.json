@@ -1,0 +1,28 @@
+{
+  "name": "Shun",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Shanhaijing",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Shun",
+    "japaneseName": "春原 シュン",
+    "japaneseReading": "Sunohara Shun",
+    "school": "Shanhaijing",
+    "age": "Top secret",
+    "birthday": "02/05/2023",
+    "height": "174cm",
+    "hobbies": "Playing with children",
+    "voicedActor": "Itou Shizuka",
+    "releaseDate": "02/04/2021"
+  }
+}

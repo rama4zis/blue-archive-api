@@ -1,0 +1,28 @@
+{
+  "name": "Hina",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "C",
+  "indoor": "C",
+  "detailStudent": {
+    "Character": "Hina",
+    "japaneseName": "空崎 ヒナ",
+    "japaneseReading": "Sorasaki Hina",
+    "school": "Gehenna",
+    "age": "17",
+    "birthday": "02/19/2023",
+    "height": "142cm",
+    "hobbies": "Sleeping, resting",
+    "voicedActor": "Hirohashi Ryō",
+    "releaseDate": "02/04/2021"
+  }
+}

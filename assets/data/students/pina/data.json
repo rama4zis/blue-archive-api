@@ -1,0 +1,28 @@
+{
+  "name": "Pina",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Hyakkiyako",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "B",
+  "indoor": "C",
+  "detailStudent": {
+    "Character": "Pina",
+    "japaneseName": "朝比奈 フィーナ",
+    "japaneseReading": "Asahina Pina",
+    "school": "Hyakkiyako",
+    "age": "17",
+    "birthday": "11/03/2023",
+    "height": "165cm",
+    "hobbies": "Watching yakuza movies",
+    "voicedActor": "Kido Ibuki",
+    "releaseDate": "02/04/2021"
+  }
+}

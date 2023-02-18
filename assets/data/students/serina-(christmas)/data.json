@@ -1,0 +1,28 @@
+{
+  "name": "Serina (Christmas)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Serina (Christmas)",
+    "japaneseName": "鷲見 セリナ",
+    "japaneseReading": "Sumi Serina",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "01/06/2023",
+    "height": "156cm",
+    "hobbies": "Volunteering at hospitals",
+    "voicedActor": "Suzumoto Akiho",
+    "releaseDate": "12/14/2022"
+  }
+}

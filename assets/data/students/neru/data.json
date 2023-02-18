@@ -1,0 +1,28 @@
+{
+  "name": "Neru",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Neru",
+    "japaneseName": "美甘 ネル",
+    "japaneseReading": "Mikamo Neru",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "08/17/2023",
+    "height": "146cm",
+    "hobbies": "Winning",
+    "voicedActor": "Koshimizu Ami",
+    "releaseDate": "02/04/2021"
+  }
+}

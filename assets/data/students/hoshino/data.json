@@ -1,0 +1,28 @@
+{
+  "name": "Hoshino",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Abydos",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "S",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Hoshino",
+    "japaneseName": "小鳥遊 ホシノ",
+    "japaneseReading": "Takanashi Hoshino",
+    "school": "Abydos",
+    "age": "17",
+    "birthday": "01/02/2023",
+    "height": "145cm",
+    "hobbies": "Afternoon naps, lazing around",
+    "voicedActor": "Hanamori Yumiri",
+    "releaseDate": "02/04/2021"
+  }
+}

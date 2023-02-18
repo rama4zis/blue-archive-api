@@ -1,0 +1,28 @@
+{
+  "name": "Kayoko",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "HG",
+  "usesCover": true,
+  "urban": "A",
+  "outdoor": "D",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Kayoko",
+    "japaneseName": "鬼方 カヨコ",
+    "japaneseReading": "Onikata Kayoko",
+    "school": "Gehenna",
+    "age": "18",
+    "birthday": "03/17/2023",
+    "height": "157cm",
+    "hobbies": "Collecting CDs",
+    "voicedActor": "Fujī Yukiyo",
+    "releaseDate": "02/04/2021"
+  }
+}

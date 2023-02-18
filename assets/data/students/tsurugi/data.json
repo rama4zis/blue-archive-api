@@ -1,0 +1,28 @@
+{
+  "name": "Tsurugi",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Tsurugi",
+    "japaneseName": "剣先 ツルギ",
+    "japaneseReading": "Kenzaki Tsurugi",
+    "school": "Trinity",
+    "age": "17",
+    "birthday": "06/24/2023",
+    "height": "162cm",
+    "hobbies": "Watching movies, reading (romance novels)",
+    "voicedActor": "Kobayashi Yū",
+    "releaseDate": "02/04/2021"
+  }
+}

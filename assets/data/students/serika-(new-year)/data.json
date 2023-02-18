@@ -1,0 +1,28 @@
+{
+  "name": "Serika (New Year)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Abydos",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "AR",
+  "usesCover": false,
+  "urban": "C",
+  "outdoor": "C",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Serika (New Year)",
+    "japaneseName": "黒見 セリカ",
+    "japaneseReading": "Kuromi Serika",
+    "school": "Abydos",
+    "age": "15",
+    "birthday": "06/25/2023",
+    "height": "153cm",
+    "hobbies": "Saving money, working part-time",
+    "voicedActor": "Ōhashi Ayaka",
+    "releaseDate": "01/12/2022"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Asuna",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Asuna",
+    "japaneseName": "一之瀬 アスナ",
+    "japaneseReading": "Ichinose Asuna",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "03/24/2023",
+    "height": "167cm",
+    "hobbies": "Attacking",
+    "voicedActor": "Hasegawa Ikumi",
+    "releaseDate": "02/04/2021"
+  }
+}

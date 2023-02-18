@@ -1,0 +1,28 @@
+{
+  "name": "Misaki",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Arius",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "RL",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Misaki",
+    "japaneseName": "戒野 ミサキ",
+    "japaneseReading": "Imashino Misaki",
+    "school": "Arius",
+    "age": "16",
+    "birthday": "01/13/2023",
+    "height": "163cm",
+    "hobbies": "Being alone",
+    "voicedActor": "Rio Tsuchiya",
+    "releaseDate": "05/24/2022"
+  }
+}

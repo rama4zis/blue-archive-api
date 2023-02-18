@@ -1,0 +1,28 @@
+{
+  "name": "Azusa (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Trinity",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "C",
+  "outdoor": "C",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Azusa (Swimsuit)",
+    "japaneseName": "白洲 アズサ",
+    "japaneseReading": "Shirasu Azusa",
+    "school": "Trinity",
+    "age": "16",
+    "birthday": "12/26/2023",
+    "height": "149cm",
+    "hobbies": "None",
+    "voicedActor": "Risa Taneda",
+    "releaseDate": "06/30/2021"
+  }
+}

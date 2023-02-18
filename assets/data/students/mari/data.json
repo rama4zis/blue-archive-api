@@ -1,0 +1,28 @@
+{
+  "name": "Mari",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "D",
+  "outdoor": "A",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Mari",
+    "japaneseName": "伊落 マリー",
+    "japaneseReading": "Iochi Mari",
+    "school": "Trinity",
+    "age": "15",
+    "birthday": "09/12/2023",
+    "height": "151cm",
+    "hobbies": "Prayer, thinking",
+    "voicedActor": "Ozawa Ari",
+    "releaseDate": "10/27/2021"
+  }
+}

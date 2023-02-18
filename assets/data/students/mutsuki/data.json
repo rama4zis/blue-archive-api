@@ -1,0 +1,28 @@
+{
+  "name": "Mutsuki",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Mutsuki",
+    "japaneseName": "浅黄 ムツキ",
+    "japaneseReading": "Asagi Mutsuki",
+    "school": "Gehenna",
+    "age": "16",
+    "birthday": "07/29/2023",
+    "height": "144cm",
+    "hobbies": "Collecting bombs",
+    "voicedActor": "Ōkubo Rumi",
+    "releaseDate": "02/04/2021"
+  }
+}

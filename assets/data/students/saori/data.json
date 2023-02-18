@@ -1,0 +1,28 @@
+{
+  "name": "Saori",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Arius",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Saori",
+    "japaneseName": "錠前 サオリ",
+    "japaneseReading": "Jomae Saori",
+    "school": "Arius",
+    "age": "17",
+    "birthday": "09/03/2023",
+    "height": "167cm",
+    "hobbies": "None",
+    "voicedActor": "Ishigami Shizuka",
+    "releaseDate": "08/09/2022"
+  }
+}

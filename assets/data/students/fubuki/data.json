@@ -1,0 +1,28 @@
+{
+  "name": "Fubuki",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Valkyrie",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SR",
+  "usesCover": true,
+  "urban": "A",
+  "outdoor": "B",
+  "indoor": "C",
+  "detailStudent": {
+    "Character": "Fubuki",
+    "japaneseName": "合歓垣 フブキ",
+    "japaneseReading": "Nemugaki Fubuki",
+    "school": "Valkyrie",
+    "age": "15",
+    "birthday": "10/21/2023",
+    "height": "148cm",
+    "hobbies": "Crosswords, radio",
+    "voicedActor": "Emi Hirayama",
+    "releaseDate": "01/26/2022"
+  }
+}

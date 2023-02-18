@@ -1,0 +1,28 @@
+{
+  "name": "Miyako",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "SRT",
+  "role": "Tank",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Miyako",
+    "japaneseName": "月雪 ミヤコ",
+    "japaneseReading": "Tsukiyuki Miyako",
+    "school": "SRT",
+    "age": "15",
+    "birthday": "01/07/2023",
+    "height": "156cm",
+    "hobbies": "Watching animal-related videos",
+    "voicedActor": "Akane Fujita",
+    "releaseDate": "03/23/2022"
+  }
+}

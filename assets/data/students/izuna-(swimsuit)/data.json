@@ -1,0 +1,28 @@
+{
+  "name": "Izuna (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Hyakkiyako",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SMG",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Izuna (Swimsuit)",
+    "japaneseName": "久田 イズナ",
+    "japaneseReading": "Kuda Izuna",
+    "school": "Hyakkiyako",
+    "age": "15",
+    "birthday": "12/16/2023",
+    "height": "155cm",
+    "hobbies": "Studying ninja arts, escorting her master",
+    "voicedActor": "Kana Asumi",
+    "releaseDate": "07/25/2022"
+  }
+}

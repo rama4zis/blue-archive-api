@@ -1,0 +1,28 @@
+{
+  "name": "Saki",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "SRT",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Special",
+  "weaponType": "MG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Saki",
+    "japaneseName": "空井 サキ",
+    "japaneseReading": "Sorai Saki",
+    "school": "SRT",
+    "age": "15",
+    "birthday": "04/09/2023",
+    "height": "161cm",
+    "hobbies": "Firearms maintenance, gathering plants, etc.",
+    "voicedActor": "Akane Tomonaga",
+    "releaseDate": "03/23/2022"
+  }
+}

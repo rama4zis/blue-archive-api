@@ -1,0 +1,28 @@
+{
+  "name": "Hoshino (Swimsuit)",
+  "rarity": 3,
+  "isLimited": true,
+  "school": "Abydos",
+  "role": "Support",
+  "position": "Front",
+  "attackType": "Explosive",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Hoshino (Swimsuit)",
+    "japaneseName": "小鳥遊 ホシノ",
+    "japaneseReading": "Takanashi Hoshino",
+    "school": "Abydos",
+    "age": "17",
+    "birthday": "01/02/2023",
+    "height": "145cm",
+    "hobbies": "Afternoon naps, lazing around",
+    "voicedActor": "Hanamori Yumiri",
+    "releaseDate": "07/20/2022"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Noa",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Support",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "HG",
+  "usesCover": true,
+  "urban": "D",
+  "outdoor": "B",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Noa",
+    "japaneseName": "生塩 ノア",
+    "japaneseReading": "Ushio Noa",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "04/13/2023",
+    "height": "161cm",
+    "hobbies": "Reading, reciting",
+    "voicedActor": "Suzushiro Sayumi",
+    "releaseDate": "09/28/2022"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Hibiki",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "MT",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Hibiki",
+    "japaneseName": "猫塚 ヒビキ",
+    "japaneseReading": "Nekozuka Hibiki",
+    "school": "Millennium",
+    "age": "15",
+    "birthday": "04/02/2023",
+    "height": "154cm",
+    "hobbies": "Shopping, cosplay",
+    "voicedActor": "Nazuka Kaori",
+    "releaseDate": "02/04/2021"
+  }
+}

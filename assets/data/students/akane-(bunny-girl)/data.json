@@ -1,0 +1,28 @@
+{
+  "name": "Akane (Bunny Girl)",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": "us",
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "A",
+  "detailStudent": {
+    "Character": "Akane (Bunny Girl)",
+    "japaneseName": "室笠 アカネ",
+    "japaneseReading": "Murokasa Akane",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "04/01/2023",
+    "height": "164cm",
+    "hobbies": "Cleaning",
+    "voicedActor": "Hara Yumi",
+    "releaseDate": "10/12/2022"
+  }
+}

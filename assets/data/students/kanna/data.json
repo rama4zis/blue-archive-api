@@ -1,0 +1,28 @@
+{
+  "name": "Kanna",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Valkyrie",
+  "role": "Attacker",
+  "position": "Back",
+  "attackType": "Penetration",
+  "armorType": "Heavy",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "S",
+  "outdoor": "D",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Kanna",
+    "japaneseName": "尾刃 カンナ",
+    "japaneseReading": "Ogata Kanna",
+    "school": "Valkyrie",
+    "age": "17",
+    "birthday": "09/07/2023",
+    "height": "166cm",
+    "hobbies": "Reading, watching movies (detectives)",
+    "voicedActor": "Matsuoka Misato",
+    "releaseDate": "01/31/2023"
+  }
+}

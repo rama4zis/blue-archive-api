@@ -1,0 +1,28 @@
+{
+  "name": "Kokona",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Shanhaijing",
+  "role": "Healer",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "S",
+  "outdoor": "B",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Kokona",
+    "japaneseName": "春原 ココナ",
+    "japaneseReading": "Sunohara Kokona",
+    "school": "Shanhaijing",
+    "age": "11",
+    "birthday": "06/01/2023",
+    "height": "139cm",
+    "hobbies": "Reading picture books",
+    "voicedActor": "Igarashi Hiromi",
+    "releaseDate": "09/21/2022"
+  }
+}

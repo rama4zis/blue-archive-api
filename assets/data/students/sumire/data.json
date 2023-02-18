@@ -1,0 +1,28 @@
+{
+  "name": "Sumire",
+  "rarity": 3,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Front",
+  "attackType": "Penetration",
+  "armorType": "Special",
+  "combatClass": "Striker",
+  "weaponType": "SG",
+  "usesCover": false,
+  "urban": "B",
+  "outdoor": "D",
+  "indoor": "S",
+  "detailStudent": {
+    "Character": "Sumire",
+    "japaneseName": "乙花 スミレ",
+    "japaneseReading": "Otohana Sumire",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "08/20/2023",
+    "height": "167cm",
+    "hobbies": "Training, gardening",
+    "voicedActor": "Asami Imai",
+    "releaseDate": "02/04/2021"
+  }
+}

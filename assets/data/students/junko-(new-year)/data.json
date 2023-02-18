@@ -1,0 +1,28 @@
+{
+  "name": "Junko (New Year)",
+  "rarity": 1,
+  "isLimited": true,
+  "school": "Gehenna",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Mystic",
+  "armorType": "Heavy",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "B",
+  "outdoor": "B",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Junko (New Year)",
+    "japaneseName": "赤司 ジュンコ",
+    "japaneseReading": "Akashi Junko",
+    "school": "Gehenna",
+    "age": "15",
+    "birthday": "12/27/2023",
+    "height": "149cm",
+    "hobbies": "Gourmet tour",
+    "voicedActor": "Kanemoto Hisako",
+    "releaseDate": "12/28/2022"
+  }
+}

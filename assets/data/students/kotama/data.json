@@ -1,0 +1,28 @@
+{
+  "name": "Kotama",
+  "rarity": 1,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Support",
+  "position": "Back",
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "HG",
+  "usesCover": false,
+  "urban": "A",
+  "outdoor": "C",
+  "indoor": "B",
+  "detailStudent": {
+    "Character": "Kotama",
+    "japaneseName": "音瀬 コタマ",
+    "japaneseReading": "Otose Kotama",
+    "school": "Millennium",
+    "age": "17",
+    "birthday": "01/05/2023",
+    "height": "158cm",
+    "hobbies": "Radio communication, wiretapping",
+    "voicedActor": "Takagawa Mina",
+    "releaseDate": "02/04/2021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Momoi",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Millennium",
+  "role": "Attacker",
+  "position": "Middle",
+  "attackType": "Penetration",
+  "armorType": "Light",
+  "combatClass": "Striker",
+  "weaponType": "AR",
+  "usesCover": true,
+  "urban": "A",
+  "outdoor": "A",
+  "indoor": "D",
+  "detailStudent": {
+    "Character": "Momoi",
+    "japaneseName": "才羽 モモイ",
+    "japaneseReading": "Saiba Momoi",
+    "school": "Millennium",
+    "age": "15",
+    "birthday": "12/08/2023",
+    "height": "143cm",
+    "hobbies": "Video games",
+    "voicedActor": "Tokui Sora",
+    "releaseDate": "04/08/2021"
+  }
+}
