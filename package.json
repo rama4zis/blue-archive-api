@@ -6,7 +6,8 @@
   "scripts": {
     "start": "nodemon ./dist/index.js",
     "build": "tsc",
-    "dev": "nodemon -r dotenv/config ./src/index.ts"
+    "dev": "nodemon -r dotenv/config ./src/index.ts",
+    "test": "npx ts-node ./src/test.ts"
   },
   "prisma": {
     "schema": "./src/prisma/schema.prisma"
