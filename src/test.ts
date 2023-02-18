@@ -1,18 +1,46 @@
-import fs from 'fs';
+import * as fs from 'fs';
 
-interface MyData {
+const filename = './data/multiple.json';
+
+interface fileStudent {
   name: string;
-  age: number;
+  japaneseName: string;
+  japaneseReading: string;
+  school: string;
+  age: string;
+  birthday: string;
+  height: string;
+  hobbies: string;
+  voicedActor: string;
+  releaseDate: string;
 }
-
-const filename = '../data/student.json';
 
 fs.readFile(filename, 'utf8', (err, data) => {
   if (err) {
-    console.error(err);
-    return;
+      console.error(err);
+      return;
   }
 
-  const myData: MyData = JSON.parse(data);
-  console.log(myData);
+  const students: fileStudent[] = JSON.parse(data);
+
+  // make folder with name 
+  for (const student of students) {
+      const folderName = student.name.toLowerCase().split(' ').join('-');
+
+      // make directory from the name 
+      fs.mkdirSync(`./assets/data/students/${folderName}`);
+
+      // make file data.json
+      fs.writeFileSync(`./assets/data/students/${folderName}/data.json`, JSON.stringify(student));
+  }
+
+  const filterStrudents = students.map((student) => {
+      return {
+          name: student.name,
+          school: student.school,
+      }
+  });
+
+  console.log(filterStrudents);
+
 });
