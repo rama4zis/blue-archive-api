@@ -1,5 +1,8 @@
 import { Request, Response, NextFunction } from 'express';
 import { PrismaClient } from '@prisma/client';
+import * as fs from 'fs';
+
+const filename = './data/multiple.json';
 
 const prisma = new PrismaClient();
 
@@ -139,6 +142,46 @@ class Student {
         }
 
     }
+
+
+    // Test offline file 
+
+    fileStudents(_req: Request, res: Response, _next: NextFunction): void {
+
+        interface fileStudent {
+            Character: string;
+            japaneseName: string;
+            japaneseReading: string;
+            school: string;
+            age: string;
+            birthday: string;
+            height: string;
+            hobbies: string;
+            voicedActor: string;
+            releaseDate: string;
+        }
+
+
+        fs.readFile(filename, 'utf8', (err, data) => {
+            if (err) {
+                console.error(err);
+                return;
+            }
+
+            const students: fileStudent[] = JSON.parse(data);
+            const filterStrudents = students.map((student) => {
+                return {
+                    name: student.Character,
+                    school: student.school,
+                }
+            });
+
+            res.status(200).json(filterStrudents);
+
+        });
+    }
+
+
 
 
 }
