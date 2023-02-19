@@ -1,0 +1,35 @@
+[{
+        "name": "Ayane",
+        "rarity": 2,
+        "isLimited": false,
+        "school": "Abydos",
+        "role": "Healer",
+        "position": "Back",
+        "attackType": "Penetration",
+        "armorType": "Light",
+        "combatClass": "Special",
+        "weaponType": "HG",
+        "usesCover": false,
+        "urban": "D",
+        "outdoor": "A",
+        "indoor": "A",
+        "releaseDate": "02/04/2021"
+    },
+    {
+        "name": "Ayane (Swimsuit)",
+        "rarity": 1,
+        "isLimited": true,
+        "school": "Abydos",
+        "role": "Tactical Support",
+        "position": "Back",
+        "attackType": "Penetration",
+        "armorType": "Light",
+        "combatClass": "Special",
+        "weaponType": "HG",
+        "usesCover": false,
+        "urban": "C",
+        "outdoor": "A",
+        "indoor": "B",
+        "releaseDate": "06/22/2022"
+    }
+]
