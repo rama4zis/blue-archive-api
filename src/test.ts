@@ -2,7 +2,7 @@ import { PrismaClient } from '@prisma/client';
 import * as fs from 'fs';
 
 // const filename = './data/multiple.json';
-const studentsFile = './data/multiple.json';
+const studentsFile = './data/student.json';
 const detailStudentsFile = './data/detailStudent.json';
 
 interface detailStudentType {

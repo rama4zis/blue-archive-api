@@ -1,8 +1,5 @@
 import { Request, Response, NextFunction } from 'express';
 import { PrismaClient } from '@prisma/client';
-import * as fs from 'fs';
-
-const filename = './data/multiple.json';
 
 const prisma = new PrismaClient();
 
@@ -42,9 +39,9 @@ class Student {
 
     async getStudents(req: Request, res: Response, next: NextFunction): Promise<void> {
         try {
-            const skipPage = req.query.page ? Number(req.query.page) * 50 : 0;
+            const page = req.query.page ? Number(req.query.page) * 50 : 0;
             const students = await prisma.student.findMany({
-                skip: skipPage,
+                skip: page,
                 take: 50
             });
 
@@ -147,46 +144,24 @@ class Student {
 
     }
 
+    async deleteStudent(req: Request, res: Response, next: NextFunction): Promise<void> {
+        try {
+            const { id } = req.params;
 
-    // Test offline file 
-
-    fileStudents(_req: Request, res: Response, _next: NextFunction): void {
-
-        interface fileStudent {
-            Character: string;
-            japaneseName: string;
-            japaneseReading: string;
-            school: string;
-            age: string;
-            birthday: string;
-            height: string;
-            hobbies: string;
-            voicedActor: string;
-            releaseDate: string;
-        }
-
-
-        fs.readFile(filename, 'utf8', (err, data) => {
-            if (err) {
-                console.error(err);
-                return;
-            }
-
-            const students: fileStudent[] = JSON.parse(data);
-            const filterStrudents = students.map((student) => {
-                return {
-                    name: student.Character,
-                    school: student.school,
+            const student = await prisma.student.delete({
+                where: {
+                    id: Number(id)
                 }
             });
 
-            res.status(200).json(filterStrudents);
-
-        });
+            res.status(200).json({
+                message: 'Student deleted successfully',
+                student
+            })
+        } catch (error) {
+            next(error);
+        }
     }
-
-
-
 
 }
 

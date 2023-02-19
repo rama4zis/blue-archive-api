@@ -13,17 +13,16 @@
   "urban": "D",
   "outdoor": "A",
   "indoor": "A",
-  "releaseDate": "02/04/2021",
   "detailStudent": {
-    "Character": "Airi",
-    "japaneseName": "栗村 アイリ",
-    "japaneseReading": "Kurimura Airi",
-    "school": "Trinity",
+    "Character": "Ayane",
+    "japaneseName": "奥空 アヤネ",
+    "japaneseReading": "Okusora Ayane",
+    "school": "Abydos",
     "age": "15",
-    "birthday": "01/30/2023",
-    "height": "160cm",
-    "hobbies": "Looking for tasty sweets, tea parties",
-    "voicedActor": "Chikako Sugimura",
+    "birthday": "11/12/2023",
+    "height": "153cm",
+    "hobbies": "Keeping the accounts, collecting antiques",
+    "voicedActor": "Harada Sayaka",
     "releaseDate": "02/04/2021"
   }
 }
