@@ -13,16 +13,17 @@
   "urban": "C",
   "outdoor": "A",
   "indoor": "B",
+  "releaseDate": "06/22/2022",
   "detailStudent": {
-    "Character": "Ayane (Swimsuit)",
-    "japaneseName": "奥空 アヤネ",
-    "japaneseReading": "Okusora Ayane",
-    "school": "Abydos",
-    "age": "15",
-    "birthday": "11/12/2023",
-    "height": "153cm",
-    "hobbies": "Keeping the accounts, collecting antiques",
-    "voicedActor": "Harada Sayaka",
-    "releaseDate": "06/22/2022"
+    "Character": "Akane",
+    "japaneseName": "室笠 アカネ",
+    "japaneseReading": "Murokasa Akane",
+    "school": "Millennium",
+    "age": "16",
+    "birthday": "04/01/2023",
+    "height": "164cm",
+    "hobbies": "Cleaning",
+    "voicedActor": "Hara Yumi",
+    "releaseDate": "02/04/2021"
   }
 }

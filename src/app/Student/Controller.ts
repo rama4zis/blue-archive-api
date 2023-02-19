@@ -40,9 +40,13 @@ interface studentType {
 
 class Student {
 
-    async getStudents(_req: Request, res: Response, next: NextFunction): Promise<void> {
+    async getStudents(req: Request, res: Response, next: NextFunction): Promise<void> {
         try {
-            const students = await prisma.student.findMany();
+            const skipPage = req.query.page ? Number(req.query.page) * 50 : 0;
+            const students = await prisma.student.findMany({
+                skip: skipPage,
+                take: 50
+            });
 
             res.status(200).json(students);
         } catch (error) {
