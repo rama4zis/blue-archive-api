@@ -4,6 +4,10 @@ This is a community API for Blue Archive. It is currently in development and is 
 
 An always up to date version of the API is available at https://blue-archive-api-production.up.railway.app
 
+# Technologies Used
+
+Prisma, MySQL, Node.js, Express, TypeScript, Railway
+
 # Prerequisites
 
 - Node.js: ^12.0.0
