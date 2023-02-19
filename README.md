@@ -8,43 +8,6 @@ An always up to date version of the API is available at https://blue-archive-api
 
 Prisma, MySQL, Node.js, Express, TypeScript, Railway
 
-# Prerequisites
-
-- Node.js: ^12.0.0
-- NPM or any other package manager
-
-# Installation
-
-install packages with your package manager of choice
-
-```bash
-npm install
-```
-
-if you want to have API running on a different port, rename `.env.example` to `.env` and change the port number
-
-# Production
-
-Build the project
-
-```bash
-npm run build
-```
-
-Start the project
-
-```bash
-npm start
-```
-
-# Development
-
-Start the dev server
-
-```bash
-npm run dev
-```
-
 # Usage
 
 ## Student API
