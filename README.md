@@ -2,7 +2,7 @@
 
 This is a community API for Blue Archive. It is currently in development and is not ready for production use.
 
-An always up to date version of the API is available at https://
+An always up to date version of the API is available at https://blue-archive-api-production.up.railway.app
 
 # Prerequisites
 
