@@ -45,7 +45,7 @@ npm run dev
 
 ## Student API
 
-BASE URL: `/api/student`
+BASE URL: `still in development`
 
 ### Get all students
 
