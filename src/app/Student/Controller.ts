@@ -31,8 +31,6 @@ interface studentType {
     urban: string;
     outdoor: string;
     indoor: string;
-
-    image: string;
 }
 
 class Student {
@@ -42,7 +40,8 @@ class Student {
             const page = req.query.page ? Number(req.query.page) * 50 : 0;
             const students = await prisma.student.findMany({
                 skip: page,
-                take: 50
+                take: 50,
+
             });
 
             res.status(200).json(students);
@@ -67,6 +66,61 @@ class Student {
         }
     }
 
+    async searchStudent(req: Request, res: Response, next: NextFunction): Promise<void> {
+
+        try {
+
+            const { name, rarity, isLimited, school, role, position, attackType, armorType, combatClass, weaponType, usesCover, urban, outdoor, indoor } = req.query;
+
+            const students = await prisma.student.findMany({
+                where: {
+                    name: name ? {
+                        contains: name as string
+                    } : undefined,
+                    rarity: rarity ? Number(rarity) : undefined,
+                    isLimited: isLimited ? Boolean(isLimited) : undefined,
+                    school: school ? {
+                        contains: school as string
+                    } : undefined,
+                    role: role ? {
+                        contains: role as string
+                    } : undefined,
+                    position: position ? {
+                        contains: position as string
+                    } : undefined,
+                    attackType: attackType ? {
+                        contains: attackType as string
+                    } : undefined,
+                    armorType: armorType ? {
+                        contains: armorType as string
+                    } : undefined,
+                    combatClass: combatClass ? {
+                        contains: combatClass as string
+                    } : undefined,
+                    weaponType: weaponType ? {
+                        contains: weaponType as string
+                    } : undefined,
+                    usesCover: usesCover ? Boolean(usesCover) : undefined,
+                    urban: urban ? {
+                        contains: urban as string
+                    } : undefined,
+                    outdoor: outdoor ? {
+                        contains: outdoor as string
+                    } : undefined,
+                    indoor: indoor ? {
+                        contains: indoor as string
+                    } : undefined
+                }
+            });
+
+            res.status(200).json(students);
+
+        } catch (error) {
+            next(error);
+        }
+
+    }
+
     async addStudent(req: Request, res: Response, next: NextFunction): Promise<void> {
 
         try {
@@ -86,8 +140,7 @@ class Student {
                 detailStudent: body.detailStudent,
                 urban: body.urban,
                 outdoor: body.outdoor,
-                indoor: body.indoor,
-                image: body.image
+                indoor: body.indoor
             };
 
             const student = await prisma.student.create({
@@ -123,8 +176,7 @@ class Student {
                 detailStudent: body.detailStudent,
                 urban: body.urban,
                 outdoor: body.outdoor,
-                indoor: body.indoor,
-                image: body.image
+                indoor: body.indoor
             };
 
             const student = await prisma.student.update({
