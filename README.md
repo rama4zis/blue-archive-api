@@ -45,7 +45,7 @@ npm run dev
 
 ## Student API
 
-BASE URL: `still in development`
+BASE URL: `blue-archive-api-production.up.railway.app`
 
 ### Get all students
 
