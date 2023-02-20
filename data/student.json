@@ -43,7 +43,7 @@
         "armorType": "Heavy",
         "combatClass": "Special",
         "weaponType": "HG",
-        "usesCover": "us",
+        "usesCover": false,
         "urban": "B",
         "outdoor": "D",
         "indoor": "A",

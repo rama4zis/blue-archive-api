@@ -1,30 +1,14 @@
 import { PrismaClient } from "@prisma/client";
-import fs from 'fs';
-import { detailStudentType, studentType } from './model';
+import { searchForJsonFiles } from "./readAllData";
 
-const studentsFile = './data/student.json';
-const detailStudentsFile = './data/detailStudent.json';
-
-const data1 = fs.readFileSync(studentsFile, 'utf8');
-const data2 = fs.readFileSync(detailStudentsFile, 'utf8');
-
-let rawStudents: studentType[] = JSON.parse(data1);
-let rawDetailStudents: detailStudentType[] = JSON.parse(data2);
-
-for (let i = 0; i < rawStudents.length; i++) {
-  rawStudents[i].detailStudent = rawDetailStudents[i];
-}
+const rawStudents = searchForJsonFiles('./assets/data/students');
 
 // upload data to database  
 const prisma = new PrismaClient();
 
 async function main() {
-  for (const student of rawStudents) {
-    const folderName = student.name.toLowerCase().split(' ').join('-');
 
-    const data = fs.readFileSync(`./assets/data/students/${folderName}/data.json`, 'utf8');
-    const studentData: studentType = JSON.parse(data);
-
+  for (const studentData of rawStudents) {
     const payload = {
       name: studentData.name,
       rarity: studentData.rarity,
@@ -52,12 +36,15 @@ async function main() {
       indoor: studentData.indoor
     };
 
-    const newStudent = await prisma.student.create({
+    const student = await prisma.student.create({
       data: payload
     });
-    console.log('data successfully uploaded to database');
-    console.log(newStudent);
+
+    console.log(student);
   }
+
+  console.log('All data uploaded to database');
+
 }
 
 main()
