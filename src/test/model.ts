@@ -1,4 +1,5 @@
 export interface detailStudentType {
+    Character: string;
     japaneseName: string;
     japaneseReadings: string;
     age: number;

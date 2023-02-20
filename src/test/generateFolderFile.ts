@@ -12,7 +12,17 @@ let rawStudents: studentType[] = JSON.parse(data1);
 let rawDetailStudents: detailStudentType[] = JSON.parse(data2);
 
 for (let i = 0; i < rawStudents.length; i++) {
-  rawStudents[i].detailStudent = rawDetailStudents[i];
+
+  // find by compare "name" with "Character"
+  const detailStudent = rawDetailStudents.find((detailStudent) => {
+    return detailStudent.Character === rawStudents[i].name;
+  });
+
+  // if found, add to student
+  if (detailStudent) {
+    rawStudents[i].detailStudent = detailStudent;
+  }
+
 }
 
 // make folder with name 
