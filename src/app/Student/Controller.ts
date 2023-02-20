@@ -1,37 +1,9 @@
 import { Request, Response, NextFunction } from 'express';
 import { PrismaClient } from '@prisma/client';
 
+import { studentType } from './Model';
+
 const prisma = new PrismaClient();
-
-
-interface studentType {
-    name: string;
-    rarity: number;
-    isLimited: boolean;
-    school: string;
-    role: string;
-    position: string;
-    attackType: string;
-    armorType: string;
-    combatClass: string;
-    weaponType: string;
-    usesCover: boolean;
-
-    detailStudent: {
-        japaneseName: string;
-        japaneseReadings: string;
-        age: number;
-        birthday: string;
-        height: string;
-        hobbies: string;
-        voiceActor: string;
-        releaseDate: string;
-    };
-
-    urban: string;
-    outdoor: string;
-    indoor: string;
-}
 
 class Student {
 
