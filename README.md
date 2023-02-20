@@ -42,8 +42,9 @@ BASE URL: `blue-archive-api-production.up.railway.app`
     "age": "15",
     "height": "160cm",
     "hobbies": "Looking for tasty sweets, tea parties",
-    "birthday": "01/30/2023",
-    "releaseDate": "02/04/2021",
+    "birthday": "January 30",
+    "voiceActor": "Chikako Sugimura",
+    "releaseDate": "2021/02/04",
     "japaneseName": "栗村 アイリ"
   },
   "urban": "A",
@@ -64,29 +65,30 @@ BASE URL: `blue-archive-api-production.up.railway.app`
 
 ```json
 {
-  "id": 10,
-  "name": "Aru (New Year)",
-  "rarity": 3,
-  "isLimited": true,
-  "school": "Gehenna",
-  "role": "Attacker",
+  "id": 1,
+  "name": "Airi",
+  "rarity": 2,
+  "isLimited": false,
+  "school": "Trinity",
+  "role": "Support",
   "position": "Back",
-  "attackType": "Penetration",
-  "armorType": "Special",
-  "combatClass": "Striker",
-  "weaponType": "SR",
-  "usesCover": true,
+  "attackType": "Explosive",
+  "armorType": "Light",
+  "combatClass": "Special",
+  "weaponType": "SMG",
+  "usesCover": false,
   "detailStudent": {
-    "age": "16",
+    "age": "15",
     "height": "160cm",
-    "hobbies": "Studying management",
-    "birthday": "03/12/2023",
-    "releaseDate": "12/29/2021",
-    "japaneseName": "陸八魔 アル"
+    "hobbies": "Looking for tasty sweets, tea parties",
+    "birthday": "January 30",
+    "voiceActor": "Chikako Sugimura",
+    "releaseDate": "2021/02/04",
+    "japaneseName": "栗村 アイリ"
   },
-  "urban": "D",
-  "outdoor": "B",
-  "indoor": "S"
+  "urban": "A",
+  "outdoor": "D",
+  "indoor": "A"
 }
 ```
 
@@ -123,7 +125,7 @@ BASE URL: `blue-archive-api-production.up.railway.app`
 ```json
 [
   {
-    "id": 34,
+    "id": 32,
     "name": "Haruna",
     "rarity": 3,
     "isLimited": false,
@@ -139,8 +141,9 @@ BASE URL: `blue-archive-api-production.up.railway.app`
       "age": "17",
       "height": "163cm",
       "hobbies": "Looking for delicious things",
-      "birthday": "03/01/2023",
-      "releaseDate": "02/04/2021",
+      "birthday": "March 1",
+      "voiceActor": "Tadokoro Azusa",
+      "releaseDate": "2022/12/28",
       "japaneseName": "黒舘 ハルナ"
     },
     "urban": "S",
@@ -148,7 +151,7 @@ BASE URL: `blue-archive-api-production.up.railway.app`
     "indoor": "B"
   },
   {
-    "id": 35,
+    "id": 33,
     "name": "Haruna (New Year)",
     "rarity": 3,
     "isLimited": true,
@@ -164,8 +167,9 @@ BASE URL: `blue-archive-api-production.up.railway.app`
       "age": "17",
       "height": "163cm",
       "hobbies": "Looking for delicious things",
-      "birthday": "03/01/2023",
-      "releaseDate": "12/28/2022",
+      "birthday": "March 1",
+      "voiceActor": "Tadokoro Azusa",
+      "releaseDate": "2021/02/04",
       "japaneseName": "黒舘 ハルナ"
     },
     "urban": "D",
@@ -176,4 +180,3 @@ BASE URL: `blue-archive-api-production.up.railway.app`
 ```
 
 </details>
-
