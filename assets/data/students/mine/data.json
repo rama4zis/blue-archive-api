@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "S",
   "indoor": "D",
+  "releaseDate": "2023/01/11",
   "detailStudent": {
     "Character": "Mine",
     "japaneseName": "蒼森 ミネ",
     "japaneseReading": "Aomori Mine",
     "school": "Trinity",
     "age": "17",
-    "birthday": "11/23/2023",
+    "birthday": "November 23",
     "height": "168cm",
     "hobbies": "Collecting medical supplies",
-    "voicedActor": "Horie Yui",
-    "releaseDate": "01/11/2023"
+    "voiceActor": "Horie Yui",
+    "releaseDate": "2023/01/11"
   }
 }

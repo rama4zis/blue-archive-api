@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2022/12/14",
   "detailStudent": {
-    "Character": "Hanae",
+    "Character": "Hanae (Christmas)",
     "japaneseName": "朝顔 ハナエ",
     "japaneseReading": "Asagao Hanae",
     "school": "Trinity",
     "age": "15",
-    "birthday": "05/12/2023",
+    "birthday": "May 12",
     "height": "150cm",
     "hobbies": "Dance, cheerleading",
-    "voicedActor": "Yūki Kana",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Yūki Kana",
+    "releaseDate": "2022/12/14"
   }
 }

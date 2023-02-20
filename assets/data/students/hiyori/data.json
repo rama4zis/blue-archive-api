@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2022/05/24",
   "detailStudent": {
     "Character": "Hiyori",
     "japaneseName": "槌永 ヒヨリ",
     "japaneseReading": "Tsuchinaga Hiyori",
     "school": "Arius",
     "age": "16",
-    "birthday": "01/08/2023",
+    "birthday": "January 8",
     "height": "155cm",
     "hobbies": "Collecting magazines",
-    "voicedActor": "Mai Nakahara",
-    "releaseDate": "05/24/2022"
+    "voiceActor": "Mai Nakahara",
+    "releaseDate": "2022/05/24"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2021/11/03",
   "detailStudent": {
     "Character": "Hatsune Miku",
     "japaneseName": "初音 ミク",
     "japaneseReading": "Hatsune Hatsune Miku",
     "school": "ETC",
     "age": "16",
-    "birthday": "08/31/2023",
+    "birthday": "August 31",
     "height": "158cm",
     "hobbies": "Singing, dancing",
-    "voicedActor": "Saki Fujita",
-    "releaseDate": "11/03/2021"
+    "voiceActor": "Saki Fujita",
+    "releaseDate": "2021/11/03"
   }
 }

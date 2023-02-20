@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2021/09/29",
   "detailStudent": {
-    "Character": "Karin",
+    "Character": "Karin (Bunny Girl)",
     "japaneseName": "角楯 カリン",
     "japaneseReading": "Kakudate Karin",
     "school": "Millennium",
     "age": "16",
-    "birthday": "02/02/2023",
+    "birthday": "February 2",
     "height": "170cm",
     "hobbies": "Cleaning",
-    "voicedActor": "Numakura Manami",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Numakura Manami",
+    "releaseDate": "2021/09/29"
   }
 }

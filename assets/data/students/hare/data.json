@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Hare",
     "japaneseName": "小鈎 ハレ",
     "japaneseReading": "Omagari Hare",
     "school": "Millennium",
     "age": "16",
-    "birthday": "04/19/2023",
+    "birthday": "April 19",
     "height": "153cm",
     "hobbies": "Video games, watching movies",
-    "voicedActor": "Kaihara Reina",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Kaihara Reina",
+    "releaseDate": "2021/02/04"
   }
 }

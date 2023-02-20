@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2022/11/16",
   "detailStudent": {
     "Character": "Himari",
     "japaneseName": "明星 ヒマリ",
     "japaneseReading": "Akeboshi Himari",
     "school": "Millennium",
     "age": "17",
-    "birthday": "12/10/2023",
+    "birthday": "December 10",
     "height": "162cm",
     "hobbies": "Fortune-telling, occult in general",
-    "voicedActor": "ゆかな (Yukana)",
-    "releaseDate": "11/16/2022"
+    "voiceActor": "ゆかな (Yukana)",
+    "releaseDate": "2022/11/16"
   }
 }

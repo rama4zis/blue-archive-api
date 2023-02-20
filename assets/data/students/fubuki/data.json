@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "B",
   "indoor": "C",
+  "releaseDate": "2022/01/26",
   "detailStudent": {
     "Character": "Fubuki",
     "japaneseName": "合歓垣 フブキ",
     "japaneseReading": "Nemugaki Fubuki",
     "school": "Valkyrie",
     "age": "15",
-    "birthday": "10/21/2023",
+    "birthday": "October 21",
     "height": "148cm",
     "hobbies": "Crosswords, radio",
-    "voicedActor": "Emi Hirayama",
-    "releaseDate": "01/26/2022"
+    "voiceActor": "Emi Hirayama",
+    "releaseDate": "2022/01/26"
   }
 }

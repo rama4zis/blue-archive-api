@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2022/11/30",
   "detailStudent": {
     "Character": "Shigure",
     "japaneseName": "間宵 シグレ",
     "japaneseReading": "Mayoi Shigure",
     "school": "Red Winter",
     "age": "16",
-    "birthday": "01/22/2023",
+    "birthday": "January 22",
     "height": "156cm",
     "hobbies": "Making homemade drinks",
-    "voicedActor": "Kawase Maki",
-    "releaseDate": "11/30/2022"
+    "voiceActor": "Kawase Maki",
+    "releaseDate": "2022/11/30"
   }
 }

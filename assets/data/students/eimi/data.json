@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Eimi",
     "japaneseName": "和泉元 エイミ",
     "japaneseReading": "Izumimoto Eimi",
     "school": "Millennium",
     "age": "15",
-    "birthday": "05/01/2023",
+    "birthday": "May 1",
     "height": "167cm",
     "hobbies": "Zoning out, listening to music",
-    "voicedActor": "Matsunaga Akane",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Matsunaga Akane",
+    "releaseDate": "2021/02/04"
   }
 }

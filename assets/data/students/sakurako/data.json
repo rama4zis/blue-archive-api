@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2023/02/10",
   "detailStudent": {
     "Character": "Sakurako",
     "japaneseName": "歌住 サクラコ",
     "japaneseReading": "Utazumi Sakurako",
     "school": "Trinity",
     "age": "17",
-    "birthday": "10/04/2023",
+    "birthday": "October 4",
     "height": "160cm",
     "hobbies": "Prayer",
-    "voicedActor": "Kakuma Ai",
-    "releaseDate": "02/10/2023"
+    "voiceActor": "Kakuma Ai",
+    "releaseDate": "2023/02/10"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Airi",
     "japaneseName": "栗村 アイリ",
     "japaneseReading": "Kurimura Airi",
     "school": "Trinity",
     "age": "15",
-    "birthday": "01/30/2023",
+    "birthday": "January 30",
     "height": "160cm",
     "hobbies": "Looking for tasty sweets, tea parties",
-    "voicedActor": "Chikako Sugimura",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Chikako Sugimura",
+    "releaseDate": "2021/02/04"
   }
 }

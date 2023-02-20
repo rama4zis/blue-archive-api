@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2021/08/12",
   "detailStudent": {
-    "Character": "Shiroko",
+    "Character": "Shiroko (Riding)",
     "japaneseName": "砂狼 シロコ",
     "japaneseReading": "Sunaōkami Shiroko",
     "school": "Abydos",
     "age": "16",
-    "birthday": "05/16/2023",
+    "birthday": "May 16",
     "height": "156cm",
     "hobbies": "Jogging, strength training, cycling",
-    "voicedActor": "Ogura Yui",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Ogura Yui",
+    "releaseDate": "2021/08/12"
   }
 }

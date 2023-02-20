@@ -13,16 +13,17 @@
   "urban": "C",
   "outdoor": "A",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Shimiko",
     "japaneseName": "円堂 シミコ",
     "japaneseReading": "Endō Shimiko",
     "school": "Trinity",
     "age": "15",
-    "birthday": "11/30/2023",
+    "birthday": "November 30",
     "height": "157cm",
     "hobbies": "Reading, making bookmarks",
-    "voicedActor": "Tomita Miyu",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Tomita Miyu",
+    "releaseDate": "2021/02/04"
   }
 }

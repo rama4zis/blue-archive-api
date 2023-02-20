@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2022/07/25",
   "detailStudent": {
-    "Character": "Izuna",
+    "Character": "Izuna (Swimsuit)",
     "japaneseName": "久田 イズナ",
     "japaneseReading": "Kuda Izuna",
     "school": "Hyakkiyako",
     "age": "15",
-    "birthday": "12/16/2023",
+    "birthday": "December 16",
     "height": "155cm",
     "hobbies": "Studying ninja arts, escorting her master",
-    "voicedActor": "Kana Asumi",
-    "releaseDate": "02/25/2021"
+    "voiceActor": "Kana Asumi",
+    "releaseDate": "2022/07/25"
   }
 }

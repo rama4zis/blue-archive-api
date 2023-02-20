@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Haruna (New Year)",
+    "Character": "Haruna",
     "japaneseName": "黒舘 ハルナ",
     "japaneseReading": "Kurodate Haruna",
     "school": "Gehenna",
     "age": "17",
-    "birthday": "03/01/2023",
+    "birthday": "March 1",
     "height": "163cm",
     "hobbies": "Looking for delicious things",
-    "voicedActor": "Tadokoro Azusa",
-    "releaseDate": "12/28/2022"
+    "voiceActor": "Tadokoro Azusa",
+    "releaseDate": "2021/02/04"
   }
 }

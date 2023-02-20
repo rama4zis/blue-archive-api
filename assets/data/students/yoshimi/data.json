@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Yoshimi",
     "japaneseName": "伊原木 ヨシミ",
     "japaneseReading": "Ibaraki Yoshimi",
     "school": "Trinity",
     "age": "15",
-    "birthday": "08/29/2023",
+    "birthday": "August 29",
     "height": "146cm",
     "hobbies": "All kinds of events, touring cafés for limited edition sweets",
-    "voicedActor": "Ayumi Mano",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Ayumi Mano",
+    "releaseDate": "2021/02/04"
   }
 }

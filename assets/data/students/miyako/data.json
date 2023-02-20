@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2022/03/23",
   "detailStudent": {
     "Character": "Miyako",
     "japaneseName": "月雪 ミヤコ",
     "japaneseReading": "Tsukiyuki Miyako",
     "school": "SRT",
     "age": "15",
-    "birthday": "01/07/2023",
+    "birthday": "January 7",
     "height": "156cm",
     "hobbies": "Watching animal-related videos",
-    "voicedActor": "Akane Fujita",
-    "releaseDate": "03/23/2022"
+    "voiceActor": "Akane Fujita",
+    "releaseDate": "2022/03/23"
   }
 }

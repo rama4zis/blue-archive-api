@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "C",
   "indoor": "A",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Hasumi (Sportswear)",
+    "Character": "Hasumi",
     "japaneseName": "羽川 ハスミ",
     "japaneseReading": "Hanekawa Hasumi",
     "school": "Trinity",
     "age": "17",
-    "birthday": "12/12/2023",
+    "birthday": "December 12",
     "height": "179cm",
     "hobbies": "Reading, watching people",
-    "voicedActor": "Asami Seto",
-    "releaseDate": "10/26/2022"
+    "voiceActor": "Asami Seto",
+    "releaseDate": "2021/02/04"
   }
 }

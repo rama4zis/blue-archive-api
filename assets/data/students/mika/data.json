@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "A",
   "indoor": "S",
+  "releaseDate": "2023/01/24",
   "detailStudent": {
     "Character": "Mika",
     "japaneseName": "聖園 ミカ",
     "japaneseReading": "Misono Mika",
     "school": "Trinity",
     "age": "17",
-    "birthday": "05/08/2023",
+    "birthday": "May 8",
     "height": "157cm",
     "hobbies": "Chatting, collecting accessories",
-    "voicedActor": "Tōyama Nao",
-    "releaseDate": "01/24/2023"
+    "voiceActor": "Tōyama Nao",
+    "releaseDate": "2023/01/24"
   }
 }

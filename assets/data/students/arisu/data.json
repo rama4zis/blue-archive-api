@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2021/03/25",
   "detailStudent": {
     "Character": "Arisu",
     "japaneseName": "天童 アリス",
     "japaneseReading": "Tendou Arisu",
     "school": "Millennium",
     "age": "??",
-    "birthday": "03/25/2023",
+    "birthday": "March 25",
     "height": "152cm",
     "hobbies": "Games (Especially RPGs)",
-    "voicedActor": "Minami Tanaka",
-    "releaseDate": "03/25/2021"
+    "voiceActor": "Minami Tanaka",
+    "releaseDate": "2021/03/25"
   }
 }

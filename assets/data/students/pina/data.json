@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "B",
   "indoor": "C",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Pina",
     "japaneseName": "朝比奈 フィーナ",
     "japaneseReading": "Asahina Pina",
     "school": "Hyakkiyako",
     "age": "17",
-    "birthday": "11/03/2023",
+    "birthday": "November 3",
     "height": "165cm",
     "hobbies": "Watching yakuza movies",
-    "voicedActor": "Kido Ibuki",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Kido Ibuki",
+    "releaseDate": "2021/02/04"
   }
 }

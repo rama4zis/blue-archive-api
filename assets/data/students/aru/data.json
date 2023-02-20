@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2021/12/29",
   "detailStudent": {
-    "Character": "Aru",
+    "Character": "Aru (New Year)",
     "japaneseName": "陸八魔 アル",
     "japaneseReading": "Rikuhachima Aru",
     "school": "Gehenna",
     "age": "16",
-    "birthday": "03/12/2023",
+    "birthday": "March 12",
     "height": "160cm",
     "hobbies": "Studying management",
-    "voicedActor": "Kondō Reina",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Kondō Reina",
+    "releaseDate": "2021/12/29"
   }
 }

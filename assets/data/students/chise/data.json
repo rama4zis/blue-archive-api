@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2022/07/25",
   "detailStudent": {
-    "Character": "Chise",
+    "Character": "Chise (Swimsuit)",
     "japaneseName": "和楽 チセ",
     "japaneseReading": "Waraku Chise",
     "school": "Hyakkiyako",
     "age": "16",
-    "birthday": "07/13/2023",
+    "birthday": "July 13",
     "height": "159cm",
     "hobbies": "Haiku",
-    "voicedActor": "Shimamura Yuu",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Shimamura Yuu",
+    "releaseDate": "2022/07/25"
   }
 }

@@ -9,20 +9,21 @@
   "armorType": "Heavy",
   "combatClass": "Special",
   "weaponType": "HG",
-  "usesCover": false,
+  "usesCover": "us",
   "urban": "B",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Akane (Bunny Girl)",
+    "Character": "Akane",
     "japaneseName": "室笠 アカネ",
     "japaneseReading": "Murokasa Akane",
     "school": "Millennium",
     "age": "16",
-    "birthday": "04/01/2023",
+    "birthday": "April 1",
     "height": "164cm",
     "hobbies": "Cleaning",
-    "voicedActor": "Hara Yumi",
-    "releaseDate": "10/12/2022"
+    "voiceActor": "Hara Yumi",
+    "releaseDate": "2021/02/04"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2022/04/27",
   "detailStudent": {
     "Character": "Kaede",
     "japaneseName": "勇美 カエデ",
     "japaneseReading": "Isami Kaede",
     "school": "Hyakkiyako",
     "age": "15",
-    "birthday": "07/09/2023",
+    "birthday": "July 9",
     "height": "142cm",
     "hobbies": "Mischief (she tries to hold back as much as possible), catching beetles",
-    "voicedActor": "Emiri Kato",
-    "releaseDate": "04/27/2022"
+    "voiceActor": "Emiri Kato",
+    "releaseDate": "2022/04/27"
   }
 }

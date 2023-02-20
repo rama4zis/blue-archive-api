@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2021/10/27",
   "detailStudent": {
     "Character": "Natsu",
     "japaneseName": "柚鳥 ナツ",
     "japaneseReading": "Yutori Natsu",
     "school": "Trinity",
     "age": "15",
-    "birthday": "12/04/2023",
+    "birthday": "December 4",
     "height": "152cm",
     "hobbies": "Romantic things, thinking",
-    "voicedActor": "Maria Naganawa",
-    "releaseDate": "10/27/2021"
+    "voiceActor": "Maria Naganawa",
+    "releaseDate": "2021/10/27"
   }
 }

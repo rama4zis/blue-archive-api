@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2022/09/28",
   "detailStudent": {
     "Character": "Noa",
     "japaneseName": "生塩 ノア",
     "japaneseReading": "Ushio Noa",
     "school": "Millennium",
     "age": "16",
-    "birthday": "04/13/2023",
+    "birthday": "April 13",
     "height": "161cm",
     "hobbies": "Reading, reciting",
-    "voicedActor": "Suzushiro Sayumi",
-    "releaseDate": "09/28/2022"
+    "voiceActor": "Suzushiro Sayumi",
+    "releaseDate": "2022/09/28"
   }
 }

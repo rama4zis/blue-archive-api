@@ -13,16 +13,17 @@
   "urban": "C",
   "outdoor": "B",
   "indoor": "A",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Haruka",
     "japaneseName": "伊草 ハルカ",
     "japaneseReading": "Igusa Haruka",
     "school": "Gehenna",
     "age": "15",
-    "birthday": "05/13/2023",
+    "birthday": "May 13",
     "height": "157cm",
     "hobbies": "Growing weeds",
-    "voicedActor": "Ishitobi Erika",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Ishitobi Erika",
+    "releaseDate": "2021/02/04"
   }
 }

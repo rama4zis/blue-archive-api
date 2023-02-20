@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2021/06/30",
   "detailStudent": {
-    "Character": "Azusa",
+    "Character": "Azusa (Swimsuit)",
     "japaneseName": "白洲 アズサ",
     "japaneseReading": "Shirasu Azusa",
     "school": "Trinity",
     "age": "16",
-    "birthday": "12/26/2023",
+    "birthday": "December 26",
     "height": "149cm",
     "hobbies": "None",
-    "voicedActor": "Risa Taneda",
-    "releaseDate": "05/27/2021"
+    "voiceActor": "Risa Taneda",
+    "releaseDate": "2021/06/30"
   }
 }

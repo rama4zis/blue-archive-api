@@ -13,16 +13,17 @@
   "urban": "C",
   "outdoor": "S",
   "indoor": "C",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Maki",
     "japaneseName": "小塗 マキ",
     "japaneseReading": "Konuri Maki",
     "school": "Millennium",
     "age": "15",
-    "birthday": "08/01/2023",
+    "birthday": "August 1",
     "height": "149cm",
     "hobbies": "Graffiti, video games",
-    "voicedActor": "Mikami Shiori",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Mikami Shiori",
+    "releaseDate": "2021/02/04"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2022/05/11",
   "detailStudent": {
     "Character": "Tsukuyo",
     "japaneseName": "大野 ツクヨ",
     "japaneseReading": "Ōno Tsukuyo",
     "school": "Hyakkiyako",
     "age": "15",
-    "birthday": "04/05/2023",
+    "birthday": "April 5",
     "height": "180cm",
     "hobbies": "Body replacement technique, holding breath",
-    "voicedActor": "Ayasa Goto",
-    "releaseDate": "05/11/2022"
+    "voiceActor": "Ayasa Goto",
+    "releaseDate": "2022/05/11"
   }
 }

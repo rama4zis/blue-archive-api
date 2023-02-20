@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2021/09/29",
   "detailStudent": {
-    "Character": "Neru",
+    "Character": "Neru (Bunny Girl)",
     "japaneseName": "美甘 ネル",
     "japaneseReading": "Mikamo Neru",
     "school": "Millennium",
     "age": "17",
-    "birthday": "08/17/2023",
+    "birthday": "August 17",
     "height": "146cm",
     "hobbies": "Winning",
-    "voicedActor": "Koshimizu Ami",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Koshimizu Ami",
+    "releaseDate": "2021/09/29"
   }
 }

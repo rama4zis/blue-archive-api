@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Serina (Christmas)",
+    "Character": "Serina",
     "japaneseName": "鷲見 セリナ",
     "japaneseReading": "Sumi Serina",
     "school": "Trinity",
     "age": "16",
-    "birthday": "01/06/2023",
+    "birthday": "January 6",
     "height": "156cm",
     "hobbies": "Volunteering at hospitals",
-    "voicedActor": "Suzumoto Akiho",
-    "releaseDate": "12/14/2022"
+    "voiceActor": "Suzumoto Akiho",
+    "releaseDate": "2021/02/04"
   }
 }

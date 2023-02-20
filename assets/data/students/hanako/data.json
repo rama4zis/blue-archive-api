@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2021/05/27",
   "detailStudent": {
     "Character": "Hanako",
     "japaneseName": "浦和 ハナコ",
     "japaneseReading": "Urawa Hanako",
     "school": "Trinity",
     "age": "16",
-    "birthday": "01/03/2023",
+    "birthday": "January 3",
     "height": "161cm",
     "hobbies": "Wandering around",
-    "voicedActor": "Moe Toyota",
-    "releaseDate": "05/27/2021"
+    "voiceActor": "Moe Toyota",
+    "releaseDate": "2021/05/27"
   }
 }

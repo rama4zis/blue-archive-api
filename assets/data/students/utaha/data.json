@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2022/09/28",
   "detailStudent": {
-    "Character": "Utaha",
+    "Character": "Utaha (Cheerleader)",
     "japaneseName": "白石 ウタハ",
     "japaneseReading": "Shiraishi Utaha",
     "school": "Millennium",
     "age": "17",
-    "birthday": "11/13/2023",
+    "birthday": "November 13",
     "height": "162cm",
     "hobbies": "Inventing and repairing in general",
-    "voicedActor": "Aochi Nozomi",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Aochi Nozomi",
+    "releaseDate": "2022/09/28"
   }
 }

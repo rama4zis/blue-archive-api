@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2022/01/30",
   "detailStudent": {
     "Character": "Chihiro",
     "japaneseName": "各務 チヒロ",
     "japaneseReading": "Kagami Chihiro",
     "school": "Millennium",
     "age": "17",
-    "birthday": "04/26/2023",
+    "birthday": "April 26",
     "height": "160cm",
     "hobbies": "Shopping for electronics",
-    "voicedActor": "Hibiku Yamamura",
-    "releaseDate": "01/30/2022"
+    "voiceActor": "Hibiku Yamamura",
+    "releaseDate": "2022/01/30"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "C",
   "indoor": "C",
+  "releaseDate": "2021/07/29",
   "detailStudent": {
-    "Character": "Hina",
+    "Character": "Hina (Swimsuit)",
     "japaneseName": "空崎 ヒナ",
     "japaneseReading": "Sorasaki Hina",
     "school": "Gehenna",
     "age": "17",
-    "birthday": "02/19/2023",
+    "birthday": "February 19",
     "height": "142cm",
     "hobbies": "Sleeping, resting",
-    "voicedActor": "Hirohashi Ryō",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Hirohashi Ryō",
+    "releaseDate": "2021/07/29"
   }
 }

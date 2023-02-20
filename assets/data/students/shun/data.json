@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2021/08/26",
   "detailStudent": {
-    "Character": "Shun",
+    "Character": "Shun (Kid)",
     "japaneseName": "春原 シュン",
     "japaneseReading": "Sunohara Shun",
     "school": "Shanhaijing",
     "age": "Top secret",
-    "birthday": "02/05/2023",
-    "height": "174cm",
-    "hobbies": "Playing with children",
-    "voicedActor": "Itou Shizuka",
-    "releaseDate": "02/04/2021"
+    "birthday": "February 5",
+    "height": "Wasn't measured",
+    "hobbies": "Eating sweets",
+    "voiceActor": "Itou Shizuka",
+    "releaseDate": "2021/08/26"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2022/03/23",
   "detailStudent": {
     "Character": "Saki",
     "japaneseName": "空井 サキ",
     "japaneseReading": "Sorai Saki",
     "school": "SRT",
     "age": "15",
-    "birthday": "04/09/2023",
+    "birthday": "April 9",
     "height": "161cm",
     "hobbies": "Firearms maintenance, gathering plants, etc.",
-    "voicedActor": "Akane Tomonaga",
-    "releaseDate": "03/23/2022"
+    "voiceActor": "Akane Tomonaga",
+    "releaseDate": "2022/03/23"
   }
 }

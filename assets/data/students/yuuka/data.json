@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "A",
+  "releaseDate": "2022/10/26",
   "detailStudent": {
-    "Character": "Yuuka",
+    "Character": "Yuuka (Sportswear)",
     "japaneseName": "早瀬 ユウカ",
     "japaneseReading": "Hayase Yuuka",
     "school": "Millennium",
     "age": "16",
-    "birthday": "03/14/2023",
+    "birthday": "March 14",
     "height": "156cm",
     "hobbies": "Calculating things",
-    "voicedActor": "Haruka Ran",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Haruka Ran",
+    "releaseDate": "2022/10/26"
   }
 }

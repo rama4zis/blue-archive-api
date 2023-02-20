@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Kotori",
     "japaneseName": "豊見 コトリ",
     "japaneseReading": "Toyomi Kotori",
     "school": "Millennium",
     "age": "15",
-    "birthday": "12/31/2023",
+    "birthday": "December 31",
     "height": "151cm",
     "hobbies": "Talking",
-    "voicedActor": "Shinohara Narumi",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Shinohara Narumi",
+    "releaseDate": "2021/02/04"
   }
 }

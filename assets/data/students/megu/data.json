@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2023/01/31",
   "detailStudent": {
     "Character": "Megu",
     "japaneseName": "下倉 メグ",
     "japaneseReading": "Shimokura Megu",
     "school": "Gehenna",
     "age": "17",
-    "birthday": "04/25/2023",
+    "birthday": "April 25",
     "height": "164cm",
     "hobbies": "Demolition",
-    "voicedActor": "Aihara Arisa",
-    "releaseDate": "01/31/2023"
+    "voiceActor": "Aihara Arisa",
+    "releaseDate": "2023/01/31"
   }
 }

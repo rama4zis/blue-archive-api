@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "A",
   "indoor": "D",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Tsubaki",
     "japaneseName": "春日 ツバキ",
     "japaneseReading": "Kasuga Tsubaki",
     "school": "Hyakkiyako",
     "age": "16",
-    "birthday": "02/03/2023",
+    "birthday": "February 3",
     "height": "162cm",
     "hobbies": "Afternoon naps",
-    "voicedActor": "Saho Shirasu",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Saho Shirasu",
+    "releaseDate": "2021/02/04"
   }
 }

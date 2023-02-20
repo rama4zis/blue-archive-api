@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "A",
   "indoor": "A",
+  "releaseDate": "2021/08/26",
   "detailStudent": {
     "Character": "Kirino",
     "japaneseName": "中務 キリノ",
     "japaneseReading": "Nakatsukasa Kirino",
     "school": "Valkyrie",
     "age": "15",
-    "birthday": "10/22/2023",
+    "birthday": "October 22",
     "height": "161cm",
     "hobbies": "Eating on the go",
-    "voicedActor": "Nakajima Yui",
-    "releaseDate": "08/26/2021"
+    "voiceActor": "Nakajima Yui",
+    "releaseDate": "2021/08/26"
   }
 }

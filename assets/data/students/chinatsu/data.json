@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2021/11/30",
   "detailStudent": {
-    "Character": "Chinatsu",
+    "Character": "Chinatsu (Hot Spring)",
     "japaneseName": "火宮 チナツ",
     "japaneseReading": "Hinomiya Chinatsu",
     "school": "Gehenna",
     "age": "15",
-    "birthday": "08/22/2023",
+    "birthday": "August 22",
     "height": "159cm",
     "hobbies": "Reading philosophy books",
-    "voicedActor": "Kouzuki Haruka",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Kouzuki Haruka",
+    "releaseDate": "2021/11/30"
   }
 }

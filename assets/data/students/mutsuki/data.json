@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "A",
   "indoor": "D",
+  "releaseDate": "2021/12/29",
   "detailStudent": {
-    "Character": "Mutsuki",
+    "Character": "Mutsuki (New Year)",
     "japaneseName": "浅黄 ムツキ",
     "japaneseReading": "Asagi Mutsuki",
     "school": "Gehenna",
     "age": "16",
-    "birthday": "07/29/2023",
+    "birthday": "July 29",
     "height": "144cm",
     "hobbies": "Collecting bombs",
-    "voicedActor": "Ōkubo Rumi",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Ōkubo Rumi",
+    "releaseDate": "2021/12/29"
   }
 }

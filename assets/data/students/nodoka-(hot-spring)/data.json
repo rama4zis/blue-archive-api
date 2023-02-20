@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2021/04/29",
   "detailStudent": {
-    "Character": "Nodoka (Hot Spring)",
+    "Character": "Nodoka",
     "japaneseName": "天見 ノドカ",
     "japaneseReading": "Amami Nodoka",
     "school": "Red Winter",
     "age": "16",
-    "birthday": "02/20/2023",
+    "birthday": "February 20",
     "height": "147cm",
     "hobbies": "Astronomy",
-    "voicedActor": "Satou Satomi",
-    "releaseDate": "12/15/2021"
+    "voiceActor": "Satou Satomi",
+    "releaseDate": "2021/04/29"
   }
 }

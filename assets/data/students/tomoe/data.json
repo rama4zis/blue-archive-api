@@ -13,16 +13,17 @@
   "urban": "C",
   "outdoor": "B",
   "indoor": "A",
+  "releaseDate": "2021/11/30",
   "detailStudent": {
     "Character": "Tomoe",
     "japaneseName": "佐城 トモエ",
     "japaneseReading": "Sashiro Tomoe",
     "school": "Red Winter",
     "age": "17",
-    "birthday": "11/10/2023",
+    "birthday": "November 10",
     "height": "165cm",
     "hobbies": "Agitation",
-    "voicedActor": "Nanami Atsugi",
-    "releaseDate": "11/30/2021"
+    "voiceActor": "Nanami Atsugi",
+    "releaseDate": "2021/11/30"
   }
 }

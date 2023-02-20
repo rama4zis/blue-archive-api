@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "S",
   "indoor": "D",
+  "releaseDate": "2021/06/30",
   "detailStudent": {
-    "Character": "Mashiro",
+    "Character": "Mashiro (Swimsuit)",
     "japaneseName": "静山 マシロ",
     "japaneseReading": "Shizuyama Mashiro",
     "school": "Trinity",
     "age": "15",
-    "birthday": "06/05/2023",
+    "birthday": "June 5",
     "height": "155cm",
     "hobbies": "Climbing to high places, keeping an observation diary",
-    "voicedActor": "Kitō Akari",
-    "releaseDate": "02/11/2021"
+    "voiceActor": "Akari Kitō",
+    "releaseDate": "2021/06/30"
   }
 }

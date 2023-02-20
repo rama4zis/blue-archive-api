@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2022/05/24",
   "detailStudent": {
     "Character": "Misaki",
     "japaneseName": "戒野 ミサキ",
     "japaneseReading": "Imashino Misaki",
     "school": "Arius",
     "age": "16",
-    "birthday": "01/13/2023",
+    "birthday": "January 13",
     "height": "163cm",
     "hobbies": "Being alone",
-    "voicedActor": "Rio Tsuchiya",
-    "releaseDate": "05/24/2022"
+    "voiceActor": "Rio Tsuchiya",
+    "releaseDate": "2022/05/24"
   }
 }

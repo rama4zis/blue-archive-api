@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2022/09/21",
   "detailStudent": {
     "Character": "Kokona",
     "japaneseName": "春原 ココナ",
     "japaneseReading": "Sunohara Kokona",
     "school": "Shanhaijing",
     "age": "11",
-    "birthday": "06/01/2023",
+    "birthday": "June 1",
     "height": "139cm",
     "hobbies": "Reading picture books",
-    "voicedActor": "Igarashi Hiromi",
-    "releaseDate": "09/21/2022"
+    "voiceActor": "Igarashi Hiromi",
+    "releaseDate": "2022/09/21"
   }
 }

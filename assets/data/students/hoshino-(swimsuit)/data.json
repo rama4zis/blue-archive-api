@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "A",
   "indoor": "D",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Hoshino (Swimsuit)",
+    "Character": "Hoshino",
     "japaneseName": "小鳥遊 ホシノ",
     "japaneseReading": "Takanashi Hoshino",
     "school": "Abydos",
     "age": "17",
-    "birthday": "01/02/2023",
+    "birthday": "January 2",
     "height": "145cm",
     "hobbies": "Afternoon naps, lazing around",
-    "voicedActor": "Hanamori Yumiri",
-    "releaseDate": "07/20/2022"
+    "voiceActor": "Hanamori Yumiri",
+    "releaseDate": "2021/02/04"
   }
 }

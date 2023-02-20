@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "A",
   "indoor": "B",
+  "releaseDate": "2022/12/28",
   "detailStudent": {
-    "Character": "Junko",
+    "Character": "Junko (New Year)",
     "japaneseName": "赤司 ジュンコ",
     "japaneseReading": "Akashi Junko",
     "school": "Gehenna",
     "age": "15",
-    "birthday": "12/27/2023",
+    "birthday": "December 27",
     "height": "149cm",
     "hobbies": "Gourmet tour",
-    "voicedActor": "Kanemoto Hisako",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Kanemoto Hisako",
+    "releaseDate": "2022/12/28"
   }
 }

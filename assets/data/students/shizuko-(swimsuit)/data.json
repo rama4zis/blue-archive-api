@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2021/02/25",
   "detailStudent": {
-    "Character": "Shizuko (Swimsuit)",
+    "Character": "Shizuko",
     "japaneseName": "河和 シズコ",
     "japaneseReading": "Kawawa Shizuko",
     "school": "Hyakkiyako",
     "age": "16",
-    "birthday": "07/07/2023",
+    "birthday": "July 7",
     "height": "153cm",
     "hobbies": "Serving customers with charm, attracting people into her shop",
-    "voicedActor": "Morigana Chitose",
-    "releaseDate": "07/20/2022"
+    "voiceActor": "Morigana Chitose",
+    "releaseDate": "2021/02/25"
   }
 }

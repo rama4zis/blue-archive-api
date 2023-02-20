@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "A",
   "indoor": "C",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Izumi (Swimsuit)",
+    "Character": "Izumi",
     "japaneseName": "獅子堂 イズミ",
     "japaneseReading": "Shishidō Izumi",
     "school": "Gehenna",
     "age": "16",
-    "birthday": "05/11/2023",
+    "birthday": "May 11",
     "height": "161cm",
     "hobbies": "Making and eating strange foods",
-    "voicedActor": "Kubo Yurika",
-    "releaseDate": "07/29/2021"
+    "voiceActor": "Kubo Yurika",
+    "releaseDate": "2021/02/04"
   }
 }

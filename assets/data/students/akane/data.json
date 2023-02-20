@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "A",
   "indoor": "D",
+  "releaseDate": "2022/10/12",
   "detailStudent": {
-    "Character": "Akane",
+    "Character": "Akane (Bunny Girl)",
     "japaneseName": "室笠 アカネ",
     "japaneseReading": "Murokasa Akane",
     "school": "Millennium",
     "age": "16",
-    "birthday": "04/01/2023",
+    "birthday": "April 1",
     "height": "164cm",
     "hobbies": "Cleaning",
-    "voicedActor": "Hara Yumi",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Hara Yumi",
+    "releaseDate": "2022/10/12"
   }
 }

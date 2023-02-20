@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2022/08/09",
   "detailStudent": {
     "Character": "Saori",
     "japaneseName": "錠前 サオリ",
     "japaneseReading": "Jomae Saori",
     "school": "Arius",
     "age": "17",
-    "birthday": "09/03/2023",
+    "birthday": "September 3",
     "height": "167cm",
     "hobbies": "None",
-    "voicedActor": "Ishigami Shizuka",
-    "releaseDate": "08/09/2022"
+    "voiceActor": "Ishigami Shizuka",
+    "releaseDate": "2022/08/09"
   }
 }

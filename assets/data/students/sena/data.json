@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "S",
   "indoor": "D",
+  "releaseDate": "2022/01/30",
   "detailStudent": {
     "Character": "Sena",
     "japaneseName": "氷室 セナ",
     "japaneseReading": "Himuro Sena",
     "school": "Gehenna",
     "age": "17",
-    "birthday": "04/07/2023",
+    "birthday": "April 7",
     "height": "155cm",
     "hobbies": "Standing by, preparing medicine",
-    "voicedActor": "Saori Ōnishi",
-    "releaseDate": "01/30/2022"
+    "voiceActor": "Saori Ōnishi",
+    "releaseDate": "2022/01/30"
   }
 }

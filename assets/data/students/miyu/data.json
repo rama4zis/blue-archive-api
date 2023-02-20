@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2022/04/06",
   "detailStudent": {
     "Character": "Miyu",
     "japaneseName": "霞沢 ミユ",
     "japaneseReading": "Kasumizawa Miyu",
     "school": "SRT",
     "age": "15",
-    "birthday": "07/12/2023",
+    "birthday": "July 12",
     "height": "149cm",
     "hobbies": "Negative thoughts, escapism, pebbles hunting",
-    "voicedActor": "Yuko Goto",
-    "releaseDate": "04/06/2022"
+    "voiceActor": "Yuko Goto",
+    "releaseDate": "2022/04/06"
   }
 }

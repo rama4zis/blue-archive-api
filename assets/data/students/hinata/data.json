@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2022/02/23",
   "detailStudent": {
     "Character": "Hinata",
     "japaneseName": "若葉 ヒナタ",
     "japaneseReading": "Wakaba Hinata",
     "school": "Trinity",
     "age": "17",
-    "birthday": "05/17/2023",
+    "birthday": "May 17",
     "height": "166cm",
     "hobbies": "Prayer, tidying up",
-    "voicedActor": "Rina Hidaka",
-    "releaseDate": "02/23/2022"
+    "voiceActor": "Rina Hidaka",
+    "releaseDate": "2022/02/23"
   }
 }

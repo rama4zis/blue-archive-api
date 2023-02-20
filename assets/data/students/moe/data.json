@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2022/08/24",
   "detailStudent": {
     "Character": "Moe",
     "japaneseName": "風倉 モエ",
     "japaneseReading": "Kazekura Moe",
     "school": "SRT",
     "age": "15",
-    "birthday": "09/13/2023",
+    "birthday": "September 13",
     "height": "163cm",
     "hobbies": "Fireworks",
-    "voicedActor": "Izawa Shiori",
-    "releaseDate": "08/24/2022"
+    "voiceActor": "Izawa Shiori",
+    "releaseDate": "2022/08/24"
   }
 }

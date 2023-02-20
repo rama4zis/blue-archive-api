@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2021/10/12",
   "detailStudent": {
-    "Character": "Asuna",
+    "Character": "Asuna (Bunny Girl)",
     "japaneseName": "一之瀬 アスナ",
     "japaneseReading": "Ichinose Asuna",
     "school": "Millennium",
     "age": "17",
-    "birthday": "03/24/2023",
+    "birthday": "March 24",
     "height": "167cm",
     "hobbies": "Attacking",
-    "voicedActor": "Hasegawa Ikumi",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Hasegawa Ikumi",
+    "releaseDate": "2021/10/12"
   }
 }

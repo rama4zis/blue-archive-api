@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "A",
   "indoor": "D",
+  "releaseDate": "2022/06/22",
   "detailStudent": {
-    "Character": "Nonomi",
+    "Character": "Nonomi (Swimsuit)",
     "japaneseName": "十六夜 ノノミ",
     "japaneseReading": "Izayoi Nonomi",
     "school": "Abydos",
     "age": "16",
-    "birthday": "09/01/2023",
+    "birthday": "September 1",
     "height": "160cm",
     "hobbies": "Shopping",
-    "voicedActor": "Miura Chiyuki",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Miura Chiyuki",
+    "releaseDate": "2022/06/22"
   }
 }

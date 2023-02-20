@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "A",
   "indoor": "D",
+  "releaseDate": "2022/12/28",
   "detailStudent": {
-    "Character": "Fuuka",
+    "Character": "Fuuka (New Year)",
     "japaneseName": "愛清 フウカ",
     "japaneseReading": "Aikiyo Fuuka",
     "school": "Gehenna",
     "age": "16",
-    "birthday": "04/30/2023",
+    "birthday": "April 30",
     "height": "159cm",
     "hobbies": "Home cooking, making bento",
-    "voicedActor": "Fairouz Ai",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Fairouz Ai",
+    "releaseDate": "2022/12/28"
   }
 }

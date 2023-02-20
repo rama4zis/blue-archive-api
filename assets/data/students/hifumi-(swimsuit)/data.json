@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Hifumi (Swimsuit)",
+    "Character": "Hifumi",
     "japaneseName": "阿慈谷 ヒフミ",
     "japaneseReading": "Ajitani Hifumi",
     "school": "Trinity",
     "age": "16",
-    "birthday": "11/27/2023",
+    "birthday": "November 27",
     "height": "158cm",
     "hobbies": "Collecting Peroro goods, collecting cute things, shopping, giving advice",
-    "voicedActor": "Hondo Kaede",
-    "releaseDate": "07/15/2021"
+    "voiceActor": "Hondo Kaede",
+    "releaseDate": "2021/02/04"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "C",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Kotama",
     "japaneseName": "音瀬 コタマ",
     "japaneseReading": "Otose Kotama",
     "school": "Millennium",
     "age": "17",
-    "birthday": "01/05/2023",
+    "birthday": "January 5",
     "height": "158cm",
     "hobbies": "Radio communication, wiretapping",
-    "voicedActor": "Takagawa Mina",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Takagawa Mina",
+    "releaseDate": "2021/02/04"
   }
 }

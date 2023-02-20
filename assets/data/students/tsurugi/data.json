@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2021/06/30",
   "detailStudent": {
-    "Character": "Tsurugi",
+    "Character": "Tsurugi (Swimsuit)",
     "japaneseName": "剣先 ツルギ",
     "japaneseReading": "Kenzaki Tsurugi",
     "school": "Trinity",
     "age": "17",
-    "birthday": "06/24/2023",
+    "birthday": "June 24",
     "height": "162cm",
     "hobbies": "Watching movies, reading (romance novels)",
-    "voicedActor": "Kobayashi Yū",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Kobayashi Yū",
+    "releaseDate": "2021/06/30"
   }
 }

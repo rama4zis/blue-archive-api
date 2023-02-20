@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2022/09/28",
   "detailStudent": {
-    "Character": "Hibiki",
+    "Character": "Hibiki (Cheerleader)",
     "japaneseName": "猫塚 ヒビキ",
     "japaneseReading": "Nekozuka Hibiki",
     "school": "Millennium",
     "age": "15",
-    "birthday": "04/02/2023",
+    "birthday": "April 2",
     "height": "154cm",
     "hobbies": "Shopping, cosplay",
-    "voicedActor": "Nazuka Kaori",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Nazuka Kaori",
+    "releaseDate": "2022/09/28"
   }
 }

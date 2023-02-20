@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2022/02/09",
   "detailStudent": {
     "Character": "Mimori",
     "japaneseName": "水羽 ミモリ",
     "japaneseReading": "Mizuha Mimori",
     "school": "Hyakkiyako",
     "age": "16",
-    "birthday": "03/15/2023",
+    "birthday": "March 15",
     "height": "156cm",
     "hobbies": "Shojo manga, doing household chores",
-    "voicedActor": "Rie Tanaka",
-    "releaseDate": "02/09/2022"
+    "voiceActor": "Rie Tanaka",
+    "releaseDate": "2022/02/09"
   }
 }

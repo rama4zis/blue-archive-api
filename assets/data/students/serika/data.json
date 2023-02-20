@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2022/01/12",
   "detailStudent": {
-    "Character": "Serika",
+    "Character": "Serika (New Year)",
     "japaneseName": "黒見 セリカ",
     "japaneseReading": "Kuromi Serika",
     "school": "Abydos",
     "age": "15",
-    "birthday": "06/25/2023",
+    "birthday": "June 25",
     "height": "153cm",
     "hobbies": "Saving money, working part-time",
-    "voicedActor": "Ōhashi Ayaka",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Ōhashi Ayaka",
+    "releaseDate": "2022/01/12"
   }
 }

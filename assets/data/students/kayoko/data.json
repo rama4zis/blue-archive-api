@@ -13,16 +13,17 @@
   "urban": "A",
   "outdoor": "D",
   "indoor": "A",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Kayoko",
     "japaneseName": "鬼方 カヨコ",
     "japaneseReading": "Onikata Kayoko",
     "school": "Gehenna",
     "age": "18",
-    "birthday": "03/17/2023",
+    "birthday": "March 17",
     "height": "157cm",
     "hobbies": "Collecting CDs",
-    "voicedActor": "Fujī Yukiyo",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Fujī Yukiyo",
+    "releaseDate": "2021/02/04"
   }
 }

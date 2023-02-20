@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2021/10/27",
   "detailStudent": {
-    "Character": "Mari (Sportswear)",
+    "Character": "Mari",
     "japaneseName": "伊落 マリー",
     "japaneseReading": "Iochi Mari",
     "school": "Trinity",
     "age": "15",
-    "birthday": "09/12/2023",
+    "birthday": "September 12",
     "height": "151cm",
     "hobbies": "Prayer, thinking",
-    "voicedActor": "Ozawa Ari",
-    "releaseDate": "10/26/2022"
+    "voiceActor": "Ozawa Ari",
+    "releaseDate": "2021/10/27"
   }
 }

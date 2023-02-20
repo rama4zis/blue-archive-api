@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2022/08/24",
   "detailStudent": {
     "Character": "Kazusa",
     "japaneseName": "杏山 カズサ",
     "japaneseReading": "Kyoyama Kazusa",
     "school": "Trinity",
     "age": "15",
-    "birthday": "08/05/2023",
+    "birthday": "August 5",
     "height": "155cm",
     "hobbies": "Eating \"regular\" sweets",
-    "voicedActor": "Natsuyoshi Yuuko",
-    "releaseDate": "08/24/2022"
+    "voiceActor": "Natsuyoshi Yuuko",
+    "releaseDate": "2022/08/24"
   }
 }

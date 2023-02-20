@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "B",
   "indoor": "B",
+  "releaseDate": "2022/04/27",
   "detailStudent": {
     "Character": "Michiru",
     "japaneseName": "千鳥 ミチル",
     "japaneseReading": "Chidori Michiru",
     "school": "Hyakkiyako",
     "age": "17",
-    "birthday": "02/22/2023",
+    "birthday": "February 22",
     "height": "153cm",
     "hobbies": "Inventing new ninjutsu and making videos",
-    "voicedActor": "Kaori Mizuhashi",
-    "releaseDate": "04/27/2022"
+    "voiceActor": "Kaori Mizuhashi",
+    "releaseDate": "2022/04/27"
   }
 }

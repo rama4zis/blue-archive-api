@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "D",
   "indoor": "S",
+  "releaseDate": "2022/06/08",
   "detailStudent": {
     "Character": "Atsuko",
     "japaneseName": "秤 アツコ",
     "japaneseReading": "Hakari Atsuko",
     "school": "Arius",
     "age": "15",
-    "birthday": "01/20/2023",
+    "birthday": "January 20",
     "height": "158cm",
     "hobbies": "Tending to flowers",
-    "voicedActor": "Hanazawa Kana",
-    "releaseDate": "06/08/2022"
+    "voiceActor": "Hanazawa Kana",
+    "releaseDate": "2022/06/08"
   }
 }

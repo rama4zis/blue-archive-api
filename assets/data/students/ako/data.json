@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2021/11/17",
   "detailStudent": {
     "Character": "Ako",
     "japaneseName": "天雨 アコ",
     "japaneseReading": "Amau Ako",
     "school": "Gehenna",
     "age": "17",
-    "birthday": "12/22/2023",
+    "birthday": "December 22",
     "height": "165cm",
     "hobbies": "President Hina",
-    "voicedActor": "Kouno Marika",
-    "releaseDate": "11/17/2021"
+    "voiceActor": "Kouno Marika",
+    "releaseDate": "2021/11/17"
   }
 }

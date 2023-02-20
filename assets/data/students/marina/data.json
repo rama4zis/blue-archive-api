@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "B",
   "indoor": "S",
+  "releaseDate": "2022/03/08",
   "detailStudent": {
     "Character": "Marina",
     "japaneseName": "池倉 マリナ",
     "japaneseReading": "Ikekura Marina",
     "school": "Red Winter",
     "age": "16",
-    "birthday": "11/04/2023",
+    "birthday": "November 4",
     "height": "166cm",
     "hobbies": "Walks, charges",
-    "voicedActor": "Sachie Hirai",
-    "releaseDate": "03/08/2022"
+    "voiceActor": "Sachie Hirai",
+    "releaseDate": "2022/03/08"
   }
 }

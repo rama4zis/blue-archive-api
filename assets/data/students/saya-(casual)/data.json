@@ -13,16 +13,17 @@
   "urban": "D",
   "outdoor": "S",
   "indoor": "B",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
-    "Character": "Saya (Casual)",
+    "Character": "Saya",
     "japaneseName": "薬子 サヤ",
     "japaneseReading": "Yakushi Saya",
     "school": "Shanhaijing",
     "age": "16",
-    "birthday": "01/03/2023",
+    "birthday": "January 3",
     "height": "149cm",
     "hobbies": "Research",
-    "voicedActor": "Tamura Yukari",
-    "releaseDate": "09/09/2021"
+    "voiceActor": "Tamura Yukari",
+    "releaseDate": "2021/02/04"
   }
 }

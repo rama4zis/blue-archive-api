@@ -13,16 +13,17 @@
   "urban": "B",
   "outdoor": "S",
   "indoor": "D",
+  "releaseDate": "2022/02/23",
   "detailStudent": {
     "Character": "Ui",
     "japaneseName": "古関 ウイ",
     "japaneseReading": "Kozeki Ui",
     "school": "Trinity",
     "age": "17",
-    "birthday": "04/23/2023",
+    "birthday": "April 23",
     "height": "165cm",
     "hobbies": "Reading, book management, old book research",
-    "voicedActor": "Saori Goto",
-    "releaseDate": "02/23/2022"
+    "voiceActor": "Saori Goto",
+    "releaseDate": "2022/02/23"
   }
 }

@@ -13,16 +13,17 @@
   "urban": "C",
   "outdoor": "B",
   "indoor": "A",
+  "releaseDate": "2021/02/04",
   "detailStudent": {
     "Character": "Juri",
     "japaneseName": "牛牧 ジュリ",
     "japaneseReading": "Ushimaki Juri",
     "school": "Gehenna",
     "age": "15",
-    "birthday": "10/20/2023",
+    "birthday": "October 20",
     "height": "170cm",
     "hobbies": "Self-styled culinary research",
-    "voicedActor": "Tanabe Rui",
-    "releaseDate": "02/04/2021"
+    "voiceActor": "Tanabe Rui",
+    "releaseDate": "2021/02/04"
   }
 }

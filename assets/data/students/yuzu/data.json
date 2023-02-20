@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "B",
   "indoor": "D",
+  "releaseDate": "2021/05/13",
   "detailStudent": {
     "Character": "Yuzu",
     "japaneseName": "花岡 ユズ",
     "japaneseReading": "Hanaoka Yuzu",
     "school": "Millennium",
     "age": "16",
-    "birthday": "08/12/2023",
+    "birthday": "August 12",
     "height": "150cm",
     "hobbies": "Making games",
-    "voicedActor": "Momoka Terasawa",
-    "releaseDate": "05/13/2021"
+    "voiceActor": "Momoka Terasawa",
+    "releaseDate": "2021/05/13"
   }
 }

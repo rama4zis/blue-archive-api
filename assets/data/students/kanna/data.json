@@ -13,16 +13,17 @@
   "urban": "S",
   "outdoor": "D",
   "indoor": "B",
+  "releaseDate": "2023/01/31",
   "detailStudent": {
     "Character": "Kanna",
     "japaneseName": "尾刃 カンナ",
     "japaneseReading": "Ogata Kanna",
     "school": "Valkyrie",
     "age": "17",
-    "birthday": "09/07/2023",
+    "birthday": "September 7",
     "height": "166cm",
     "hobbies": "Reading, watching movies (detectives)",
-    "voicedActor": "Matsuoka Misato",
-    "releaseDate": "01/31/2023"
+    "voiceActor": "Matsuoka Misato",
+    "releaseDate": "2023/01/31"
   }
 }
