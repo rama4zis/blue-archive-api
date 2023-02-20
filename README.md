@@ -2,7 +2,7 @@
 
 This is a community API for Blue Archive. It is currently in development and is not ready for production use.
 
-An always up to date version of the API is available at https://blue-archive-api-production.up.railway.app
+An always up to date version of the API is available at https://blue-archive-api.vercel.app/
 
 # Technologies Used
 
@@ -12,7 +12,7 @@ Prisma, MySQL, Node.js, Express, TypeScript, Railway
 
 ## Student API
 
-BASE URL: `blue-archive-api-production.up.railway.app`
+BASE URL: `https://blue-archive-api.vercel.app/`
 
 ### Get all students
 
