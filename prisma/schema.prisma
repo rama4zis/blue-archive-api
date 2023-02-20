@@ -30,6 +30,4 @@ model Student {
   urban String
   outdoor String
   indoor String
-
-  image String?
 }

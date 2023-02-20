@@ -4,23 +4,11 @@
         "japaneseReading": "Kurimura Airi",
         "school": "Trinity",
         "age": "15",
-        "birthday": "01/30/2023",
+        "birthday": "January 30",
         "height": "160cm",
         "hobbies": "Looking for tasty sweets, tea parties",
-        "voicedActor": "Chikako Sugimura",
-        "releaseDate": "02/04/2021"
-    },
-    {
-        "Character": "Akane",
-        "japaneseName": "室笠 アカネ",
-        "japaneseReading": "Murokasa Akane",
-        "school": "Millennium",
-        "age": "16",
-        "birthday": "04/01/2023",
-        "height": "164cm",
-        "hobbies": "Cleaning",
-        "voicedActor": "Hara Yumi",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Chikako Sugimura",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Akane (Bunny Girl)",
@@ -28,11 +16,23 @@
         "japaneseReading": "Murokasa Akane",
         "school": "Millennium",
         "age": "16",
-        "birthday": "04/01/2023",
+        "birthday": "April 1",
         "height": "164cm",
         "hobbies": "Cleaning",
-        "voicedActor": "Hara Yumi",
-        "releaseDate": "10/12/2022"
+        "voiceActor": "Hara Yumi",
+        "releaseDate": "2022/10/12"
+    },
+    {
+        "Character": "Akane",
+        "japaneseName": "室笠 アカネ",
+        "japaneseReading": "Murokasa Akane",
+        "school": "Millennium",
+        "age": "16",
+        "birthday": "April 1",
+        "height": "164cm",
+        "hobbies": "Cleaning",
+        "voiceActor": "Hara Yumi",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Akari",
@@ -40,11 +40,11 @@
         "japaneseReading": "Wanibuchi Akari",
         "school": "Gehenna",
         "age": "17",
-        "birthday": "12/09/2023",
+        "birthday": "December 9",
         "height": "167cm",
         "hobbies": "Eating a lot",
-        "voicedActor": "Yūka Morishima",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Yūka Morishima",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Ako",
@@ -52,11 +52,11 @@
         "japaneseReading": "Amau Ako",
         "school": "Gehenna",
         "age": "17",
-        "birthday": "12/22/2023",
+        "birthday": "December 22",
         "height": "165cm",
         "hobbies": "President Hina",
-        "voicedActor": "Kouno Marika",
-        "releaseDate": "11/17/2021"
+        "voiceActor": "Kouno Marika",
+        "releaseDate": "2021/11/17"
     },
     {
         "Character": "Arisu",
@@ -64,23 +64,11 @@
         "japaneseReading": "Tendou Arisu",
         "school": "Millennium",
         "age": "??",
-        "birthday": "03/25/2023",
+        "birthday": "March 25",
         "height": "152cm",
         "hobbies": "Games (Especially RPGs)",
-        "voicedActor": "Minami Tanaka",
-        "releaseDate": "03/25/2021"
-    },
-    {
-        "Character": "Aru",
-        "japaneseName": "陸八魔 アル",
-        "japaneseReading": "Rikuhachima Aru",
-        "school": "Gehenna",
-        "age": "16",
-        "birthday": "03/12/2023",
-        "height": "160cm",
-        "hobbies": "Studying management",
-        "voicedActor": "Kondō Reina",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Minami Tanaka",
+        "releaseDate": "2021/03/25"
     },
     {
         "Character": "Aru (New Year)",
@@ -88,23 +76,23 @@
         "japaneseReading": "Rikuhachima Aru",
         "school": "Gehenna",
         "age": "16",
-        "birthday": "03/12/2023",
+        "birthday": "March 12",
         "height": "160cm",
         "hobbies": "Studying management",
-        "voicedActor": "Kondō Reina",
-        "releaseDate": "12/29/2021"
+        "voiceActor": "Kondō Reina",
+        "releaseDate": "2021/12/29"
     },
     {
-        "Character": "Asuna",
-        "japaneseName": "一之瀬 アスナ",
-        "japaneseReading": "Ichinose Asuna",
-        "school": "Millennium",
-        "age": "17",
-        "birthday": "03/24/2023",
-        "height": "167cm",
-        "hobbies": "Attacking",
-        "voicedActor": "Hasegawa Ikumi",
-        "releaseDate": "02/04/2021"
+        "Character": "Aru",
+        "japaneseName": "陸八魔 アル",
+        "japaneseReading": "Rikuhachima Aru",
+        "school": "Gehenna",
+        "age": "16",
+        "birthday": "March 12",
+        "height": "160cm",
+        "hobbies": "Studying management",
+        "voiceActor": "Kondō Reina",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Asuna (Bunny Girl)",
@@ -112,11 +100,23 @@
         "japaneseReading": "Ichinose Asuna",
         "school": "Millennium",
         "age": "17",
-        "birthday": "03/24/2023",
+        "birthday": "March 24",
         "height": "167cm",
         "hobbies": "Attacking",
-        "voicedActor": "Hasegawa Ikumi",
-        "releaseDate": "10/12/2021"
+        "voiceActor": "Hasegawa Ikumi",
+        "releaseDate": "2021/10/12"
+    },
+    {
+        "Character": "Asuna",
+        "japaneseName": "一之瀬 アスナ",
+        "japaneseReading": "Ichinose Asuna",
+        "school": "Millennium",
+        "age": "17",
+        "birthday": "March 24",
+        "height": "167cm",
+        "hobbies": "Attacking",
+        "voiceActor": "Hasegawa Ikumi",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Atsuko",
@@ -124,23 +124,11 @@
         "japaneseReading": "Hakari Atsuko",
         "school": "Arius",
         "age": "15",
-        "birthday": "01/20/2023",
+        "birthday": "January 20",
         "height": "158cm",
         "hobbies": "Tending to flowers",
-        "voicedActor": "Hanazawa Kana",
-        "releaseDate": "06/08/2022"
-    },
-    {
-        "Character": "Ayane",
-        "japaneseName": "奥空 アヤネ",
-        "japaneseReading": "Okusora Ayane",
-        "school": "Abydos",
-        "age": "15",
-        "birthday": "11/12/2023",
-        "height": "153cm",
-        "hobbies": "Keeping the accounts, collecting antiques",
-        "voicedActor": "Harada Sayaka",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Hanazawa Kana",
+        "releaseDate": "2022/06/08"
     },
     {
         "Character": "Ayane (Swimsuit)",
@@ -148,23 +136,23 @@
         "japaneseReading": "Okusora Ayane",
         "school": "Abydos",
         "age": "15",
-        "birthday": "11/12/2023",
+        "birthday": "November 12",
         "height": "153cm",
         "hobbies": "Keeping the accounts, collecting antiques",
-        "voicedActor": "Harada Sayaka",
-        "releaseDate": "06/22/2022"
+        "voiceActor": "Harada Sayaka",
+        "releaseDate": "2022/06/22"
     },
     {
-        "Character": "Azusa",
-        "japaneseName": "白洲 アズサ",
-        "japaneseReading": "Shirasu Azusa",
-        "school": "Trinity",
-        "age": "16",
-        "birthday": "12/26/2023",
-        "height": "149cm",
-        "hobbies": "None",
-        "voicedActor": "Risa Taneda",
-        "releaseDate": "05/27/2021"
+        "Character": "Ayane",
+        "japaneseName": "奥空 アヤネ",
+        "japaneseReading": "Okusora Ayane",
+        "school": "Abydos",
+        "age": "15",
+        "birthday": "November 12",
+        "height": "153cm",
+        "hobbies": "Keeping the accounts, collecting antiques",
+        "voiceActor": "Harada Sayaka",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Azusa (Swimsuit)",
@@ -172,23 +160,23 @@
         "japaneseReading": "Shirasu Azusa",
         "school": "Trinity",
         "age": "16",
-        "birthday": "12/26/2023",
+        "birthday": "December 26",
         "height": "149cm",
         "hobbies": "None",
-        "voicedActor": "Risa Taneda",
-        "releaseDate": "06/30/2021"
+        "voiceActor": "Risa Taneda",
+        "releaseDate": "2021/06/30"
     },
     {
-        "Character": "Cherino",
-        "japaneseName": "連河 チェリノ",
-        "japaneseReading": "Renkawa Cherino",
-        "school": "Red Winter",
-        "age": "??",
-        "birthday": "10/27/2023",
-        "height": "128cm",
-        "hobbies": "Purges, snowball fights",
-        "voicedActor": "Sakura Tange",
-        "releaseDate": "04/29/2021"
+        "Character": "Azusa",
+        "japaneseName": "白洲 アズサ",
+        "japaneseReading": "Shirasu Azusa",
+        "school": "Trinity",
+        "age": "16",
+        "birthday": "December 26",
+        "height": "149cm",
+        "hobbies": "None",
+        "voiceActor": "Risa Taneda",
+        "releaseDate": "2021/05/27"
     },
     {
         "Character": "Cherino (Hot Spring)",
@@ -196,11 +184,23 @@
         "japaneseReading": "Renkawa Cherino",
         "school": "Red Winter",
         "age": "??",
-        "birthday": "10/27/2023",
+        "birthday": "October 27",
         "height": "128cm",
         "hobbies": "Purges, snowball fights",
-        "voicedActor": "Sakura Tange",
-        "releaseDate": "11/30/2021"
+        "voiceActor": "Sakura Tange",
+        "releaseDate": "2021/11/30"
+    },
+    {
+        "Character": "Cherino",
+        "japaneseName": "連河 チェリノ",
+        "japaneseReading": "Renkawa Cherino",
+        "school": "Red Winter",
+        "age": "??",
+        "birthday": "October 27",
+        "height": "128cm",
+        "hobbies": "Purges, snowball fights",
+        "voiceActor": "Sakura Tange",
+        "releaseDate": "2021/04/29"
     },
     {
         "Character": "Chihiro",
@@ -208,23 +208,11 @@
         "japaneseReading": "Kagami Chihiro",
         "school": "Millennium",
         "age": "17",
-        "birthday": "04/26/2023",
+        "birthday": "April 26",
         "height": "160cm",
         "hobbies": "Shopping for electronics",
-        "voicedActor": "Hibiku Yamamura",
-        "releaseDate": "01/30/2022"
-    },
-    {
-        "Character": "Chinatsu",
-        "japaneseName": "火宮 チナツ",
-        "japaneseReading": "Hinomiya Chinatsu",
-        "school": "Gehenna",
-        "age": "15",
-        "birthday": "08/22/2023",
-        "height": "159cm",
-        "hobbies": "Reading philosophy books",
-        "voicedActor": "Kouzuki Haruka",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Hibiku Yamamura",
+        "releaseDate": "2022/01/30"
     },
     {
         "Character": "Chinatsu (Hot Spring)",
@@ -232,23 +220,23 @@
         "japaneseReading": "Hinomiya Chinatsu",
         "school": "Gehenna",
         "age": "15",
-        "birthday": "08/22/2023",
+        "birthday": "August 22",
         "height": "159cm",
         "hobbies": "Reading philosophy books",
-        "voicedActor": "Kouzuki Haruka",
-        "releaseDate": "11/30/2021"
+        "voiceActor": "Kouzuki Haruka",
+        "releaseDate": "2021/11/30"
     },
     {
-        "Character": "Chise",
-        "japaneseName": "和楽 チセ",
-        "japaneseReading": "Waraku Chise",
-        "school": "Hyakkiyako",
-        "age": "16",
-        "birthday": "07/13/2023",
+        "Character": "Chinatsu",
+        "japaneseName": "火宮 チナツ",
+        "japaneseReading": "Hinomiya Chinatsu",
+        "school": "Gehenna",
+        "age": "15",
+        "birthday": "August 22",
         "height": "159cm",
-        "hobbies": "Haiku",
-        "voicedActor": "Shimamura Yuu",
-        "releaseDate": "02/04/2021"
+        "hobbies": "Reading philosophy books",
+        "voiceActor": "Kouzuki Haruka",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Chise (Swimsuit)",
@@ -256,11 +244,23 @@
         "japaneseReading": "Waraku Chise",
         "school": "Hyakkiyako",
         "age": "16",
-        "birthday": "07/13/2023",
+        "birthday": "July 13",
         "height": "159cm",
         "hobbies": "Haiku",
-        "voicedActor": "Shimamura Yuu",
-        "releaseDate": "07/25/2022"
+        "voiceActor": "Shimamura Yuu",
+        "releaseDate": "2022/07/25"
+    },
+    {
+        "Character": "Chise",
+        "japaneseName": "和楽 チセ",
+        "japaneseReading": "Waraku Chise",
+        "school": "Hyakkiyako",
+        "age": "16",
+        "birthday": "July 13",
+        "height": "159cm",
+        "hobbies": "Haiku",
+        "voiceActor": "Shimamura Yuu",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Eimi",
@@ -268,11 +268,11 @@
         "japaneseReading": "Izumimoto Eimi",
         "school": "Millennium",
         "age": "15",
-        "birthday": "05/01/2023",
+        "birthday": "May 1",
         "height": "167cm",
         "hobbies": "Zoning out, listening to music",
-        "voicedActor": "Matsunaga Akane",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Matsunaga Akane",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Fubuki",
@@ -280,23 +280,11 @@
         "japaneseReading": "Nemugaki Fubuki",
         "school": "Valkyrie",
         "age": "15",
-        "birthday": "10/21/2023",
+        "birthday": "October 21",
         "height": "148cm",
         "hobbies": "Crosswords, radio",
-        "voicedActor": "Emi Hirayama",
-        "releaseDate": "01/26/2022"
-    },
-    {
-        "Character": "Fuuka",
-        "japaneseName": "愛清 フウカ",
-        "japaneseReading": "Aikiyo Fuuka",
-        "school": "Gehenna",
-        "age": "16",
-        "birthday": "04/30/2023",
-        "height": "159cm",
-        "hobbies": "Home cooking, making bento",
-        "voicedActor": "Fairouz Ai",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Emi Hirayama",
+        "releaseDate": "2022/01/26"
     },
     {
         "Character": "Fuuka (New Year)",
@@ -304,23 +292,23 @@
         "japaneseReading": "Aikiyo Fuuka",
         "school": "Gehenna",
         "age": "16",
-        "birthday": "04/30/2023",
+        "birthday": "April 30",
         "height": "159cm",
         "hobbies": "Home cooking, making bento",
-        "voicedActor": "Fairouz Ai",
-        "releaseDate": "12/28/2022"
+        "voiceActor": "Fairouz Ai",
+        "releaseDate": "2022/12/28"
     },
     {
-        "Character": "Hanae",
-        "japaneseName": "朝顔 ハナエ",
-        "japaneseReading": "Asagao Hanae",
-        "school": "Trinity",
-        "age": "15",
-        "birthday": "05/12/2023",
-        "height": "150cm",
-        "hobbies": "Dance, cheerleading",
-        "voicedActor": "Yūki Kana",
-        "releaseDate": "02/04/2021"
+        "Character": "Fuuka",
+        "japaneseName": "愛清 フウカ",
+        "japaneseReading": "Aikiyo Fuuka",
+        "school": "Gehenna",
+        "age": "16",
+        "birthday": "April 30",
+        "height": "159cm",
+        "hobbies": "Home cooking, making bento",
+        "voiceActor": "Fairouz Ai",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Hanae (Christmas)",
@@ -328,11 +316,23 @@
         "japaneseReading": "Asagao Hanae",
         "school": "Trinity",
         "age": "15",
-        "birthday": "05/12/2023",
+        "birthday": "May 12",
         "height": "150cm",
         "hobbies": "Dance, cheerleading",
-        "voicedActor": "Yūki Kana",
-        "releaseDate": "12/14/2022"
+        "voiceActor": "Yūki Kana",
+        "releaseDate": "2022/12/14"
+    },
+    {
+        "Character": "Hanae",
+        "japaneseName": "朝顔 ハナエ",
+        "japaneseReading": "Asagao Hanae",
+        "school": "Trinity",
+        "age": "15",
+        "birthday": "May 12",
+        "height": "150cm",
+        "hobbies": "Dance, cheerleading",
+        "voiceActor": "Yūki Kana",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Hanako",
@@ -340,11 +340,11 @@
         "japaneseReading": "Urawa Hanako",
         "school": "Trinity",
         "age": "16",
-        "birthday": "01/03/2023",
+        "birthday": "January 3",
         "height": "161cm",
         "hobbies": "Wandering around",
-        "voicedActor": "Moe Toyota",
-        "releaseDate": "05/27/2021"
+        "voiceActor": "Moe Toyota",
+        "releaseDate": "2021/05/27"
     },
     {
         "Character": "Hare",
@@ -352,11 +352,11 @@
         "japaneseReading": "Omagari Hare",
         "school": "Millennium",
         "age": "16",
-        "birthday": "04/19/2023",
+        "birthday": "April 19",
         "height": "153cm",
         "hobbies": "Video games, watching movies",
-        "voicedActor": "Kaihara Reina",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Kaihara Reina",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Haruka",
@@ -364,23 +364,11 @@
         "japaneseReading": "Igusa Haruka",
         "school": "Gehenna",
         "age": "15",
-        "birthday": "05/13/2023",
+        "birthday": "May 13",
         "height": "157cm",
         "hobbies": "Growing weeds",
-        "voicedActor": "Ishitobi Erika",
-        "releaseDate": "02/04/2021"
-    },
-    {
-        "Character": "Haruna",
-        "japaneseName": "黒舘 ハルナ",
-        "japaneseReading": "Kurodate Haruna",
-        "school": "Gehenna",
-        "age": "17",
-        "birthday": "03/01/2023",
-        "height": "163cm",
-        "hobbies": "Looking for delicious things",
-        "voicedActor": "Tadokoro Azusa",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Ishitobi Erika",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Haruna (New Year)",
@@ -388,23 +376,23 @@
         "japaneseReading": "Kurodate Haruna",
         "school": "Gehenna",
         "age": "17",
-        "birthday": "03/01/2023",
+        "birthday": "March 1",
         "height": "163cm",
         "hobbies": "Looking for delicious things",
-        "voicedActor": "Tadokoro Azusa",
-        "releaseDate": "12/28/2022"
+        "voiceActor": "Tadokoro Azusa",
+        "releaseDate": "2022/12/28"
     },
     {
-        "Character": "Hasumi",
-        "japaneseName": "羽川 ハスミ",
-        "japaneseReading": "Hanekawa Hasumi",
-        "school": "Trinity",
+        "Character": "Haruna",
+        "japaneseName": "黒舘 ハルナ",
+        "japaneseReading": "Kurodate Haruna",
+        "school": "Gehenna",
         "age": "17",
-        "birthday": "12/12/2023",
-        "height": "179cm",
-        "hobbies": "Reading, watching people",
-        "voicedActor": "Asami Seto",
-        "releaseDate": "02/04/2021"
+        "birthday": "March 1",
+        "height": "163cm",
+        "hobbies": "Looking for delicious things",
+        "voiceActor": "Tadokoro Azusa",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Hasumi (Sportswear)",
@@ -412,11 +400,23 @@
         "japaneseReading": "Hanekawa Hasumi",
         "school": "Trinity",
         "age": "17",
-        "birthday": "12/12/2023",
+        "birthday": "December 12",
         "height": "179cm",
         "hobbies": "Reading, watching people",
-        "voicedActor": "Asami Seto",
-        "releaseDate": "10/26/2022"
+        "voiceActor": "Asami Seto",
+        "releaseDate": "2022/10/26"
+    },
+    {
+        "Character": "Hasumi",
+        "japaneseName": "羽川 ハスミ",
+        "japaneseReading": "Hanekawa Hasumi",
+        "school": "Trinity",
+        "age": "17",
+        "birthday": "December 12",
+        "height": "179cm",
+        "hobbies": "Reading, watching people",
+        "voiceActor": "Asami Seto",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Hatsune Miku",
@@ -424,23 +424,11 @@
         "japaneseReading": "Hatsune Hatsune Miku",
         "school": "ETC",
         "age": "16",
-        "birthday": "08/31/2023",
+        "birthday": "August 31",
         "height": "158cm",
         "hobbies": "Singing, dancing",
-        "voicedActor": "Saki Fujita",
-        "releaseDate": "11/03/2021"
-    },
-    {
-        "Character": "Hibiki",
-        "japaneseName": "猫塚 ヒビキ",
-        "japaneseReading": "Nekozuka Hibiki",
-        "school": "Millennium",
-        "age": "15",
-        "birthday": "04/02/2023",
-        "height": "154cm",
-        "hobbies": "Shopping, cosplay",
-        "voicedActor": "Nazuka Kaori",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Saki Fujita",
+        "releaseDate": "2021/11/03"
     },
     {
         "Character": "Hibiki (Cheerleader)",
@@ -448,23 +436,23 @@
         "japaneseReading": "Nekozuka Hibiki",
         "school": "Millennium",
         "age": "15",
-        "birthday": "04/02/2023",
+        "birthday": "April 2",
         "height": "154cm",
         "hobbies": "Shopping, cosplay",
-        "voicedActor": "Nazuka Kaori",
-        "releaseDate": "09/28/2022"
+        "voiceActor": "Nazuka Kaori",
+        "releaseDate": "2022/09/28"
     },
     {
-        "Character": "Hifumi",
-        "japaneseName": "阿慈谷 ヒフミ",
-        "japaneseReading": "Ajitani Hifumi",
-        "school": "Trinity",
-        "age": "16",
-        "birthday": "11/27/2023",
-        "height": "158cm",
-        "hobbies": "Collecting Peroro goods, collecting cute things, shopping, giving advice",
-        "voicedActor": "Hondo Kaede",
-        "releaseDate": "02/04/2021"
+        "Character": "Hibiki",
+        "japaneseName": "猫塚 ヒビキ",
+        "japaneseReading": "Nekozuka Hibiki",
+        "school": "Millennium",
+        "age": "15",
+        "birthday": "April 2",
+        "height": "154cm",
+        "hobbies": "Shopping, cosplay",
+        "voiceActor": "Nazuka Kaori",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Hifumi (Swimsuit)",
@@ -472,11 +460,23 @@
         "japaneseReading": "Ajitani Hifumi",
         "school": "Trinity",
         "age": "16",
-        "birthday": "11/27/2023",
+        "birthday": "November 27",
         "height": "158cm",
         "hobbies": "Collecting Peroro goods, collecting cute things, shopping, giving advice",
-        "voicedActor": "Hondo Kaede",
-        "releaseDate": "07/15/2021"
+        "voiceActor": "Hondo Kaede",
+        "releaseDate": "2021/07/15"
+    },
+    {
+        "Character": "Hifumi",
+        "japaneseName": "阿慈谷 ヒフミ",
+        "japaneseReading": "Ajitani Hifumi",
+        "school": "Trinity",
+        "age": "16",
+        "birthday": "November 27",
+        "height": "158cm",
+        "hobbies": "Collecting Peroro goods, collecting cute things, shopping, giving advice",
+        "voiceActor": "Hondo Kaede",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Himari",
@@ -484,23 +484,11 @@
         "japaneseReading": "Akeboshi Himari",
         "school": "Millennium",
         "age": "17",
-        "birthday": "12/10/2023",
+        "birthday": "December 10",
         "height": "162cm",
         "hobbies": "Fortune-telling, occult in general",
-        "voicedActor": "ゆかな (Yukana)",
-        "releaseDate": "11/16/2022"
-    },
-    {
-        "Character": "Hina",
-        "japaneseName": "空崎 ヒナ",
-        "japaneseReading": "Sorasaki Hina",
-        "school": "Gehenna",
-        "age": "17",
-        "birthday": "02/19/2023",
-        "height": "142cm",
-        "hobbies": "Sleeping, resting",
-        "voicedActor": "Hirohashi Ryō",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "ゆかな (Yukana)",
+        "releaseDate": "2022/11/16"
     },
     {
         "Character": "Hina (Swimsuit)",
@@ -508,11 +496,23 @@
         "japaneseReading": "Sorasaki Hina",
         "school": "Gehenna",
         "age": "17",
-        "birthday": "02/19/2023",
+        "birthday": "February 19",
         "height": "142cm",
         "hobbies": "Sleeping, resting",
-        "voicedActor": "Hirohashi Ryō",
-        "releaseDate": "07/29/2021"
+        "voiceActor": "Hirohashi Ryō",
+        "releaseDate": "2021/07/29"
+    },
+    {
+        "Character": "Hina",
+        "japaneseName": "空崎 ヒナ",
+        "japaneseReading": "Sorasaki Hina",
+        "school": "Gehenna",
+        "age": "17",
+        "birthday": "February 19",
+        "height": "142cm",
+        "hobbies": "Sleeping, resting",
+        "voiceActor": "Hirohashi Ryō",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Hinata",
@@ -520,11 +520,11 @@
         "japaneseReading": "Wakaba Hinata",
         "school": "Trinity",
         "age": "17",
-        "birthday": "05/17/2023",
+        "birthday": "May 17",
         "height": "166cm",
         "hobbies": "Prayer, tidying up",
-        "voicedActor": "Rina Hidaka",
-        "releaseDate": "02/23/2022"
+        "voiceActor": "Rina Hidaka",
+        "releaseDate": "2022/02/23"
     },
     {
         "Character": "Hiyori",
@@ -532,23 +532,11 @@
         "japaneseReading": "Tsuchinaga Hiyori",
         "school": "Arius",
         "age": "16",
-        "birthday": "01/08/2023",
+        "birthday": "January 8",
         "height": "155cm",
         "hobbies": "Collecting magazines",
-        "voicedActor": "Mai Nakahara",
-        "releaseDate": "05/24/2022"
-    },
-    {
-        "Character": "Hoshino",
-        "japaneseName": "小鳥遊 ホシノ",
-        "japaneseReading": "Takanashi Hoshino",
-        "school": "Abydos",
-        "age": "17",
-        "birthday": "01/02/2023",
-        "height": "145cm",
-        "hobbies": "Afternoon naps, lazing around",
-        "voicedActor": "Hanamori Yumiri",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Mai Nakahara",
+        "releaseDate": "2022/05/24"
     },
     {
         "Character": "Hoshino (Swimsuit)",
@@ -556,23 +544,23 @@
         "japaneseReading": "Takanashi Hoshino",
         "school": "Abydos",
         "age": "17",
-        "birthday": "01/02/2023",
+        "birthday": "January 2",
         "height": "145cm",
         "hobbies": "Afternoon naps, lazing around",
-        "voicedActor": "Hanamori Yumiri",
-        "releaseDate": "07/20/2022"
+        "voiceActor": "Hanamori Yumiri",
+        "releaseDate": "2022/07/20"
     },
     {
-        "Character": "Iori",
-        "japaneseName": "銀鏡 イオリ",
-        "japaneseReading": "Shiromi Iori",
-        "school": "Gehenna",
-        "age": "16",
-        "birthday": "11/08/2023",
-        "height": "157cm",
-        "hobbies": "Patrolling, raising her voice",
-        "voicedActor": "Sakura Ayane",
-        "releaseDate": "02/04/2021"
+        "Character": "Hoshino",
+        "japaneseName": "小鳥遊 ホシノ",
+        "japaneseReading": "Takanashi Hoshino",
+        "school": "Abydos",
+        "age": "17",
+        "birthday": "January 2",
+        "height": "145cm",
+        "hobbies": "Afternoon naps, lazing around",
+        "voiceActor": "Hanamori Yumiri",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Iori (Swimsuit)",
@@ -580,11 +568,23 @@
         "japaneseReading": "Shiromi Iori",
         "school": "Gehenna",
         "age": "16",
-        "birthday": "11/08/2023",
+        "birthday": "November 8",
         "height": "157cm",
         "hobbies": "Patrolling, raising her voice",
-        "voicedActor": "Sakura Ayane",
-        "releaseDate": "07/29/2021"
+        "voiceActor": "Sakura Ayane",
+        "releaseDate": "2021/07/29"
+    },
+    {
+        "Character": "Iori",
+        "japaneseName": "銀鏡 イオリ",
+        "japaneseReading": "Shiromi Iori",
+        "school": "Gehenna",
+        "age": "16",
+        "birthday": "November 8",
+        "height": "157cm",
+        "hobbies": "Patrolling, raising her voice",
+        "voiceActor": "Sakura Ayane",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Iroha",
@@ -592,23 +592,11 @@
         "japaneseReading": "Natsume Iroha",
         "school": "Gehenna",
         "age": "16",
-        "birthday": "11/16/2023",
+        "birthday": "November 16",
         "height": "151cm",
         "hobbies": "Reading, skipping classes",
-        "voicedActor": "Misato Fukuen",
-        "releaseDate": "04/27/2022"
-    },
-    {
-        "Character": "Izumi",
-        "japaneseName": "獅子堂 イズミ",
-        "japaneseReading": "Shishidō Izumi",
-        "school": "Gehenna",
-        "age": "16",
-        "birthday": "05/11/2023",
-        "height": "161cm",
-        "hobbies": "Making and eating strange foods",
-        "voicedActor": "Kubo Yurika",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Misato Fukuen",
+        "releaseDate": "2022/04/27"
     },
     {
         "Character": "Izumi (Swimsuit)",
@@ -616,23 +604,23 @@
         "japaneseReading": "Shishidō Izumi",
         "school": "Gehenna",
         "age": "16",
-        "birthday": "05/11/2023",
+        "birthday": "May 11",
         "height": "161cm",
         "hobbies": "Making and eating strange foods",
-        "voicedActor": "Kubo Yurika",
-        "releaseDate": "07/29/2021"
+        "voiceActor": "Kubo Yurika",
+        "releaseDate": "2021/07/29"
     },
     {
-        "Character": "Izuna",
-        "japaneseName": "久田 イズナ",
-        "japaneseReading": "Kuda Izuna",
-        "school": "Hyakkiyako",
-        "age": "15",
-        "birthday": "12/16/2023",
-        "height": "155cm",
-        "hobbies": "Studying ninja arts, escorting her master",
-        "voicedActor": "Kana Asumi",
-        "releaseDate": "02/25/2021"
+        "Character": "Izumi",
+        "japaneseName": "獅子堂 イズミ",
+        "japaneseReading": "Shishidō Izumi",
+        "school": "Gehenna",
+        "age": "16",
+        "birthday": "May 11",
+        "height": "161cm",
+        "hobbies": "Making and eating strange foods",
+        "voiceActor": "Kubo Yurika",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Izuna (Swimsuit)",
@@ -640,23 +628,23 @@
         "japaneseReading": "Kuda Izuna",
         "school": "Hyakkiyako",
         "age": "15",
-        "birthday": "12/16/2023",
+        "birthday": "December 16",
         "height": "155cm",
         "hobbies": "Studying ninja arts, escorting her master",
-        "voicedActor": "Kana Asumi",
-        "releaseDate": "07/25/2022"
+        "voiceActor": "Kana Asumi",
+        "releaseDate": "2022/07/25"
     },
     {
-        "Character": "Junko",
-        "japaneseName": "赤司 ジュンコ",
-        "japaneseReading": "Akashi Junko",
-        "school": "Gehenna",
+        "Character": "Izuna",
+        "japaneseName": "久田 イズナ",
+        "japaneseReading": "Kuda Izuna",
+        "school": "Hyakkiyako",
         "age": "15",
-        "birthday": "12/27/2023",
-        "height": "149cm",
-        "hobbies": "Gourmet tour",
-        "voicedActor": "Kanemoto Hisako",
-        "releaseDate": "02/04/2021"
+        "birthday": "December 16",
+        "height": "155cm",
+        "hobbies": "Studying ninja arts, escorting her master",
+        "voiceActor": "Kana Asumi",
+        "releaseDate": "2021/02/25"
     },
     {
         "Character": "Junko (New Year)",
@@ -664,11 +652,23 @@
         "japaneseReading": "Akashi Junko",
         "school": "Gehenna",
         "age": "15",
-        "birthday": "12/27/2023",
+        "birthday": "December 27",
         "height": "149cm",
         "hobbies": "Gourmet tour",
-        "voicedActor": "Kanemoto Hisako",
-        "releaseDate": "12/28/2022"
+        "voiceActor": "Kanemoto Hisako",
+        "releaseDate": "2022/12/28"
+    },
+    {
+        "Character": "Junko",
+        "japaneseName": "赤司 ジュンコ",
+        "japaneseReading": "Akashi Junko",
+        "school": "Gehenna",
+        "age": "15",
+        "birthday": "December 27",
+        "height": "149cm",
+        "hobbies": "Gourmet tour",
+        "voiceActor": "Kanemoto Hisako",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Juri",
@@ -676,11 +676,11 @@
         "japaneseReading": "Ushimaki Juri",
         "school": "Gehenna",
         "age": "15",
-        "birthday": "10/20/2023",
+        "birthday": "October 20",
         "height": "170cm",
         "hobbies": "Self-styled culinary research",
-        "voicedActor": "Tanabe Rui",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Tanabe Rui",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Kaede",
@@ -688,11 +688,11 @@
         "japaneseReading": "Isami Kaede",
         "school": "Hyakkiyako",
         "age": "15",
-        "birthday": "07/09/2023",
+        "birthday": "July 9",
         "height": "142cm",
         "hobbies": "Mischief (she tries to hold back as much as possible), catching beetles",
-        "voicedActor": "Emiri Kato",
-        "releaseDate": "04/27/2022"
+        "voiceActor": "Emiri Kato",
+        "releaseDate": "2022/04/27"
     },
     {
         "Character": "Kanna",
@@ -700,23 +700,11 @@
         "japaneseReading": "Ogata Kanna",
         "school": "Valkyrie",
         "age": "17",
-        "birthday": "09/07/2023",
+        "birthday": "September 7",
         "height": "166cm",
         "hobbies": "Reading, watching movies (detectives)",
-        "voicedActor": "Matsuoka Misato",
-        "releaseDate": "01/31/2023"
-    },
-    {
-        "Character": "Karin",
-        "japaneseName": "角楯 カリン",
-        "japaneseReading": "Kakudate Karin",
-        "school": "Millennium",
-        "age": "16",
-        "birthday": "02/02/2023",
-        "height": "170cm",
-        "hobbies": "Cleaning",
-        "voicedActor": "Numakura Manami",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Matsuoka Misato",
+        "releaseDate": "2023/01/31"
     },
     {
         "Character": "Karin (Bunny Girl)",
@@ -724,11 +712,23 @@
         "japaneseReading": "Kakudate Karin",
         "school": "Millennium",
         "age": "16",
-        "birthday": "02/02/2023",
+        "birthday": "February 2",
         "height": "170cm",
         "hobbies": "Cleaning",
-        "voicedActor": "Numakura Manami",
-        "releaseDate": "09/29/2021"
+        "voiceActor": "Numakura Manami",
+        "releaseDate": "2021/09/29"
+    },
+    {
+        "Character": "Karin",
+        "japaneseName": "角楯 カリン",
+        "japaneseReading": "Kakudate Karin",
+        "school": "Millennium",
+        "age": "16",
+        "birthday": "February 2",
+        "height": "170cm",
+        "hobbies": "Cleaning",
+        "voiceActor": "Numakura Manami",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Kayoko",
@@ -736,11 +736,11 @@
         "japaneseReading": "Onikata Kayoko",
         "school": "Gehenna",
         "age": "18",
-        "birthday": "03/17/2023",
+        "birthday": "March 17",
         "height": "157cm",
         "hobbies": "Collecting CDs",
-        "voicedActor": "Fujī Yukiyo",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Fujī Yukiyo",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Kazusa",
@@ -748,11 +748,11 @@
         "japaneseReading": "Kyoyama Kazusa",
         "school": "Trinity",
         "age": "15",
-        "birthday": "08/05/2023",
+        "birthday": "August 5",
         "height": "155cm",
         "hobbies": "Eating \"regular\" sweets",
-        "voicedActor": "Natsuyoshi Yuuko",
-        "releaseDate": "08/24/2022"
+        "voiceActor": "Natsuyoshi Yuuko",
+        "releaseDate": "2022/08/24"
     },
     {
         "Character": "Kirino",
@@ -760,11 +760,11 @@
         "japaneseReading": "Nakatsukasa Kirino",
         "school": "Valkyrie",
         "age": "15",
-        "birthday": "10/22/2023",
+        "birthday": "October 22",
         "height": "161cm",
         "hobbies": "Eating on the go",
-        "voicedActor": "Nakajima Yui",
-        "releaseDate": "08/26/2021"
+        "voiceActor": "Nakajima Yui",
+        "releaseDate": "2021/08/26"
     },
     {
         "Character": "Koharu",
@@ -772,11 +772,11 @@
         "japaneseReading": "Shimoe Koharu",
         "school": "Trinity",
         "age": "15",
-        "birthday": "04/16/2023",
+        "birthday": "April 16",
         "height": "148cm",
         "hobbies": "Daydreaming, delusions, collecting lewd magazines",
-        "voicedActor": "Hikaru Akao",
-        "releaseDate": "06/10/2021"
+        "voiceActor": "Hikaru Akao",
+        "releaseDate": "2021/06/10"
     },
     {
         "Character": "Kokona",
@@ -784,11 +784,11 @@
         "japaneseReading": "Sunohara Kokona",
         "school": "Shanhaijing",
         "age": "11",
-        "birthday": "06/01/2023",
+        "birthday": "June 1",
         "height": "139cm",
         "hobbies": "Reading picture books",
-        "voicedActor": "Igarashi Hiromi",
-        "releaseDate": "09/21/2022"
+        "voiceActor": "Igarashi Hiromi",
+        "releaseDate": "2022/09/21"
     },
     {
         "Character": "Kotama",
@@ -796,11 +796,11 @@
         "japaneseReading": "Otose Kotama",
         "school": "Millennium",
         "age": "17",
-        "birthday": "01/05/2023",
+        "birthday": "January 5",
         "height": "158cm",
         "hobbies": "Radio communication, wiretapping",
-        "voicedActor": "Takagawa Mina",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Takagawa Mina",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Kotori",
@@ -808,11 +808,11 @@
         "japaneseReading": "Toyomi Kotori",
         "school": "Millennium",
         "age": "15",
-        "birthday": "12/31/2023",
+        "birthday": "December 31",
         "height": "151cm",
         "hobbies": "Talking",
-        "voicedActor": "Shinohara Narumi",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Shinohara Narumi",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Maki",
@@ -820,23 +820,11 @@
         "japaneseReading": "Konuri Maki",
         "school": "Millennium",
         "age": "15",
-        "birthday": "08/01/2023",
+        "birthday": "August 1",
         "height": "149cm",
         "hobbies": "Graffiti, video games",
-        "voicedActor": "Mikami Shiori",
-        "releaseDate": "02/04/2021"
-    },
-    {
-        "Character": "Mari",
-        "japaneseName": "伊落 マリー",
-        "japaneseReading": "Iochi Mari",
-        "school": "Trinity",
-        "age": "15",
-        "birthday": "09/12/2023",
-        "height": "151cm",
-        "hobbies": "Prayer, thinking",
-        "voicedActor": "Ozawa Ari",
-        "releaseDate": "10/27/2021"
+        "voiceActor": "Mikami Shiori",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Mari (Sportswear)",
@@ -844,11 +832,23 @@
         "japaneseReading": "Iochi Mari",
         "school": "Trinity",
         "age": "15",
-        "birthday": "09/12/2023",
+        "birthday": "September 12",
         "height": "151cm",
         "hobbies": "Prayer, thinking",
-        "voicedActor": "Ozawa Ari",
-        "releaseDate": "10/26/2022"
+        "voiceActor": "Ozawa Ari",
+        "releaseDate": "2022/10/26"
+    },
+    {
+        "Character": "Mari",
+        "japaneseName": "伊落 マリー",
+        "japaneseReading": "Iochi Mari",
+        "school": "Trinity",
+        "age": "15",
+        "birthday": "September 12",
+        "height": "151cm",
+        "hobbies": "Prayer, thinking",
+        "voiceActor": "Ozawa Ari",
+        "releaseDate": "2021/10/27"
     },
     {
         "Character": "Marina",
@@ -856,23 +856,11 @@
         "japaneseReading": "Ikekura Marina",
         "school": "Red Winter",
         "age": "16",
-        "birthday": "11/04/2023",
+        "birthday": "November 4",
         "height": "166cm",
         "hobbies": "Walks, charges",
-        "voicedActor": "Sachie Hirai",
-        "releaseDate": "03/08/2022"
-    },
-    {
-        "Character": "Mashiro",
-        "japaneseName": "静山 マシロ",
-        "japaneseReading": "Shizuyama Mashiro",
-        "school": "Trinity",
-        "age": "15",
-        "birthday": "06/05/2023",
-        "height": "155cm",
-        "hobbies": "Climbing to high places, keeping an observation diary",
-        "voicedActor": "Kitō Akari",
-        "releaseDate": "02/11/2021"
+        "voiceActor": "Sachie Hirai",
+        "releaseDate": "2022/03/08"
     },
     {
         "Character": "Mashiro (Swimsuit)",
@@ -880,11 +868,23 @@
         "japaneseReading": "Shizuyama Mashiro",
         "school": "Trinity",
         "age": "15",
-        "birthday": "06/05/2023",
+        "birthday": "June 5",
         "height": "155cm",
         "hobbies": "Climbing to high places, keeping an observation diary",
-        "voicedActor": "Akari Kitō",
-        "releaseDate": "06/30/2021"
+        "voiceActor": "Akari Kitō",
+        "releaseDate": "2021/06/30"
+    },
+    {
+        "Character": "Mashiro",
+        "japaneseName": "静山 マシロ",
+        "japaneseReading": "Shizuyama Mashiro",
+        "school": "Trinity",
+        "age": "15",
+        "birthday": "June 5",
+        "height": "155cm",
+        "hobbies": "Climbing to high places, keeping an observation diary",
+        "voiceActor": "Kitō Akari",
+        "releaseDate": "2021/02/11"
     },
     {
         "Character": "Megu",
@@ -892,11 +892,11 @@
         "japaneseReading": "Shimokura Megu",
         "school": "Gehenna",
         "age": "17",
-        "birthday": "04/25/2023",
+        "birthday": "April 25",
         "height": "164cm",
         "hobbies": "Demolition",
-        "voicedActor": "Aihara Arisa",
-        "releaseDate": "01/31/2023"
+        "voiceActor": "Aihara Arisa",
+        "releaseDate": "2023/01/31"
     },
     {
         "Character": "Michiru",
@@ -904,11 +904,11 @@
         "japaneseReading": "Chidori Michiru",
         "school": "Hyakkiyako",
         "age": "17",
-        "birthday": "02/22/2023",
+        "birthday": "February 22",
         "height": "153cm",
         "hobbies": "Inventing new ninjutsu and making videos",
-        "voicedActor": "Kaori Mizuhashi",
-        "releaseDate": "04/27/2022"
+        "voiceActor": "Kaori Mizuhashi",
+        "releaseDate": "2022/04/27"
     },
     {
         "Character": "Midori",
@@ -916,11 +916,11 @@
         "japaneseReading": "Saiba Midori",
         "school": "Millennium",
         "age": "15",
-        "birthday": "12/08/2023",
+        "birthday": "December 8",
         "height": "143cm",
         "hobbies": "Drawing pictures",
-        "voicedActor": "Takada Yūki",
-        "releaseDate": "04/08/2021"
+        "voiceActor": "Takada Yūki",
+        "releaseDate": "2021/04/08"
     },
     {
         "Character": "Mika",
@@ -928,11 +928,11 @@
         "japaneseReading": "Misono Mika",
         "school": "Trinity",
         "age": "17",
-        "birthday": "05/08/2023",
+        "birthday": "May 8",
         "height": "157cm",
         "hobbies": "Chatting, collecting accessories",
-        "voicedActor": "Tōyama Nao",
-        "releaseDate": "01/24/2023"
+        "voiceActor": "Tōyama Nao",
+        "releaseDate": "2023/01/24"
     },
     {
         "Character": "Mimori",
@@ -940,11 +940,11 @@
         "japaneseReading": "Mizuha Mimori",
         "school": "Hyakkiyako",
         "age": "16",
-        "birthday": "03/15/2023",
+        "birthday": "March 15",
         "height": "156cm",
         "hobbies": "Shojo manga, doing household chores",
-        "voicedActor": "Rie Tanaka",
-        "releaseDate": "02/09/2022"
+        "voiceActor": "Rie Tanaka",
+        "releaseDate": "2022/02/09"
     },
     {
         "Character": "Mine",
@@ -952,11 +952,11 @@
         "japaneseReading": "Aomori Mine",
         "school": "Trinity",
         "age": "17",
-        "birthday": "11/23/2023",
+        "birthday": "November 23",
         "height": "168cm",
         "hobbies": "Collecting medical supplies",
-        "voicedActor": "Horie Yui",
-        "releaseDate": "01/11/2023"
+        "voiceActor": "Horie Yui",
+        "releaseDate": "2023/01/11"
     },
     {
         "Character": "Misaki",
@@ -964,11 +964,11 @@
         "japaneseReading": "Imashino Misaki",
         "school": "Arius",
         "age": "16",
-        "birthday": "01/13/2023",
+        "birthday": "January 13",
         "height": "163cm",
         "hobbies": "Being alone",
-        "voicedActor": "Rio Tsuchiya",
-        "releaseDate": "05/24/2022"
+        "voiceActor": "Rio Tsuchiya",
+        "releaseDate": "2022/05/24"
     },
     {
         "Character": "Miyako",
@@ -976,11 +976,11 @@
         "japaneseReading": "Tsukiyuki Miyako",
         "school": "SRT",
         "age": "15",
-        "birthday": "01/07/2023",
+        "birthday": "January 7",
         "height": "156cm",
         "hobbies": "Watching animal-related videos",
-        "voicedActor": "Akane Fujita",
-        "releaseDate": "03/23/2022"
+        "voiceActor": "Akane Fujita",
+        "releaseDate": "2022/03/23"
     },
     {
         "Character": "Miyu",
@@ -988,11 +988,11 @@
         "japaneseReading": "Kasumizawa Miyu",
         "school": "SRT",
         "age": "15",
-        "birthday": "07/12/2023",
+        "birthday": "July 12",
         "height": "149cm",
         "hobbies": "Negative thoughts, escapism, pebbles hunting",
-        "voicedActor": "Yuko Goto",
-        "releaseDate": "04/06/2022"
+        "voiceActor": "Yuko Goto",
+        "releaseDate": "2022/04/06"
     },
     {
         "Character": "Moe",
@@ -1000,11 +1000,11 @@
         "japaneseReading": "Kazekura Moe",
         "school": "SRT",
         "age": "15",
-        "birthday": "09/13/2023",
+        "birthday": "September 13",
         "height": "163cm",
         "hobbies": "Fireworks",
-        "voicedActor": "Izawa Shiori",
-        "releaseDate": "08/24/2022"
+        "voiceActor": "Izawa Shiori",
+        "releaseDate": "2022/08/24"
     },
     {
         "Character": "Momoi",
@@ -1012,23 +1012,11 @@
         "japaneseReading": "Saiba Momoi",
         "school": "Millennium",
         "age": "15",
-        "birthday": "12/08/2023",
+        "birthday": "December 8",
         "height": "143cm",
         "hobbies": "Video games",
-        "voicedActor": "Tokui Sora",
-        "releaseDate": "04/08/2021"
-    },
-    {
-        "Character": "Mutsuki",
-        "japaneseName": "浅黄 ムツキ",
-        "japaneseReading": "Asagi Mutsuki",
-        "school": "Gehenna",
-        "age": "16",
-        "birthday": "07/29/2023",
-        "height": "144cm",
-        "hobbies": "Collecting bombs",
-        "voicedActor": "Ōkubo Rumi",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Tokui Sora",
+        "releaseDate": "2021/04/08"
     },
     {
         "Character": "Mutsuki (New Year)",
@@ -1036,11 +1024,23 @@
         "japaneseReading": "Asagi Mutsuki",
         "school": "Gehenna",
         "age": "16",
-        "birthday": "07/29/2023",
+        "birthday": "July 29",
         "height": "144cm",
         "hobbies": "Collecting bombs",
-        "voicedActor": "Ōkubo Rumi",
-        "releaseDate": "12/29/2021"
+        "voiceActor": "Ōkubo Rumi",
+        "releaseDate": "2021/12/29"
+    },
+    {
+        "Character": "Mutsuki",
+        "japaneseName": "浅黄 ムツキ",
+        "japaneseReading": "Asagi Mutsuki",
+        "school": "Gehenna",
+        "age": "16",
+        "birthday": "July 29",
+        "height": "144cm",
+        "hobbies": "Collecting bombs",
+        "voiceActor": "Ōkubo Rumi",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Natsu",
@@ -1048,23 +1048,11 @@
         "japaneseReading": "Yutori Natsu",
         "school": "Trinity",
         "age": "15",
-        "birthday": "12/04/2023",
+        "birthday": "December 4",
         "height": "152cm",
         "hobbies": "Romantic things, thinking",
-        "voicedActor": "Maria Naganawa",
-        "releaseDate": "10/27/2021"
-    },
-    {
-        "Character": "Neru",
-        "japaneseName": "美甘 ネル",
-        "japaneseReading": "Mikamo Neru",
-        "school": "Millennium",
-        "age": "17",
-        "birthday": "08/17/2023",
-        "height": "146cm",
-        "hobbies": "Winning",
-        "voicedActor": "Koshimizu Ami",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Maria Naganawa",
+        "releaseDate": "2021/10/27"
     },
     {
         "Character": "Neru (Bunny Girl)",
@@ -1072,11 +1060,23 @@
         "japaneseReading": "Mikamo Neru",
         "school": "Millennium",
         "age": "17",
-        "birthday": "08/17/2023",
+        "birthday": "August 17",
         "height": "146cm",
         "hobbies": "Winning",
-        "voicedActor": "Koshimizu Ami",
-        "releaseDate": "09/29/2021"
+        "voiceActor": "Koshimizu Ami",
+        "releaseDate": "2021/09/29"
+    },
+    {
+        "Character": "Neru",
+        "japaneseName": "美甘 ネル",
+        "japaneseReading": "Mikamo Neru",
+        "school": "Millennium",
+        "age": "17",
+        "birthday": "August 17",
+        "height": "146cm",
+        "hobbies": "Winning",
+        "voiceActor": "Koshimizu Ami",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Noa",
@@ -1084,23 +1084,11 @@
         "japaneseReading": "Ushio Noa",
         "school": "Millennium",
         "age": "16",
-        "birthday": "04/13/2023",
+        "birthday": "April 13",
         "height": "161cm",
         "hobbies": "Reading, reciting",
-        "voicedActor": "Suzushiro Sayumi",
-        "releaseDate": "09/28/2022"
-    },
-    {
-        "Character": "Nodoka",
-        "japaneseName": "天見 ノドカ",
-        "japaneseReading": "Amami Nodoka",
-        "school": "Red Winter",
-        "age": "16",
-        "birthday": "02/20/2023",
-        "height": "147cm",
-        "hobbies": "Astronomy",
-        "voicedActor": "Satou Satomi",
-        "releaseDate": "04/29/2021"
+        "voiceActor": "Suzushiro Sayumi",
+        "releaseDate": "2022/09/28"
     },
     {
         "Character": "Nodoka (Hot Spring)",
@@ -1108,23 +1096,23 @@
         "japaneseReading": "Amami Nodoka",
         "school": "Red Winter",
         "age": "16",
-        "birthday": "02/20/2023",
+        "birthday": "February 20",
         "height": "147cm",
         "hobbies": "Astronomy",
-        "voicedActor": "Satou Satomi",
-        "releaseDate": "12/15/2021"
+        "voiceActor": "Satou Satomi",
+        "releaseDate": "2021/12/15"
     },
     {
-        "Character": "Nonomi",
-        "japaneseName": "十六夜 ノノミ",
-        "japaneseReading": "Izayoi Nonomi",
-        "school": "Abydos",
+        "Character": "Nodoka",
+        "japaneseName": "天見 ノドカ",
+        "japaneseReading": "Amami Nodoka",
+        "school": "Red Winter",
         "age": "16",
-        "birthday": "09/01/2023",
-        "height": "160cm",
-        "hobbies": "Shopping",
-        "voicedActor": "Miura Chiyuki",
-        "releaseDate": "02/04/2021"
+        "birthday": "February 20",
+        "height": "147cm",
+        "hobbies": "Astronomy",
+        "voiceActor": "Satou Satomi",
+        "releaseDate": "2021/04/29"
     },
     {
         "Character": "Nonomi (Swimsuit)",
@@ -1132,11 +1120,23 @@
         "japaneseReading": "Izayoi Nonomi",
         "school": "Abydos",
         "age": "16",
-        "birthday": "09/01/2023",
+        "birthday": "September 1",
         "height": "160cm",
         "hobbies": "Shopping",
-        "voicedActor": "Miura Chiyuki",
-        "releaseDate": "06/22/2022"
+        "voiceActor": "Miura Chiyuki",
+        "releaseDate": "2022/06/22"
+    },
+    {
+        "Character": "Nonomi",
+        "japaneseName": "十六夜 ノノミ",
+        "japaneseReading": "Izayoi Nonomi",
+        "school": "Abydos",
+        "age": "16",
+        "birthday": "September 1",
+        "height": "160cm",
+        "hobbies": "Shopping",
+        "voiceActor": "Miura Chiyuki",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Pina",
@@ -1144,11 +1144,11 @@
         "japaneseReading": "Asahina Pina",
         "school": "Hyakkiyako",
         "age": "17",
-        "birthday": "11/03/2023",
+        "birthday": "November 3",
         "height": "165cm",
         "hobbies": "Watching yakuza movies",
-        "voicedActor": "Kido Ibuki",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Kido Ibuki",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Saki",
@@ -1156,11 +1156,11 @@
         "japaneseReading": "Sorai Saki",
         "school": "SRT",
         "age": "15",
-        "birthday": "04/09/2023",
+        "birthday": "April 9",
         "height": "161cm",
         "hobbies": "Firearms maintenance, gathering plants, etc.",
-        "voicedActor": "Akane Tomonaga",
-        "releaseDate": "03/23/2022"
+        "voiceActor": "Akane Tomonaga",
+        "releaseDate": "2022/03/23"
     },
     {
         "Character": "Sakurako",
@@ -1168,11 +1168,11 @@
         "japaneseReading": "Utazumi Sakurako",
         "school": "Trinity",
         "age": "17",
-        "birthday": "10/04/2023",
+        "birthday": "October 4",
         "height": "160cm",
         "hobbies": "Prayer",
-        "voicedActor": "Kakuma Ai",
-        "releaseDate": "02/10/2023"
+        "voiceActor": "Kakuma Ai",
+        "releaseDate": "2023/02/10"
     },
     {
         "Character": "Saori",
@@ -1180,23 +1180,11 @@
         "japaneseReading": "Jomae Saori",
         "school": "Arius",
         "age": "17",
-        "birthday": "09/03/2023",
+        "birthday": "September 3",
         "height": "167cm",
         "hobbies": "None",
-        "voicedActor": "Ishigami Shizuka",
-        "releaseDate": "08/09/2022"
-    },
-    {
-        "Character": "Saya",
-        "japaneseName": "薬子 サヤ",
-        "japaneseReading": "Yakushi Saya",
-        "school": "Shanhaijing",
-        "age": "16",
-        "birthday": "01/03/2023",
-        "height": "149cm",
-        "hobbies": "Research",
-        "voicedActor": "Tamura Yukari",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Ishigami Shizuka",
+        "releaseDate": "2022/08/09"
     },
     {
         "Character": "Saya (Casual)",
@@ -1204,11 +1192,23 @@
         "japaneseReading": "Yakushi Saya",
         "school": "Shanhaijing",
         "age": "16",
-        "birthday": "01/03/2023",
+        "birthday": "January 3",
         "height": "149cm",
         "hobbies": "Research",
-        "voicedActor": "Tamura Yukari",
-        "releaseDate": "09/09/2021"
+        "voiceActor": "Tamura Yukari",
+        "releaseDate": "2021/09/09"
+    },
+    {
+        "Character": "Saya",
+        "japaneseName": "薬子 サヤ",
+        "japaneseReading": "Yakushi Saya",
+        "school": "Shanhaijing",
+        "age": "16",
+        "birthday": "January 3",
+        "height": "149cm",
+        "hobbies": "Research",
+        "voiceActor": "Tamura Yukari",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Sena",
@@ -1216,23 +1216,11 @@
         "japaneseReading": "Himuro Sena",
         "school": "Gehenna",
         "age": "17",
-        "birthday": "04/07/2023",
+        "birthday": "April 7",
         "height": "155cm",
         "hobbies": "Standing by, preparing medicine",
-        "voicedActor": "Saori Ōnishi",
-        "releaseDate": "01/30/2022"
-    },
-    {
-        "Character": "Serika",
-        "japaneseName": "黒見 セリカ",
-        "japaneseReading": "Kuromi Serika",
-        "school": "Abydos",
-        "age": "15",
-        "birthday": "06/25/2023",
-        "height": "153cm",
-        "hobbies": "Saving money, working part-time",
-        "voicedActor": "Ōhashi Ayaka",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Saori Ōnishi",
+        "releaseDate": "2022/01/30"
     },
     {
         "Character": "Serika (New Year)",
@@ -1240,23 +1228,23 @@
         "japaneseReading": "Kuromi Serika",
         "school": "Abydos",
         "age": "15",
-        "birthday": "06/25/2023",
+        "birthday": "June 25",
         "height": "153cm",
         "hobbies": "Saving money, working part-time",
-        "voicedActor": "Ōhashi Ayaka",
-        "releaseDate": "01/12/2022"
+        "voiceActor": "Ōhashi Ayaka",
+        "releaseDate": "2022/01/12"
     },
     {
-        "Character": "Serina",
-        "japaneseName": "鷲見 セリナ",
-        "japaneseReading": "Sumi Serina",
-        "school": "Trinity",
-        "age": "16",
-        "birthday": "01/06/2023",
-        "height": "156cm",
-        "hobbies": "Volunteering at hospitals",
-        "voicedActor": "Suzumoto Akiho",
-        "releaseDate": "02/04/2021"
+        "Character": "Serika",
+        "japaneseName": "黒見 セリカ",
+        "japaneseReading": "Kuromi Serika",
+        "school": "Abydos",
+        "age": "15",
+        "birthday": "June 25",
+        "height": "153cm",
+        "hobbies": "Saving money, working part-time",
+        "voiceActor": "Ōhashi Ayaka",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Serina (Christmas)",
@@ -1264,11 +1252,23 @@
         "japaneseReading": "Sumi Serina",
         "school": "Trinity",
         "age": "16",
-        "birthday": "01/06/2023",
+        "birthday": "January 6",
         "height": "156cm",
         "hobbies": "Volunteering at hospitals",
-        "voicedActor": "Suzumoto Akiho",
-        "releaseDate": "12/14/2022"
+        "voiceActor": "Suzumoto Akiho",
+        "releaseDate": "2022/12/14"
+    },
+    {
+        "Character": "Serina",
+        "japaneseName": "鷲見 セリナ",
+        "japaneseReading": "Sumi Serina",
+        "school": "Trinity",
+        "age": "16",
+        "birthday": "January 6",
+        "height": "156cm",
+        "hobbies": "Volunteering at hospitals",
+        "voiceActor": "Suzumoto Akiho",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Shigure",
@@ -1276,11 +1276,11 @@
         "japaneseReading": "Mayoi Shigure",
         "school": "Red Winter",
         "age": "16",
-        "birthday": "01/22/2023",
+        "birthday": "January 22",
         "height": "156cm",
         "hobbies": "Making homemade drinks",
-        "voicedActor": "Kawase Maki",
-        "releaseDate": "11/30/2022"
+        "voiceActor": "Kawase Maki",
+        "releaseDate": "2022/11/30"
     },
     {
         "Character": "Shimiko",
@@ -1288,23 +1288,11 @@
         "japaneseReading": "Endō Shimiko",
         "school": "Trinity",
         "age": "15",
-        "birthday": "11/30/2023",
+        "birthday": "November 30",
         "height": "157cm",
         "hobbies": "Reading, making bookmarks",
-        "voicedActor": "Tomita Miyu",
-        "releaseDate": "02/04/2021"
-    },
-    {
-        "Character": "Shiroko",
-        "japaneseName": "砂狼 シロコ",
-        "japaneseReading": "Sunaōkami Shiroko",
-        "school": "Abydos",
-        "age": "16",
-        "birthday": "05/16/2023",
-        "height": "156cm",
-        "hobbies": "Jogging, strength training, cycling",
-        "voicedActor": "Ogura Yui",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Tomita Miyu",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Shiroko (Riding)",
@@ -1312,23 +1300,23 @@
         "japaneseReading": "Sunaōkami Shiroko",
         "school": "Abydos",
         "age": "16",
-        "birthday": "05/16/2023",
+        "birthday": "May 16",
         "height": "156cm",
         "hobbies": "Jogging, strength training, cycling",
-        "voicedActor": "Ogura Yui",
-        "releaseDate": "08/12/2021"
+        "voiceActor": "Ogura Yui",
+        "releaseDate": "2021/08/12"
     },
     {
-        "Character": "Shizuko",
-        "japaneseName": "河和 シズコ",
-        "japaneseReading": "Kawawa Shizuko",
-        "school": "Hyakkiyako",
+        "Character": "Shiroko",
+        "japaneseName": "砂狼 シロコ",
+        "japaneseReading": "Sunaōkami Shiroko",
+        "school": "Abydos",
         "age": "16",
-        "birthday": "07/07/2023",
-        "height": "153cm",
-        "hobbies": "Serving customers with charm, attracting people into her shop",
-        "voicedActor": "Morigana Chitose",
-        "releaseDate": "02/25/2021"
+        "birthday": "May 16",
+        "height": "156cm",
+        "hobbies": "Jogging, strength training, cycling",
+        "voiceActor": "Ogura Yui",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Shizuko (Swimsuit)",
@@ -1336,23 +1324,23 @@
         "japaneseReading": "Kawawa Shizuko",
         "school": "Hyakkiyako",
         "age": "16",
-        "birthday": "07/07/2023",
+        "birthday": "July 7",
         "height": "153cm",
         "hobbies": "Serving customers with charm, attracting people into her shop",
-        "voicedActor": "Morigana Chitose",
-        "releaseDate": "07/20/2022"
+        "voiceActor": "Morigana Chitose",
+        "releaseDate": "2022/07/20"
     },
     {
-        "Character": "Shun",
-        "japaneseName": "春原 シュン",
-        "japaneseReading": "Sunohara Shun",
-        "school": "Shanhaijing",
-        "age": "Top secret",
-        "birthday": "02/05/2023",
-        "height": "174cm",
-        "hobbies": "Playing with children",
-        "voicedActor": "Itou Shizuka",
-        "releaseDate": "02/04/2021"
+        "Character": "Shizuko",
+        "japaneseName": "河和 シズコ",
+        "japaneseReading": "Kawawa Shizuko",
+        "school": "Hyakkiyako",
+        "age": "16",
+        "birthday": "July 7",
+        "height": "153cm",
+        "hobbies": "Serving customers with charm, attracting people into her shop",
+        "voiceActor": "Morigana Chitose",
+        "releaseDate": "2021/02/25"
     },
     {
         "Character": "Shun (Kid)",
@@ -1360,11 +1348,23 @@
         "japaneseReading": "Sunohara Shun",
         "school": "Shanhaijing",
         "age": "Top secret",
-        "birthday": "02/05/2023",
+        "birthday": "February 5",
         "height": "Wasn't measured",
         "hobbies": "Eating sweets",
-        "voicedActor": "Itou Shizuka",
-        "releaseDate": "08/26/2021"
+        "voiceActor": "Itou Shizuka",
+        "releaseDate": "2021/08/26"
+    },
+    {
+        "Character": "Shun",
+        "japaneseName": "春原 シュン",
+        "japaneseReading": "Sunohara Shun",
+        "school": "Shanhaijing",
+        "age": "Top secret",
+        "birthday": "February 5",
+        "height": "174cm",
+        "hobbies": "Playing with children",
+        "voiceActor": "Itou Shizuka",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Sumire",
@@ -1372,11 +1372,11 @@
         "japaneseReading": "Otohana Sumire",
         "school": "Millennium",
         "age": "16",
-        "birthday": "08/20/2023",
+        "birthday": "August 20",
         "height": "167cm",
         "hobbies": "Training, gardening",
-        "voicedActor": "Asami Imai",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Asami Imai",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Suzumi",
@@ -1384,11 +1384,11 @@
         "japaneseReading": "Morizuki Suzumi",
         "school": "Trinity",
         "age": "16",
-        "birthday": "08/31/2023",
+        "birthday": "August 31",
         "height": "162cm",
         "hobbies": "Patrolling, strolling",
-        "voicedActor": "Shamoto Haruka",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Shamoto Haruka",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Tomoe",
@@ -1396,11 +1396,11 @@
         "japaneseReading": "Sashiro Tomoe",
         "school": "Red Winter",
         "age": "17",
-        "birthday": "11/10/2023",
+        "birthday": "November 10",
         "height": "165cm",
         "hobbies": "Agitation",
-        "voicedActor": "Nanami Atsugi",
-        "releaseDate": "11/30/2021"
+        "voiceActor": "Nanami Atsugi",
+        "releaseDate": "2021/11/30"
     },
     {
         "Character": "Tsubaki",
@@ -1408,11 +1408,11 @@
         "japaneseReading": "Kasuga Tsubaki",
         "school": "Hyakkiyako",
         "age": "16",
-        "birthday": "02/03/2023",
+        "birthday": "February 3",
         "height": "162cm",
         "hobbies": "Afternoon naps",
-        "voicedActor": "Saho Shirasu",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Saho Shirasu",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Tsukuyo",
@@ -1420,23 +1420,11 @@
         "japaneseReading": "Ōno Tsukuyo",
         "school": "Hyakkiyako",
         "age": "15",
-        "birthday": "04/05/2023",
+        "birthday": "April 5",
         "height": "180cm",
         "hobbies": "Body replacement technique, holding breath",
-        "voicedActor": "Ayasa Goto",
-        "releaseDate": "05/11/2022"
-    },
-    {
-        "Character": "Tsurugi",
-        "japaneseName": "剣先 ツルギ",
-        "japaneseReading": "Kenzaki Tsurugi",
-        "school": "Trinity",
-        "age": "17",
-        "birthday": "06/24/2023",
-        "height": "162cm",
-        "hobbies": "Watching movies, reading (romance novels)",
-        "voicedActor": "Kobayashi Yū",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Ayasa Goto",
+        "releaseDate": "2022/05/11"
     },
     {
         "Character": "Tsurugi (Swimsuit)",
@@ -1444,11 +1432,23 @@
         "japaneseReading": "Kenzaki Tsurugi",
         "school": "Trinity",
         "age": "17",
-        "birthday": "06/24/2023",
+        "birthday": "June 24",
         "height": "162cm",
         "hobbies": "Watching movies, reading (romance novels)",
-        "voicedActor": "Kobayashi Yū",
-        "releaseDate": "06/30/2021"
+        "voiceActor": "Kobayashi Yū",
+        "releaseDate": "2021/06/30"
+    },
+    {
+        "Character": "Tsurugi",
+        "japaneseName": "剣先 ツルギ",
+        "japaneseReading": "Kenzaki Tsurugi",
+        "school": "Trinity",
+        "age": "17",
+        "birthday": "June 24",
+        "height": "162cm",
+        "hobbies": "Watching movies, reading (romance novels)",
+        "voiceActor": "Kobayashi Yū",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Ui",
@@ -1456,23 +1456,11 @@
         "japaneseReading": "Kozeki Ui",
         "school": "Trinity",
         "age": "17",
-        "birthday": "04/23/2023",
+        "birthday": "April 23",
         "height": "165cm",
         "hobbies": "Reading, book management, old book research",
-        "voicedActor": "Saori Goto",
-        "releaseDate": "02/23/2022"
-    },
-    {
-        "Character": "Utaha",
-        "japaneseName": "白石 ウタハ",
-        "japaneseReading": "Shiraishi Utaha",
-        "school": "Millennium",
-        "age": "17",
-        "birthday": "11/13/2023",
-        "height": "162cm",
-        "hobbies": "Inventing and repairing in general",
-        "voicedActor": "Aochi Nozomi",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Saori Goto",
+        "releaseDate": "2022/02/23"
     },
     {
         "Character": "Utaha (Cheerleader)",
@@ -1480,23 +1468,23 @@
         "japaneseReading": "Shiraishi Utaha",
         "school": "Millennium",
         "age": "17",
-        "birthday": "11/13/2023",
+        "birthday": "November 13",
         "height": "162cm",
         "hobbies": "Inventing and repairing in general",
-        "voicedActor": "Aochi Nozomi",
-        "releaseDate": "09/28/2022"
+        "voiceActor": "Aochi Nozomi",
+        "releaseDate": "2022/09/28"
     },
     {
-        "Character": "Wakamo",
-        "japaneseName": "狐坂 ワカモ",
-        "japaneseReading": "Kosaka Wakamo",
-        "school": "Hyakkiyako",
-        "age": "18",
-        "birthday": "04/03/2023",
-        "height": "161cm",
-        "hobbies": "Destruction, pillaging",
-        "voicedActor": "Chiwa Saito",
-        "releaseDate": "01/26/2022"
+        "Character": "Utaha",
+        "japaneseName": "白石 ウタハ",
+        "japaneseReading": "Shiraishi Utaha",
+        "school": "Millennium",
+        "age": "17",
+        "birthday": "November 13",
+        "height": "162cm",
+        "hobbies": "Inventing and repairing in general",
+        "voiceActor": "Aochi Nozomi",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Wakamo (Swimsuit)",
@@ -1504,11 +1492,23 @@
         "japaneseReading": "Kosaka Wakamo",
         "school": "Hyakkiyako",
         "age": "18",
-        "birthday": "04/03/2023",
+        "birthday": "April 3",
         "height": "161cm",
         "hobbies": "Destruction, pillaging",
-        "voicedActor": "Chiwa Saito",
-        "releaseDate": "06/22/2022"
+        "voiceActor": "Chiwa Saito",
+        "releaseDate": "2022/06/22"
+    },
+    {
+        "Character": "Wakamo",
+        "japaneseName": "狐坂 ワカモ",
+        "japaneseReading": "Kosaka Wakamo",
+        "school": "Hyakkiyako",
+        "age": "18",
+        "birthday": "April 3",
+        "height": "161cm",
+        "hobbies": "Destruction, pillaging",
+        "voiceActor": "Chiwa Saito",
+        "releaseDate": "2022/01/26"
     },
     {
         "Character": "Yoshimi",
@@ -1516,23 +1516,11 @@
         "japaneseReading": "Ibaraki Yoshimi",
         "school": "Trinity",
         "age": "15",
-        "birthday": "08/29/2023",
+        "birthday": "August 29",
         "height": "146cm",
         "hobbies": "All kinds of events, touring cafés for limited edition sweets",
-        "voicedActor": "Ayumi Mano",
-        "releaseDate": "02/04/2021"
-    },
-    {
-        "Character": "Yuuka",
-        "japaneseName": "早瀬 ユウカ",
-        "japaneseReading": "Hayase Yuuka",
-        "school": "Millennium",
-        "age": "16",
-        "birthday": "03/14/2023",
-        "height": "156cm",
-        "hobbies": "Calculating things",
-        "voicedActor": "Haruka Ran",
-        "releaseDate": "02/04/2021"
+        "voiceActor": "Ayumi Mano",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Yuuka (Sportswear)",
@@ -1540,11 +1528,23 @@
         "japaneseReading": "Hayase Yuuka",
         "school": "Millennium",
         "age": "16",
-        "birthday": "03/14/2023",
+        "birthday": "March 14",
         "height": "156cm",
         "hobbies": "Calculating things",
-        "voicedActor": "Haruka Ran",
-        "releaseDate": "10/26/2022"
+        "voiceActor": "Haruka Ran",
+        "releaseDate": "2022/10/26"
+    },
+    {
+        "Character": "Yuuka",
+        "japaneseName": "早瀬 ユウカ",
+        "japaneseReading": "Hayase Yuuka",
+        "school": "Millennium",
+        "age": "16",
+        "birthday": "March 14",
+        "height": "156cm",
+        "hobbies": "Calculating things",
+        "voiceActor": "Haruka Ran",
+        "releaseDate": "2021/02/04"
     },
     {
         "Character": "Yuzu",
@@ -1552,10 +1552,10 @@
         "japaneseReading": "Hanaoka Yuzu",
         "school": "Millennium",
         "age": "16",
-        "birthday": "08/12/2023",
+        "birthday": "August 12",
         "height": "150cm",
         "hobbies": "Making games",
-        "voicedActor": "Momoka Terasawa",
-        "releaseDate": "05/13/2021"
+        "voiceActor": "Momoka Terasawa",
+        "releaseDate": "2021/05/13"
     }
 ]
