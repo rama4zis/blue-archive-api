@@ -13,7 +13,7 @@ app.use(express.json());
 // home route 
 app.get('/', (_req, res: Response): void => {
     res.status(200).json({
-        message: 'Blue Archive Companion API'
+        message: 'Blue Archive Community API'
     });
 });
 
