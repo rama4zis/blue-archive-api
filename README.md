@@ -18,6 +18,8 @@ BASE URL: `blue-archive-api-production.up.railway.app`
 
 - Method: `GET`
 - Endpoint: `/api/v1/student`
+- Limit: 50 students per page
+- To get next page, add `?page=1` to the endpoint
 
 <details>
   <summary><em>Payload Example</em></summary>
