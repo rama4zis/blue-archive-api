@@ -6,7 +6,7 @@ An always up to date version of the API is available at https://blue-archive-api
 
 # Technologies Used
 
-Prisma, MySQL, Node.js, Express, TypeScript, Railway
+Prisma, MySQL, Node.js, Express, TypeScript, Vercel
 
 # Usage
 
